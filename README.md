@@ -8,7 +8,7 @@
 <b>CMD</b> + <b>F</b> for search by list. Also available navigation. To the right of each repository you can see •, click on it to open the preview.<br>
 
 <h3>Contribute</h3>
-Let me know If you know or are developing a cool project. The project <b>should be written in Swift</b> and has preview. I do not add other restrictions as stars, contributers, etc. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items.<br>
+Let me know If you know or are developing a cool project. The project <b>should be written in Swift</b> and has preview. I do not add other restrictions as stars, contributers, etc. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items.<br><br>
 
 [![Patron](https://github.com/IvanVorobei/SPPermission/blob/master/Resources/Patron%20Button.svg)](https://patreon.com/ivanvorobei)
 
