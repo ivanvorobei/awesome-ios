@@ -1,6 +1,11 @@
 ## About
-A collaborative list of awesome Swift libraries for interface & animations. Include frameworks, libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
-I'm just starting to develop this list projects, and I will be grateful for any help. Let me know If you know or are developing a cool project. Make fork and create new Pull Request with items. The project should be written in `Swift`. I do not add other restrictions as stars, contributers, etc.
+
+<p>A collaborative list of awesome Swift libraries for interface & animations. Include frameworks, libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
+I'm just starting to develop this list projects, and I will be grateful for any help. Let me know If you know or are developing a cool project. Make fork and create new Pull Request with items. The project should be written in `Swift`. I do not add other restrictions as stars, contributers, etc.</p>
+
+<p float="right">
+    <img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="300"/>
+</p>
 
 ### Content
 - [Activity Indicator](#activity-indicator)
