@@ -1,5 +1,3 @@
-### About
-
 <p float="right">
     <img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/>
 </p>
