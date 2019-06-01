@@ -54,6 +54,7 @@ Use <b>CMD</b> + <b>F</b> for search by list. Also available navigation. To the 
 * [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator [•](https://github.com/LeonardoCardoso/SendIndicator/blob/master/Images/showcase.gif)
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting [•](https://github.com/Juanpe/SkeletonView/blob/master/Assets/gradient.png)
 * [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view [•](https://github.com/Interactive-Studio/Windless/blob/master/Resource/collection.gif)
+* [LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator [•](https://raw.githubusercontent.com/jogendra/LoadingShimmer/master/Screenshots/demo.gif)
 
 
 ### Action Sheet
