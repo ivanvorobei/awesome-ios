@@ -4,7 +4,7 @@
 	<a href="https://github.com/IvanVorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Preview-SPAlert.gif" width="250"/></a>
 </p>
 
-<p>A collaborative list of awesome <b>UI & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
+<p>A collaborative list of awesome <b>UI & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.
 Use <img src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg" height="26"/> for search by keyword. Also available navigation. To open the preview, to the right of the project click on the point •</p>
 
 ## Navigate
