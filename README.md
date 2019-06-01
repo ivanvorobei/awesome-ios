@@ -3,10 +3,10 @@
 </p>
 
 <p><h3>About</h3>
-A collaborative list of awesome <b>Interface & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
+A collaborative list of awesome <b>Interface & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br>
 
 <h3>How use</h3>
-Use `CMD` + `F` for search by list. Also available navigation. To the right of each repository you can see `•`. Click on it to open the preview.<br><br>
+Use `CMD` + `F` for search by list. Also available navigation. To the right of each repository you can see `•`. Click on it to open the preview.<br>
 
 <h3>Contribute</h3>
 Let me know If you know or are developing a cool project. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items. The project <b>should be written in Swift</b> and has preview. I do not add other restrictions as stars, contributers, etc.</p>
