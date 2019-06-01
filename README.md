@@ -8,7 +8,7 @@ Use <b>CMD</b> + <b>F</b> for search by list. Also available navigation. To the 
 
 [![Patron](https://github.com/IvanVorobei/SPPermission/blob/master/Resources/Patron%20Button.svg)](https://patreon.com/ivanvorobei)
 
-See project's backers in <a href="https://github.com/IvanVorobei/SPStorkController#sponsors">Sponsors</a> section.</p>
+See project's backers in <a href="https://github.com/IvanVorobei/awesome-ios-ui#sponsors">Sponsors</a> section.</p>
 
 ## Navigate
 - [Activity Indicator](#activity-indicator)
