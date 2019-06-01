@@ -4,11 +4,9 @@
 
 <p>A collaborative list of awesome <b>Interface & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br>
 
-<h3>How use</h3>
-Use `CMD` + `F` for search by list. Also available navigation. To the right of each repository you can see `•`. Click on it to open the preview.<br>
+<h3>How use</h3>Use `CMD` + `F` for search by list. Also available navigation. To the right of each repository you can see `•`. Click on it to open the preview.<br>
 
-<h3>Contribute</h3>
-Let me know If you know or are developing a cool project. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items. The project <b>should be written in Swift</b> and has preview. I do not add other restrictions as stars, contributers, etc.</p>
+<h3>Contribute</h3>Let me know If you know or are developing a cool project. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items. The project <b>should be written in Swift</b> and has preview. I do not add other restrictions as stars, contributers, etc.</p>
 
 ## Navigate
 - [Activity Indicator](#activity-indicator)
@@ -44,21 +42,21 @@ If need other categories, please, let me know or create Pull Request.
 ## Content
 
 ### Activity Indicator
-* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
-* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation. [•](https://github.com/yoavlt/LiquidLoader/raw/master/Demo/grow-circle.gif)
-* [STLoadingGroup](https://github.com/saitjr/STLoadingGroup) - loading views. [•](https://github.com/saitjr/STLoadingGroup/blob/master/resources/loading.gif)
-* [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation…). [•](https://cloud.githubusercontent.com/assets/1275218/10124182/09f4c406-654f-11e5-9cab-0f2e6f470887.gif)
+* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
+* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation [•](https://github.com/yoavlt/LiquidLoader/raw/master/Demo/grow-circle.gif)
+* [STLoadingGroup](https://github.com/saitjr/STLoadingGroup) - loading views [•](https://github.com/saitjr/STLoadingGroup/blob/master/resources/loading.gif)
+* [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation…) [•](https://cloud.githubusercontent.com/assets/1275218/10124182/09f4c406-654f-11e5-9cab-0f2e6f470887.gif)
 * [AlamofireNetworkActivityIndicator](https://github.com/Alamofire/AlamofireNetworkActivityIndicator) - Controls the visibility of the network activity indicator on iOS using Alamofire.
-* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - A circular progress view with gradients written in Swift. [•](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif)
-* [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view. [•](https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966)
-* [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths. [•](https://github.com/polqf/FillableLoaders/blob/master/Images/waves.gif)
-* [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert written in Swift using blur effects, translucency, flat and bold design. [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
-* [SVUploader](https://github.com/kirankunigiri/SVUploader) - A beautiful uploader progress view that makes things simple and easy. [•](https://github.com/kirankunigiri/SVUploader/blob/master/Images/demo1.gif)
-* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar. [•](https://camo.githubusercontent.com/451ee3055ede5d0428f5b28d4987a89af896d24c/687474703a2f2f66656c69782e68616d627572672f66696c65732f6769746875622f6772616469656e742d6c6f6164696e672d6261722f73637265656e2e676966)
-* [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and customizable animated progress bar. [•](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
-* [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator. [•](https://github.com/LeonardoCardoso/SendIndicator/blob/master/Images/showcase.gif)
-* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting. [•](https://github.com/Juanpe/SkeletonView/blob/master/Assets/gradient.png)
-* [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view. [•](https://github.com/Interactive-Studio/Windless/blob/master/Resource/collection.gif)
+* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - A circular progress view with gradients [•](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif)
+* [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view [•](https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966)
+* [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths [•](https://github.com/polqf/FillableLoaders/blob/master/Images/waves.gif)
+* [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert using blur effects, translucency, flat and bold design [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
+* [SVUploader](https://github.com/kirankunigiri/SVUploader) - A beautiful uploader progress view that makes things simple and easy [•](https://github.com/kirankunigiri/SVUploader/blob/master/Images/demo1.gif)
+* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar [•](https://camo.githubusercontent.com/451ee3055ede5d0428f5b28d4987a89af896d24c/687474703a2f2f66656c69782e68616d627572672f66696c65732f6769746875622f6772616469656e742d6c6f6164696e672d6261722f73637265656e2e676966)
+* [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and customizable animated progress bar [•](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
+* [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator [•](https://github.com/LeonardoCardoso/SendIndicator/blob/master/Images/showcase.gif)
+* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting [•](https://github.com/Juanpe/SkeletonView/blob/master/Assets/gradient.png)
+* [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view [•](https://github.com/Interactive-Studio/Windless/blob/master/Resource/collection.gif)
 
 
 ### Action Sheet
