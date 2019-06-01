@@ -1,11 +1,11 @@
 # Awesome iOS UI
 
 <p float="right">
-	<a href="https://github.com/IvanVorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Preview-SPAlert.gif" width="250"/></a>
+	<a href="https://github.com/ivanvorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Preview-SPAlert.gif" width="250"/></a>
 </p>
 
 <p>A collaborative list of awesome <b>UI & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
-Use <img src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg" height="26"/> for search by keyword. Also available navigation. To open the preview, to the right of the project click on the point •</p>
+Use <img src="https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg" height="26"/> for search by keyword. Also available navigation. To open the preview, to the right of the project click on the point •</p>
 
 ## Navigate
 - [Activity Indicator](#activity-indicator)
@@ -68,7 +68,7 @@ Use <img src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resource
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -  A library that helps you display and customise alerts and action sheets on iPad and iPhone [•](https://github.com/Codigami/CFAlertViewController/blob/master/Images/Demo_1.gif)
 
 ### Alert
-* [SPAlert](https://github.com/IvanVorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets [•](https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif)
+* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets [•](https://github.com/ivanvorobei/SPAlert/blob/master/Resources/Preview-Done.gif)
 * [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - Use the iPhone X notch space to display creative alerts [•](https://github.com/TheAbstractDev/NotchyAlert/blob/master/Screenshots/notchyWithDescription.gif)
 * [CatAlertController](https://github.com/ImKcat/CatAlertController) - Use UIAlertController like a boss
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
@@ -86,8 +86,8 @@ Use <img src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resource
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects.
 
 ### Transition
-* [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Very similar to the controllers displayed in Apple Music, Podcasts and Mail Apple's applications.
-* [SPLarkController](https://github.com/IvanVorobei/SPLarkController) - Settings screen with buttons and switches.
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Very similar to the controllers displayed in Apple Music, Podcasts and Mail Apple's applications.
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches.
 
 ### Badge
 * [BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any UIView a full fledged animated notification center.
@@ -124,7 +124,7 @@ Use <img src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resource
 * [Cely](https://github.com/initFabian/Cely) - Plug-n-Play login framework written in Swift.
 
 ### Menu
-* [SPLarkController](https://github.com/IvanVorobei/SPLarkController) - Settings screen with buttons and switches.
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches.
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 
 
