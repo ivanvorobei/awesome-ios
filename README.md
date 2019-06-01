@@ -2,10 +2,8 @@
     <img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/>
 </p>
 
-<p>A collaborative list of awesome <b>UI & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br>
-
-<h3>Usage</h3>
-<b>CMD</b> + <b>F</b> for search by list. Also available navigation. To the right of each repository you can see •, click on it to open the preview.<br><br>
+<p>A collaborative list of awesome <b>UI & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
+Use <b>CMD</b> + <b>F</b> for search by list. Also available navigation. To the right of each repository you can see •, click on it to open the preview.<br><br>
 
 [![Patron](https://github.com/IvanVorobei/SPPermission/blob/master/Resources/Patron%20Button.svg)](https://patreon.com/ivanvorobei)
 
