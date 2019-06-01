@@ -5,7 +5,8 @@
 </p>
 
 <p>A collaborative list of awesome <b>UI & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
-Use <img src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg" height="26"/> for search by list. Also available navigation. For see preview click on •</p>
+Use <img src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg" height="26"/> for search by keyword.<br>
+Also available navigation. For see preview click on •</p>
 
 ## Navigate
 - [Activity Indicator](#activity-indicator)
