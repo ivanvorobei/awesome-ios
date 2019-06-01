@@ -13,6 +13,7 @@ Use <b>CMD</b> + <b>F</b> for search by list. Also available navigation. To the 
 - [Alert](#alert)
 - [Animation](#animation)
     - [Transition](#transition)
+- [Badge](#badge)
 - [Button](#button)
 - [Calendar](#calendar)
 - [Cards](#cards)
@@ -73,6 +74,9 @@ Use <b>CMD</b> + <b>F</b> for search by list. Also available navigation. To the 
 ### Transition
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Very similar to the controllers displayed in Apple Music, Podcasts and Mail Apple's applications.
 * [SPLarkController](https://github.com/IvanVorobei/SPLarkController) - Settings screen with buttons and switches.
+
+### Badge
+* [BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any UIView a full fledged animated notification center.
 
 ### Button
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
