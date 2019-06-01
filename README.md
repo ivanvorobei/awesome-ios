@@ -4,7 +4,7 @@
     <img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/>
 </p>
 
-<p>A collaborative list of awesome Swift libraries with <b>interface & animations</b>. I am every day check trends swift libs and will inclue frameworks, libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
+<p>A collaborative list of awesome <b>Interface & Animation</b> in Swift. I am every day check trends swift libs and will inclue frameworks, libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
 I'm just starting to do this list of projects, and I will be grateful for any help.<br>
 Let me know If you know or are developing a cool project. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items. The project <b>should be written in Swift</b>. I do not add other restrictions as stars, contributers, etc.<br><br>
 If you have questions, I am always available by Telegram: <a href="https://telegram.me/ivanvorobei">@ivanvorobei</a></p>
