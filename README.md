@@ -1,5 +1,5 @@
-<p float="left">
-    <img align="left" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/>
+<p float="right">
+    <img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/>
 </p>
 
 <p><h3>About</h3>
