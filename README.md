@@ -5,9 +5,9 @@
 </p>
 
 <p>A collaborative list of awesome Swift libraries with <b>interface & animations</b>. Include frameworks, libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
-I'm just starting to develop this list projects, and I will be grateful for any help. Let me know If you know or are developing a cool project. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items. The project should be written <b>in Swift</b>>. I do not add other restrictions as stars, contributers, etc.</p>
+I'm just starting to develop this list projects, and I will be grateful for any help. Let me know If you know or are developing a cool project. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items. The project should be written <b>in Swift</b>. I do not add other restrictions as stars, contributers, etc.</p>
 
-### Content
+## Navigate
 - [Activity Indicator](#activity-indicator)
 - [Action Sheet](#action-sheet)
 - [Alert](#alert)
@@ -34,6 +34,8 @@ I'm just starting to develop this list projects, and I will be grateful for any 
 - [TextField & TextView](#textfield--textview)
 - [UIPageControl](#uipagecontrol)
 - [Web View](#web-view)
+
+## Content
 
 ### Activity Indicator
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
