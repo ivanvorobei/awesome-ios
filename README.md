@@ -1,4 +1,4 @@
-# Amesome iOS UI
+# Awesome iOS UI
 
 <p float="right">
 	<a href="https://github.com/IvanVorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/></a>
@@ -220,6 +220,6 @@ Support me with a monthly donation and help me continue activities. After paymen
 <a href="https://www.patreon.com/ivanvorobei" target="_blank"><img src="https://github.api.ivanvorobei.by/sponsors/add.jpg" width="100"></a>
 
 ## License
-`amesome-ios-ui` is released under the MIT license. Check `LICENSE.md` for details.
+`awesome-ios-ui` is released under the MIT license. Check `LICENSE.md` for details.
 
 
