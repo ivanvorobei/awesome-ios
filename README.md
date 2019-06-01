@@ -2,8 +2,7 @@
     <img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/>
 </p>
 
-<p><h3>About</h3>
-A collaborative list of awesome <b>Interface & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br>
+<p>A collaborative list of awesome <b>Interface & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br>
 
 <h3>How use</h3>
 Use `CMD` + `F` for search by list. Also available navigation. To the right of each repository you can see `•`. Click on it to open the preview.<br>
