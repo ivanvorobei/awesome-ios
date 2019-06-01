@@ -59,12 +59,26 @@ Use <img src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resource
 
 
 ### Action Sheet
-* [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet.
-* [RMActionController](https://github.com/CooperRS/RMActionController) - Present any UIView in an UIAlertController like manner.
+* [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
+* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces [•](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
+* [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView [•](https://github.com/dillidon/alerts-and-pickers/blob/new/Assets/gifs/actionSheet-.gif)
+* [Hokusai](https://github.com/ytakzk/Hokusai) - A Swift library to provide a bouncy action sheet [•](https://raw.githubusercontent.com/wiki/ytakzk/Hokusai/images/demo.gif)
+* [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) - Animated alert library like Swarm app [•](https://raw.githubusercontent.com/entotsu/TKSwarmAlert/master/ScreenShots/minidemo.gif)
+* [DOAlertController](https://github.com/okmr-d/DOAlertController) - Simple Alert View written in Swift, which can be used as a UIAlertController [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif)
+* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -  A library that helps you display and customise alerts and action sheets on iPad and iPhone [•](https://github.com/Codigami/CFAlertViewController/blob/master/Images/Demo_1.gif)
 
-### Alerts
-* [SPAlert](https://github.com/IvanVorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
-* [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
+### Alert
+* [SPAlert](https://github.com/IvanVorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets [•](https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif)
+* [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - Use the iPhone X notch space to display creative alerts [•](https://github.com/TheAbstractDev/NotchyAlert/blob/master/Screenshots/notchyWithDescription.gif)
+* [CatAlertController](https://github.com/ImKcat/CatAlertController) - Use UIAlertController like a boss
+* [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
+* [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy Toasts [•](https://user-images.githubusercontent.com/22358682/53521918-4f8b7600-3aa7-11e9-934d-866e04189e99.png)
+* [HDNotificationView](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert [•](https://github.com/nhdang103/HDNotificationView/blob/master/Assets/Images/iPhoneX_Portrait.png)
+* [PMAlertController](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController [•](https://raw.githubusercontent.com/pmusolino/PMAlertController/master/preview_pmalertacontroller.png)
+* [Dodo](https://github.com/evgenyneu/Dodo) - A message bar [•](https://raw.githubusercontent.com/evgenyneu/Dodo/master/Graphics/presets/info.jpg)
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar [•](https://github.com/SwiftKickMobile/SwiftMessages/blob/master/Demo/demo.png)
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners [•](https://github.com/Daltron/NotificationBanner/blob/master/NotificationBanner/Assets/basic.gif)
+
 
 ### Animation
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
