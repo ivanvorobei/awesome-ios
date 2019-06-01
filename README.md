@@ -37,8 +37,6 @@ Let me know If you know or are developing a cool UI. Create fork and new <a href
 - [UIPageControl](#uipagecontrol)
 - [Web View](#web-view)
 
-If need other categories, please, let me know or create Pull Request.
-
 ## Content
 
 ### Activity Indicator
