@@ -4,12 +4,14 @@
     <img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/>
 </p>
 
-<p>A collaborative list of awesome <b>Interface & Animation</b> in Swift. I am every day check trends swift libs and will inclue frameworks, libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
-I'm just starting to do this list of projects, and I will be grateful for any help.<br>
-Let me know If you know or are developing a cool project. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items. The project <b>should be written in Swift</b>. I do not add other restrictions as stars, contributers, etc.<br><br>
-If you have questions, I am always available by Telegram: <a href="https://telegram.me/ivanvorobei">@ivanvorobei</a></p>
+<p><h3>About</h3>
+A collaborative list of awesome <b>Interface & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
 
+<h3>How use</h3>
+Use `CMD` + `F` for search by list. Also available navigation. To the right of each repository you can see `•`. Click on it to open the preview.<br><br>
 
+<h3>Contribute</h3>
+Let me know If you know or are developing a cool project. Create fork and new <a href="https://github.com/IvanVorobei/awesome-ios-ui/pulls">Pull Request</a> with new items. The project <b>should be written in Swift</b> and has preview. I do not add other restrictions as stars, contributers, etc.</p>
 
 ## Navigate
 - [Activity Indicator](#activity-indicator)
@@ -27,6 +29,7 @@ If you have questions, I am always available by Telegram: <a href="https://teleg
 - [Menu](#menu)
 - [PickerView](#pickerview)
 - [Pull to Refresh](#pull-to-refresh)
+- [Progress](#progress)
 - [ScrollView](#scrollview)
 - [Segmented Control](#segmented-control)
 - [Slider](#slider)
@@ -45,7 +48,21 @@ If need other categories, please, let me know or create Pull Request.
 
 ### Activity Indicator
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
-* [IHProgressHUD](https://github.com/Swiftify-Corp/IHProgressHUD) - Simple HUD, thread safe, supports iOS, tvOS and App Extensions.
+* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation. [•](https://github.com/yoavlt/LiquidLoader/raw/master/Demo/grow-circle.gif)
+* [STLoadingGroup](https://github.com/saitjr/STLoadingGroup) - loading views. [•](https://github.com/saitjr/STLoadingGroup/blob/master/resources/loading.gif)
+* [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation…). [•](https://cloud.githubusercontent.com/assets/1275218/10124182/09f4c406-654f-11e5-9cab-0f2e6f470887.gif)
+* [AlamofireNetworkActivityIndicator](https://github.com/Alamofire/AlamofireNetworkActivityIndicator) - Controls the visibility of the network activity indicator on iOS using Alamofire.
+* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - A circular progress view with gradients written in Swift. [•](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif)
+* [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view. [•](https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966)
+* [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths. [•](https://github.com/polqf/FillableLoaders/blob/master/Images/waves.gif)
+* [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert written in Swift using blur effects, translucency, flat and bold design. [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
+* [SVUploader](https://github.com/kirankunigiri/SVUploader) - A beautiful uploader progress view that makes things simple and easy. [•](https://github.com/kirankunigiri/SVUploader/blob/master/Images/demo1.gif)
+* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar. [•](https://camo.githubusercontent.com/451ee3055ede5d0428f5b28d4987a89af896d24c/687474703a2f2f66656c69782e68616d627572672f66696c65732f6769746875622f6772616469656e742d6c6f6164696e672d6261722f73637265656e2e676966)
+* [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and customizable animated progress bar. [•](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
+* [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator. [•](https://github.com/LeonardoCardoso/SendIndicator/blob/master/Images/showcase.gif)
+* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting. [•](https://github.com/Juanpe/SkeletonView/blob/master/Assets/gradient.png)
+* [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view. [•](https://github.com/Interactive-Studio/Windless/blob/master/Resource/collection.gif)
+
 
 ### Action Sheet
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet.
@@ -110,12 +127,17 @@ If need other categories, please, let me know or create Pull Request.
 * [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh.
 * [KafkaRefresh](https://github.com/OpenFeyn/KafkaRefresh) - Highly scalable, custom, multi-style refresh framework.
 
+### Progress
+* [KYNavigationProgress](https://github.com/ykyouhei/KYNavigationProgress) - Simple extension of UINavigationController to display progress on the UINavigationBar. [•](https://cloud.githubusercontent.com/assets/5757351/12037003/690bc894-ae8e-11e5-8c2f-864aef9a7cb4.gif)
+* [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - A beautiful ring/circular progress view similar to Activity app on Apple Watch.[•](https://github.com/maxkonovalov/MKRingProgressView/blob/master/MKRingProgressView.png)
+
 ### ScrollView
 * [CrownControl](https://github.com/huri000/CrownControl) - Inspired by the Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
 *  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 
 ### Segmented Control
+* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift. [•](https://github.com/TBXark/TKRubberIndicator/blob/master/Example/demo.gif)
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
 * [DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - A segment switcher with dynamic text mask effect
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations.
