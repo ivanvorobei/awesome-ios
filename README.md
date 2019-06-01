@@ -1,7 +1,7 @@
 # Amesome iOS UI
 
 <p float="right">
-    <img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/>
+	<a href="https://github.com/IvanVorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/IvanVorobei/SPAlert/blob/master/Resources/Preview-Done.gif" width="250"/></a>
 </p>
 
 <p>A collaborative list of awesome <b>UI & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
