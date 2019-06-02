@@ -131,15 +131,15 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons [•](https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966)
 * [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation [•](https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966)
 * [WCLShineButton](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining [•](https://github.com/imwcl/WCLShineButton/blob/master/DemoGif.gif)
-* [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress, and completion animation [•](https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif)
+* [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress [•](https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 
 ### Segmented Control
 
-* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift. [•](https://github.com/TBXark/TKRubberIndicator/blob/master/Example/demo.gif)
-* [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
-* [DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - A segment switcher with dynamic text mask effect
-* [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations.
+* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator [•](https://github.com/TBXark/TKRubberIndicator/blob/master/Example/demo.gif)
+* [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation [•](https://github.com/TBXark/PinterestSegment/blob/master/Example/demo.gif)
+* [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement [•](https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif)
+* [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations [•](https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif)
 
 ### Slider
 
