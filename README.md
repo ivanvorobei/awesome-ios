@@ -4,7 +4,7 @@
 
 A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.
 
-Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg) keyword. Also available navigation. To open the preview, to the right of the project click on the point •
+Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point •
 
 ## Navigate
 - [Activity Indicator](#activity-indicator)
@@ -80,7 +80,7 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 
 
 ### Animation
-* [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects (•)[https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif]
+* [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif)
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations [•](https://camo.githubusercontent.com/301f360304b089f40989a870ff3c04572054e288/687474703a2f2f636c2e6c792f696d6167652f316e3145326a3357337932342f737072696e6773637265656e2e6a7067)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
 * [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS [•](https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif)
