@@ -78,7 +78,6 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 
 ### Animation
 
-* [Hero](https://github.com/HeroTransitions/Hero) - Building iOS view controller transitions [•](https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667)
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif)
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations [•](https://camo.githubusercontent.com/301f360304b089f40989a870ff3c04572054e288/687474703a2f2f636c2e6c792f696d6167652f316e3145326a3357337932342f737072696e6773637265656e2e6a7067)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
@@ -94,8 +93,17 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 
 ### Transition
 
-* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Very similar to the controllers displayed in Apple Music, Podcasts and Mail Apple's applications.
-* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches.
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://github.com/ivanvorobei/SPStorkController/blob/master/Resources/Preview.gif)
+* [Hero](https://github.com/HeroTransitions/Hero) - Building iOS view controller transitions [•](https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667)
+* [Motion](https://github.com/CosmicMind/Motion) - Seamless animations and transitions [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
+* [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions [•](https://github.com/Touchwonders/Transition/blob/master/Documentation/artwork/tabbar.gif)
+* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - A custom modal transition that presents and dismiss a controller with an expanding bubble effect [•](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
+* [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag [•](https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif)
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
+* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design [•](https://github.com/jonathantribouharet/JTMaterialTransition/blob/master/Screens/example.gif)
+* [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view [•](https://github.com/naru-jpn/View2ViewTransition/blob/master/preview.gif?raw=true)
+
+
 
 ### Badge
 
