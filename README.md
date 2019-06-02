@@ -143,8 +143,10 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 
 ### Slider
 
-* [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
-* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
+* [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control [•](https://github.com/HamzaGhazouani/HGCircularSlider/blob/master/Screenshots/Bedtime.gif)
+* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter [•](https://camo.githubusercontent.com/36324d7e99482ec072b76b81923a6aae46fc26c6/68747470733a2f2f6a2e676966732e636f6d2f35384e444e4b2e676966)
+* [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected [•](https://github.com/Ramotion/fluid-slider/blob/master/fluid-slider.gif)
+* [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider [•](https://github.com/LeonardoCardoso/SectionedSlider/blob/master/Images/static2.gif)
 
 ### Switch
 
