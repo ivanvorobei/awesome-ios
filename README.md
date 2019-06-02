@@ -16,7 +16,7 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 - [Badge](#badge)
 - [Calendar](#calendar)
 - [Cards](#cards)
-- [Control](#control)
+- [Control](#button)
 	- [Button](#button)
 	- [Segmented Control](#segmented-control)
 	- [Slider](#slider)
@@ -120,11 +120,10 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 
 ### Cards
 
-* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
-* [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit.
-* [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
-
-### Control
+* [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views [•](https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png)
+* [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards [•](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
+* [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI [•](https://github.com/tispr/tispr-card-stack/blob/master/Screenshot_main.gif)
+* [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit [•](https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif)
 
 ### Button
 
@@ -203,6 +202,8 @@ CollectionView, make Instagram Discover within minutes.
 * [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 * [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 * [Swinflate](https://github.com/VladIacobIonut/Swinflate) -  A bunch of layouts providing light and seamless experiences in your CollectionView.
+* [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom collection view layout.
+* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 
 ### Form & Settings
 
