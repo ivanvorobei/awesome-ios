@@ -14,27 +14,29 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 - [Animation](#animation)
     - [Transition](#transition)
 - [Badge](#badge)
-- [Button](#button)
 - [Calendar](#calendar)
 - [Cards](#cards)
+- [Control]
+	- [Button](#button)
+	- [Segmented Control](#segmented-control)
+	- [Slider](#slider)
+	- [Switch](#switch)
+	- [PickerView](#pickerview)
+	- [TextField](#textfield)
+	- [TextView](#textview)
+	- [UIPageControl](#uipagecontrol)
+- [Collection View](#collection-view)
+    - [Collection View Layout](#collection-view-layout)
 - [Form & Settings](#form--settings)
 - [Keyboard](#keyboard)
 - [Label](#label)
 - [Login](#login)
 - [Menu](#menu)
-- [PickerView](#pickerview)
 - [Pull to Refresh](#pull-to-refresh)
 - [Progress](#progress)
 - [ScrollView](#scrollview)
-- [Segmented Control](#segmented-control)
-- [Slider](#slider)
-- [Switch](#switch)
 - [Tab Bar](#tab-bar)
-- [Table View](#table-view--collection-view)
-- [Collection View](#table-view--collection-view)
-    - [Collection View Layout](#collection-view-layout)
-- [TextField & TextView](#textfield--textview)
-- [UIPageControl](#uipagecontrol)
+- [Table View](#table-view)
 - [Web View](#web-view)
 
 ## Content
@@ -108,11 +110,6 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 * [BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any UIView a full fledged animated notification center [•](https://camo.githubusercontent.com/88938e803d4a75413002c77f6b02178817a6ac33/68747470733a2f2f692e696d6775722e636f6d2f32333874696b662e676966)
 * [EasyNotificationBadge](https://github.com/Minitour/EasyNotificationBadge) - UIView extension that adds a notification badge [•](https://github.com/Minitour/EasyNotificationBadge/blob/master/Screenshots/heading.gif)
 
-### Button
-
-* [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
-* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Tasteful Checkbox for iOS.
-
 ### Calendar
 
 * [Calendar](https://github.com/jumartin/Calendar) - A set of views and controllers for displaying and scheduling events on iOS.
@@ -123,6 +120,86 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 * [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 * [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit.
 * [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
+
+### Control
+
+### Button
+
+* [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif)
+* [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons [•](https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966)
+* [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation [•](https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966)
+* [WCLShineButton](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining [•](https://github.com/imwcl/WCLShineButton/blob/master/DemoGif.gif)
+* [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress, and completion animation [•](https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif)
+* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
+
+### Segmented Control
+
+* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift. [•](https://github.com/TBXark/TKRubberIndicator/blob/master/Example/demo.gif)
+* [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
+* [DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - A segment switcher with dynamic text mask effect
+* [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations.
+
+### Slider
+
+* [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
+* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
+
+### Switch
+
+* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch.
+* [RAMPaperSwitch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on.
+* [Switcher](https://github.com/knn90/Switcher) - Swift - Custom UISwitcher with animation when change status.
+
+### PickerView
+
+* [Mandoline](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your "picking" needs.
+* [planet](https://github.com/kwallet/planet) - A country picker.
+* [CountryPickerView](https://github.com/kizitonwose/CountryPickerView)- A simple, customizable view for efficiently collecting country information in iOS apps.
+
+### TextField
+
+### TextView
+
+* [RSFloatInputView](https://github.com/roytornado/RSFloatInputView) - A Float Input View with smooth animation and supporting icon and seperator written with Swift.
+* [TaniwhaTextField](https://github.com/iceman201/TaniwhaTextField) - TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it. it's written with Swift.
+* [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search applications on iOS.
+* [SearchTextField](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions list
+* [PYSearch](https://github.com/ko1o/PYSearch) - An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad).
+* [styled-text](https://github.com/blueapron/styled-text) - Declarative text styles and streamlined Dynamic Type support for iOS.
+* [TweeTextField](https://github.com/oleghnidets/TweeTextField) - Lightweight set of text fields with nice animation and functionality.
+* [MeasurementTextField](https://github.com/SiarheiFedartsou/MeasurementTextField) - UITextField-based control for (NS)Measurement values input.
+* [VENTokenField](https://github.com/venmo/VENTokenField) - Easy-to-use token field that is used in the Venmo app.
+* [ALTextInputBar](https://github.com/AlexLittlejohn/ALTextInputBar) - An auto growing text input bar for messaging apps.
+* [Tagging](https://github.com/k-lpmg/Tagging) - ✍️ TextView that provides easy to use tagging feature for Mention or Hashtag.
+* [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+
+### UIPageControl
+
+* [PageControl](https://github.com/kasper-lahti/PageControl) - ● ○ ○ ○ A nice, animated UIPageControl alternative.
+* [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here
+* [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl.
+* [Page-Control](https://github.com/sevruk-dev/page-control) - 💥 Beautiful, animated and highly customizable UIPageControl alternative.
+
+### Collection View
+
+* [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components.
+* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover within minutes.
+* [CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView) - CampcotCollectionView is a custom UICollectionView written in Swift that allows to expand and collapse sections. It provides a simple API to manage collection view appearance.
+* [Stefan](https://github.com/appunite/Stefan) - A guy that helps you manage collections and placeholders in easy way.
+* [Parade](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
+* [MSPeekCollectionViewDelegateImplementation](https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation) - A custom paging behavior that peeks the previous and next items in a collection view.
+* [SimpleSource](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views in Swift.
+* [Conv](https://github.com/bannzai/conv) - Conv smart represent UICollectionView data structure more than UIKit.
+* [Carbon](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
+
+### Collection View Layout
+
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
+* [AZSafariCollectionViewLayout](https://github.com/AfrozZaheer/AZSafariCollectionViewLayout) - AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration.
+CollectionView, make Instagram Discover within minutes.
+* [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+* [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+* [Swinflate](https://github.com/VladIacobIonut/Swinflate) -  A bunch of layouts providing light and seamless experiences in your CollectionView.
 
 ### Form & Settings
 
@@ -151,13 +228,6 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches.
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
 
-
-### PickerView
-
-* [Mandoline](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your "picking" needs.
-* [planet](https://github.com/kwallet/planet) - A country picker.
-* [CountryPickerView](https://github.com/kizitonwose/CountryPickerView)- A simple, customizable view for efficiently collecting country information in iOS apps.
-
 ### Pull to Refresh
 
 * [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS inspired by [concept](https://dribbble.com/shots/2242263--1-Pull-to-refresh-Freebie-Weather-Concept).
@@ -174,24 +244,6 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 * [CrownControl](https://github.com/huri000/CrownControl) - Inspired by the Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
 *  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
-
-### Segmented Control
-
-* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift. [•](https://github.com/TBXark/TKRubberIndicator/blob/master/Example/demo.gif)
-* [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
-* [DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - A segment switcher with dynamic text mask effect
-* [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations.
-
-### Slider
-
-* [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
-* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
-
-### Switch
-
-* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch.
-* [RAMPaperSwitch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on.
-* [Switcher](https://github.com/knn90/Switcher) - Swift - Custom UISwitcher with animation when change status.
 
 ### Tab Bar
 
@@ -211,49 +263,6 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 * [SAInboxViewController](https://github.com/marty-suzuki/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning.
 * [StaticTableViewController](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
 * [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableView configuration.
-
-### Collection View
-
-* [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components.
-* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover within minutes.
-* [CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView) - CampcotCollectionView is a custom UICollectionView written in Swift that allows to expand and collapse sections. It provides a simple API to manage collection view appearance.
-* [Stefan](https://github.com/appunite/Stefan) - A guy that helps you manage collections and placeholders in easy way.
-* [Parade](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
-* [MSPeekCollectionViewDelegateImplementation](https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation) - A custom paging behavior that peeks the previous and next items in a collection view.
-* [SimpleSource](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views in Swift.
-* [Conv](https://github.com/bannzai/conv) - Conv smart represent UICollectionView data structure more than UIKit.
-* [Carbon](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
-
-### Collection View Layout
-
-* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
-* [AZSafariCollectionViewLayout](https://github.com/AfrozZaheer/AZSafariCollectionViewLayout) - AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration.
-CollectionView, make Instagram Discover within minutes.
-* [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
-* [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
-* [Swinflate](https://github.com/VladIacobIonut/Swinflate) -  A bunch of layouts providing light and seamless experiences in your CollectionView.
-
-### TextField & TextView
-
-* [RSFloatInputView](https://github.com/roytornado/RSFloatInputView) - A Float Input View with smooth animation and supporting icon and seperator written with Swift.
-* [TaniwhaTextField](https://github.com/iceman201/TaniwhaTextField) - TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it. it's written with Swift.
-* [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search applications on iOS.
-* [SearchTextField](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions list
-* [PYSearch](https://github.com/ko1o/PYSearch) - An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad).
-* [styled-text](https://github.com/blueapron/styled-text) - Declarative text styles and streamlined Dynamic Type support for iOS.
-* [TweeTextField](https://github.com/oleghnidets/TweeTextField) - Lightweight set of text fields with nice animation and functionality.
-* [MeasurementTextField](https://github.com/SiarheiFedartsou/MeasurementTextField) - UITextField-based control for (NS)Measurement values input.
-* [VENTokenField](https://github.com/venmo/VENTokenField) - Easy-to-use token field that is used in the Venmo app.
-* [ALTextInputBar](https://github.com/AlexLittlejohn/ALTextInputBar) - An auto growing text input bar for messaging apps.
-* [Tagging](https://github.com/k-lpmg/Tagging) - ✍️ TextView that provides easy to use tagging feature for Mention or Hashtag.
-* [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
-
-### UIPageControl
-
-* [PageControl](https://github.com/kasper-lahti/PageControl) - ● ○ ○ ○ A nice, animated UIPageControl alternative.
-* [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here
-* [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl.
-* [Page-Control](https://github.com/sevruk-dev/page-control) - 💥 Beautiful, animated and highly customizable UIPageControl alternative.
 
 ### Web View
 
