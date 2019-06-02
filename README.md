@@ -16,7 +16,7 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 - [Badge](#badge)
 - [Calendar](#calendar)
 - [Cards](#cards)
-- [Control]
+- Control
 	- [Button](#button)
 	- [Segmented Control](#segmented-control)
 	- [Slider](#slider)
