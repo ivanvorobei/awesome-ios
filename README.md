@@ -1,11 +1,10 @@
 # Awesome iOS UI
 
-<p float="right">
-	<a href="https://github.com/ivanvorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Preview-SPAlert.gif" width="250"/></a>
-</p>
+<img align="right" src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Preview-SPAlert.gif" width="250"/>
 
-<p>A collaborative list of awesome <b>UI & Animation</b> in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.<br><br>
-Use <img src="https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg" height="26"/> for search by keyword. Also available navigation. To open the preview, to the right of the project click on the point •</p>
+<A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.
+
+Use for search by keyword. Also available navigation. To open the preview, to the right of the project click on the point •
 
 ## Navigate
 - [Activity Indicator](#activity-indicator)
@@ -81,9 +80,20 @@ Use <img src="https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Resource
 
 
 ### Animation
-* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
-* [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration() to a whole new level - layers, springs, chain-able animations, and mixing view/layer animations together.
-* [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects.
+* [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects (•)[https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif]
+* [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations [•](https://camo.githubusercontent.com/301f360304b089f40989a870ff3c04572054e288/687474703a2f2f636c2e6c792f696d6167652f316e3145326a3357337932342f737072696e6773637265656e2e6a7067)
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
+* [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS [•](https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif)
+* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable [•](https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif)
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line [•](https://camo.githubusercontent.com/1f76933a70dd39cb3f36f77519d8c163313e316a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6d6172636f7367726973656c6c692f56696577416e696d61746f7240636630363565393661633334633932343731306464383463373138656364336265313739616533372f5265736f75726365732f656e74697265566965772e737667)
+* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more UICollectionView [•](https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif)
+* [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease [•](https://github.com/roberthein/Ease/blob/master/Art/header.gif)
+* [MotionAnimation](https://github.com/lkzhao/MotionAnimation) - Lightweight animation library for UIKit [•](https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif)
+* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Chainable animations [•](https://github.com/draveness/DKChainableAnimationKit/blob/master/Gifs/Demo2.gif)
+* [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti! Who doesn't like confetti? [•](https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif)
+* [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations [•](https://camo.githubusercontent.com/0f1c876398ca21b55babe0df926baf52d3498d5f/687474703a2f2f692e67697068792e636f6d2f323646786f6c4c7a334152316f7a3631792e676966)
+* [AHKBendableView](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position changes [•](https://raw.githubusercontent.com/fastred/AHKBendableView/master/demo.gif)
+
 
 ### Transition
 * [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Very similar to the controllers displayed in Apple Music, Podcasts and Mail Apple's applications.
