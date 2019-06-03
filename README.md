@@ -183,10 +183,9 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### UIPageControl
 
-* [PageControl](https://github.com/kasper-lahti/PageControl) - ● ○ ○ ○ A nice, animated UIPageControl alternative.
-* [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here
-* [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl.
-* [Page-Control](https://github.com/sevruk-dev/page-control) - 💥 Beautiful, animated and highly customizable UIPageControl alternative.
+* [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl [•](https://github.com/ChiliLabs/CHIPageControl/blob/master/Images/demo.gif)
+* [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here [•](https://github.com/popwarsweet/PageControls/blob/master/demo.gif)
+
 
 ### Collection View
 
@@ -289,7 +288,7 @@ CollectionView, make Instagram Discover within minutes.
 * [iOS 11 Glyphs](https://icons8.com/ios) - These icons are a must-have for all iOS developers
 * [useAnimations](https://useanimations.com) - Animated icons in Lottie Framework and After Effects for immediate implementation
 
-## Sketch
+### Sketch
 
 * [SketchAppSources](https://www.sketchappsources.com) - The largest collection of Sketch resources for mobile UI
 
