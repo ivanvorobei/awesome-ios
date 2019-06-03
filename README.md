@@ -46,7 +46,10 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 #### Other
 
+- [Design](#design)
+	- [Icon](#icon)
 - [Source Store](#source-store)
+
 
 ## Content
 
@@ -275,6 +278,15 @@ CollectionView, make Instagram Discover within minutes.
 * [SwiftWebVC](https://github.com/meismyles/SwiftWebVC) - A drop-in inline browser for your Swift iOS app.
 * [SVWebViewController](https://github.com/TransitApp/SVWebViewController) - A drop-in inline browser for your iOS app.
 * [PTPopupWebView](https://github.com/pjocprac/PTPopupWebView) - PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item.
+
+### Design
+
+* [Apple Design Source](https://developer.apple.com/design/resources/) - Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides
+
+### Icon
+
+* [iOS 11 Glyphs](https://icons8.com/ios) - These icons are a must-have for all iOS developers
+* [useAnimations](https://useanimations.com) - Animated icons in Lottie Framework and After Effects for immediate implementation
 
 ### Source Store
 
