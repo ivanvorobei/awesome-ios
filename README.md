@@ -34,8 +34,8 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 - [Form & Settings](#form--settings)
 - [Label](#label)
 - [Menu](#menu)
+- [Navigation Bar](#navigation-bar)
 - [Pull to Refresh](#pull-to-refresh)
-- [Progress](#progress)
 - [ScrollView](#scrollview)
 - [Tab Bar](#tab-bar)
 - [Table View](#table-view)
@@ -184,7 +184,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 ### UIPageControl
 
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl [•](https://github.com/ChiliLabs/CHIPageControl/blob/master/Images/demo.gif)
-* [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here [•](https://github.com/popwarsweet/PageControls/blob/master/demo.gif)
+* [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl [•](https://github.com/popwarsweet/PageControls/blob/master/demo.gif)
 
 ### Collection View
 
@@ -212,6 +212,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing [•](https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif)
 
 ### Menu
+
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine [•](https://github.com/Yalantis/GuillotineMenu/blob/master/example.gif)
 * [circle-menu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations [•](https://github.com/Ramotion/circle-menu/blob/master/circle-menu.gif)
 * [AirBar](https://github.com/uptechteam/AirBar) - UIScrollView driven expandable menu [•](https://github.com/uptechteam/AirBar/blob/master/Logo/Demo.gif)
@@ -221,18 +222,23 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView [•](https://github.com/Yalantis/Persei/blob/master/Assets/animation.gif)
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title [•](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/Assets/Demo.gif)
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects [•](https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966)
-* [cariocamenu](https://github.com/arn00s/cariocamenu) - The fastest zero-tap iOS menu.
+
+### Navigation Bar
+
+* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects [•](https://raw.githubusercontent.com/gmertk/BusyNavigationBar/master/Screenshots/gray_stripe.gif)
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView [•](https://github.com/andreamazz/AMScrollingNavbar/blob/master/assets/screenshot.gif)
+* [SPFakeBar](https://github.com/ivanvorobei/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other [•](https://github.com/IvanVorobei/SPStorkController/blob/master/Resources/Navigation%20Bar.jpg)
 
 ### Pull to Refresh
 
-* [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS inspired by [concept](https://dribbble.com/shots/2242263--1-Pull-to-refresh-Freebie-Weather-Concept).
-* [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh.
-* [KafkaRefresh](https://github.com/OpenFeyn/KafkaRefresh) - Highly scalable, custom, multi-style refresh framework.
-
-### Progress
-
-* [KYNavigationProgress](https://github.com/ykyouhei/KYNavigationProgress) - Simple extension of UINavigationController to display progress on the UINavigationBar [•](https://cloud.githubusercontent.com/assets/5757351/12037003/690bc894-ae8e-11e5-8c2f-864aef9a7cb4.gif)
-* [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - A beautiful ring/circular progress view similar to Activity app on Apple Watch [•](https://github.com/maxkonovalov/MKRingProgressView/blob/master/MKRingProgressView.png)
+* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS [•](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
+* [PullToBounce](https://github.com/entotsu/PullToBounce) - Animated Pull To Refresh Library for UIScrollView [•](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)
+* [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS [•](https://github.com/Onix-Systems/RainyRefreshControl/blob/develop/gif/umbrella_refresh.gif)
+* [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh) - Chrome iOS app style pull to refresh with multiple actions [•](https://camo.githubusercontent.com/88412633783b20de69ae9d047ec03f3b51169a7b/68747470733a2f2f6170692e6d6f6e6f736e61702e636f6d2f7270632f66696c652f646f776e6c6f61643f69643d72615136435468374b564a31657843756b524f5948356d6a696267774e70)
+* [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh [•](https://github.com/CRAnimation/CRRefresh/blob/master/CRRefresh2.gif)
+* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to UIScrollView [•](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
+* [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - GIFRefreshControl is a pull to refresh that supports GIF images as track animations [•](https://github.com/delannoyk/GIFRefreshControl/blob/master/example2.gif)
+* [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in UICollectionView with a sticky header flow layout [•](https://github.com/fruitcoder/ReplaceAnimation/blob/master/RefreshSuccess.gif)
 
 ### ScrollView
 
@@ -251,7 +257,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### Table View
 
-* [](https://github.com/Ramotion/preview-transition) - Simple preview gallery UI controller with animated tranisitions [•](https://github.com/Ramotion/preview-transition/blob/master/preview-transition.gif)
+* [preview-transition](https://github.com/Ramotion/preview-transition) - Simple preview gallery UI controller with animated tranisitions [•](https://github.com/Ramotion/preview-transition/blob/master/preview-transition.gif)
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
 
 * [TableFlip](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻
