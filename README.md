@@ -33,7 +33,6 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 - [Collection View](#collection-view)
 - [Form & Settings](#form--settings)
 - [Label](#label)
-- [Login](#login)
 - [Menu](#menu)
 - [Pull to Refresh](#pull-to-refresh)
 - [Progress](#progress)
@@ -212,17 +211,17 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR [•](https://github.com/hanleyweng/CoreML-in-ARKit/blob/master/post-media/giphy.gif)
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing [•](https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif)
 
-### Login
-
-* [LFLoginController](https://github.com/awesome-labs/LFLoginController) - Customizable login screen, written in Swift.
-* [LoginKit](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
-* [Cely](https://github.com/initFabian/Cely) - Plug-n-Play login framework written in Swift.
-
 ### Menu
-
+* [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine [•](https://github.com/Yalantis/GuillotineMenu/blob/master/example.gif)
 * [circle-menu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations [•](https://github.com/Ramotion/circle-menu/blob/master/circle-menu.gif)
+* [AirBar](https://github.com/uptechteam/AirBar) - UIScrollView driven expandable menu [•](https://github.com/uptechteam/AirBar/blob/master/Logo/Demo.gif)
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
-
+* [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
+* [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3 [•](https://github.com/GitHawkApp/ContextMenu/blob/master/images/animation.gif)
+* [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView [•](https://github.com/Yalantis/Persei/blob/master/Assets/animation.gif)
+* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title [•](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/Assets/Demo.gif)
+* [FlowingMenu](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects [•](https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966)
+* [cariocamenu](https://github.com/arn00s/cariocamenu) - The fastest zero-tap iOS menu.
 
 ### Pull to Refresh
 
@@ -232,8 +231,8 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### Progress
 
-* [KYNavigationProgress](https://github.com/ykyouhei/KYNavigationProgress) - Simple extension of UINavigationController to display progress on the UINavigationBar. [•](https://cloud.githubusercontent.com/assets/5757351/12037003/690bc894-ae8e-11e5-8c2f-864aef9a7cb4.gif)
-* [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - A beautiful ring/circular progress view similar to Activity app on Apple Watch.[•](https://github.com/maxkonovalov/MKRingProgressView/blob/master/MKRingProgressView.png)
+* [KYNavigationProgress](https://github.com/ykyouhei/KYNavigationProgress) - Simple extension of UINavigationController to display progress on the UINavigationBar [•](https://cloud.githubusercontent.com/assets/5757351/12037003/690bc894-ae8e-11e5-8c2f-864aef9a7cb4.gif)
+* [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - A beautiful ring/circular progress view similar to Activity app on Apple Watch [•](https://github.com/maxkonovalov/MKRingProgressView/blob/master/MKRingProgressView.png)
 
 ### ScrollView
 
@@ -242,6 +241,8 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
 
 ### Tab Bar
+
+* [CircleBar](https://github.com/softhausHQ/CircleBar) - 🔶 A fun, easy-to-use tab bar navigation controller [•](https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif)
 
 * [SSCustomTabMenu](https://github.com/simformsolutions/SSCustomTabMenu) Simple customizable iOS bottom menu with Tabbar.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout)
