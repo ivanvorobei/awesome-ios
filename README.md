@@ -155,17 +155,17 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 
 ### TextField
 
-* [Reel Search](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list
-* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern"
-* [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops
-* [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield
-* [SearchTextField](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions lis
-* [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement
+* [Reel Search](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list [•](https://github.com/Ramotion/reel-search/blob/master/reel-search.gif)
+* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern" [•](https://github.com/Skyscanner/SkyFloatingLabelTextField/blob/master/SkyFloatingLabelTextField/images/showcase-example.gif)
+* [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops [•](https://github.com/raulriera/TextFieldEffects/blob/master/Screenshots/Kaede.gif)
+* [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield [•](https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif)
+* [SearchTextField](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions lis [•](https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif)
+* [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement [•](https://github.com/jobandtalent/AnimatedTextInput/blob/master/Assets/general.gif)
 
 ### TextView
 
-* [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks
-* [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion
+* [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks [•](https://github.com/ruslanskorb/RSKGrowingTextView/blob/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif)
+* [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion [•](https://github.com/jhurray/SelectableTextView/blob/master/Resources/SelectableTextViewDemo1.gif)
 
 ### UIPageControl
 
