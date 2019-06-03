@@ -1,6 +1,6 @@
 # Awesome iOS UI
 
-<img align="right" src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Preview-SPAlert.gif" width="250"/>
+<a href="https://github.com/ivanvorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/IvanVorobei/awesome-ios-ui/blob/master/Resources/Preview-SPAlert.gif" width="250"/></a>
 
 A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
 Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
@@ -30,8 +30,9 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 	- [TextField](#textfield)
 	- [TextView](#textview)
 	- [UIPageControl](#uipagecontrol)
-- [Collection View](#collection-view)
+- [Collection View](#collection-view-layout)
     - [Collection View Layout](#collection-view-layout)
+    - [Expandable Collection Cell](#expandable-collection-cell)
 - [Form & Settings](#form--settings)
 - [Keyboard](#keyboard)
 - [Label](#label)
@@ -137,6 +138,8 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards [•](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
 * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI [•](https://github.com/tispr/tispr-card-stack/blob/master/Screenshot_main.gif)
 * [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit [•](https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif)
+* [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
 
 ### Button
 
@@ -186,29 +189,16 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl [•](https://github.com/ChiliLabs/CHIPageControl/blob/master/Images/demo.gif)
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here [•](https://github.com/popwarsweet/PageControls/blob/master/demo.gif)
 
-
-### Collection View
-
-* [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components.
-* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover within minutes.
-* [CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView) - CampcotCollectionView is a custom UICollectionView written in Swift that allows to expand and collapse sections. It provides a simple API to manage collection view appearance.
-* [Stefan](https://github.com/appunite/Stefan) - A guy that helps you manage collections and placeholders in easy way.
-* [Parade](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
-* [MSPeekCollectionViewDelegateImplementation](https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation) - A custom paging behavior that peeks the previous and next items in a collection view.
-* [SimpleSource](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views in Swift.
-* [Conv](https://github.com/bannzai/conv) - Conv smart represent UICollectionView data structure more than UIKit.
-* [Carbon](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
-
 ### Collection View Layout
 
-* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
-* [AZSafariCollectionViewLayout](https://github.com/AfrozZaheer/AZSafariCollectionViewLayout) - AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration.
-CollectionView, make Instagram Discover within minutes.
-* [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
-* [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
-* [Swinflate](https://github.com/VladIacobIonut/Swinflate) -  A bunch of layouts providing light and seamless experiences in your CollectionView.
-* [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom collection view layout.
-* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
+* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout with slanted content [•](https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif)
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce [•](https://github.com/roberthein/BouncyLayout/blob/master/art/gifs/02.gif)
+
+### Expandable Collection Cell
+
+* [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
 
 ### Form & Settings
 
