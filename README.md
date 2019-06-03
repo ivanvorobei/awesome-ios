@@ -36,7 +36,6 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 - [Menu](#menu)
 - [Navigation Bar](#navigation-bar)
 - [Pull to Refresh](#pull-to-refresh)
-- [ScrollView](#scrollview)
 - [Tab Bar](#tab-bar)
 - [Table View](#table-view)
 - [Web View](#web-view)
@@ -189,10 +188,11 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 ### Collection View
 
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
-* [gliding-collection](https://github.com/Ramotion/gliding-collection) - Smooth, flowing, customizable decision for a UICollectionView Swift Controller [•](https://github.com/Ramotion/gliding-collection/blob/master/assets/gliding-collection.gif)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
 * [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout with slanted content [•](https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif)
+* [gliding-collection](https://github.com/Ramotion/gliding-collection) - Smooth, flowing, customizable decision for a UICollectionView Swift Controller [•](https://github.com/Ramotion/gliding-collection/blob/master/assets/gliding-collection.gif)
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce [•](https://github.com/roberthein/BouncyLayout/blob/master/art/gifs/02.gif)
+*  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView [•](https://camo.githubusercontent.com/bb984a34320d944ccf561857995c90629f5037a0/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f646334323539613135303438303136333139393038353836)
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 
 ### Form & Settings
@@ -219,9 +219,11 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3 [•](https://github.com/GitHawkApp/ContextMenu/blob/master/images/animation.gif)
+* [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control [•](https://github.com/Yalantis/Segmentio/blob/master/Assets/animation.gif)
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView [•](https://github.com/Yalantis/Persei/blob/master/Assets/animation.gif)
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title [•](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/Assets/Demo.gif)
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects [•](https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966)
+* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://github.com/KittenYang/GooeyTabbar/blob/master/gooeyTabbar_Temple.gif)
 
 ### Navigation Bar
 
@@ -240,35 +242,23 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - GIFRefreshControl is a pull to refresh that supports GIF images as track animations [•](https://github.com/delannoyk/GIFRefreshControl/blob/master/example2.gif)
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in UICollectionView with a sticky header flow layout [•](https://github.com/fruitcoder/ReplaceAnimation/blob/master/RefreshSuccess.gif)
 
-### ScrollView
-
-* [CrownControl](https://github.com/huri000/CrownControl) - Inspired by the Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
-*  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.
-* [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view.
-
 ### Tab Bar
 
+* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://github.com/KittenYang/GooeyTabbar/blob/master/gooeyTabbar_Temple.gif)
+* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items [•](https://github.com/Ramotion/animated-tab-bar/blob/master/Screenshots/animatedTabBar.gif)
 * [CircleBar](https://github.com/softhausHQ/CircleBar) - 🔶 A fun, easy-to-use tab bar navigation controller [•](https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif)
-
-* [SSCustomTabMenu](https://github.com/simformsolutions/SSCustomTabMenu) Simple customizable iOS bottom menu with Tabbar.
-* [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - Swipeable Views with Tabs (Like Android SwipeView With Tabs Layout)
-* [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar for iOS.
-* [WormTabStrip](https://github.com/EzimetYusup/WormTabStrip) Beatiful ViewPager For iOS written in Swift.
+* [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control [•](https://github.com/Yalantis/Segmentio/blob/master/Assets/animation.gif)
+* [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements [•](https://github.com/Ramotion/adaptive-tab-bar/blob/master/adaptive_tab_bar.gif)
+* [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs [•](https://github.com/Yalantis/ColorMatchTabs/blob/master/Resources/preview.gif)
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS [•](https://github.com/xmartlabs/XLPagerTabStrip/blob/master/Example/youtube.gif)
+* [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar for iOS [•](https://github.com/uias/Tabman/blob/master/Docs/img/tm_header.png)
+* [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller [•](https://github.com/Minitour/AZTabBarController/blob/master/Screenshots/aztabbar.gif)
+* [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs [•](https://github.com/marcosgriselli/SwipeableTabBarController/blob/master/./Resources/GIFs/SwipeableTabBarController_new.gif)
 
 ### Table View
 
 * [preview-transition](https://github.com/Ramotion/preview-transition) - Simple preview gallery UI controller with animated tranisitions [•](https://github.com/Ramotion/preview-transition/blob/master/preview-transition.gif)
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
-
-* [TableFlip](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻
-* [DTTableViewManager](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
-* [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift.
-* [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - A UITableView extension that enables cell insertion from the bottom of a table view.
-* [SelectionList](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
-* [AZTableViewController](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with dummy views.
-* [SAInboxViewController](https://github.com/marty-suzuki/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning.
-* [StaticTableViewController](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
-* [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableView configuration.
 
 ### Web View
 
