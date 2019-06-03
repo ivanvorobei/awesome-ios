@@ -41,7 +41,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 #### Other
 
-- [Design](#design)
+- [Design](#icon)
 	- [Icon](#icon)
 	- [Sketch](#sketch)
 	- [Font](#font)
@@ -266,10 +266,6 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource [•](https://github.com/edopelawi/CascadingTableDelegate/blob/master/ReadmeImages/sample-page-screenshot.jpg)
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project [•](https://github.com/HamzaGhazouani/HGPlaceholders/blob/master/Screenshots/default.gif)
-
-### Design
-
-* [Apple Design Source](https://developer.apple.com/design/resources/) - Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides
 
 ### Icon
 
