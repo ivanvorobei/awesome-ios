@@ -32,7 +32,6 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 	- [UIPageControl](#uipagecontrol)
 - [Collection View](#collection-view)
 - [Form & Settings](#form--settings)
-- [Keyboard](#keyboard)
 - [Label](#label)
 - [Login](#login)
 - [Menu](#menu)
@@ -204,15 +203,14 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form [•](https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966)
 * [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow) - A row for Eureka to implement password validations [•](https://github.com/EurekaCommunity/GenericPasswordRow/blob/master/Media/GenericPasswordRow.gif)
 
-### Keyboard
-
-* [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - A drop-in universal solution for keeping any UIView visible when the keyboard is being shown - no more UIScrollViews!
-* [KeyboardObserver](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
-
 ### Label
 
-* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
-* [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel [•](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
+* [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel [•](https://raw.githubusercontent.com/kciter/GlitchLabel/master/Images/preview.gif)
+* [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function [•](https://github.com/suzuki-0000/CountdownLabel/blob/master/Screenshots/example01.gif)
+* [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect [•](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif)
+* [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR [•](https://github.com/hanleyweng/CoreML-in-ARKit/blob/master/post-media/giphy.gif)
+* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing [•](https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif)
 
 ### Login
 
