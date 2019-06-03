@@ -150,9 +150,9 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 
 ### Switch
 
-* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch.
-* [RAMPaperSwitch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on.
-* [Switcher](https://github.com/knn90/Switcher) - Swift - Custom UISwitcher with animation when change status.
+* [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection [•](https://github.com/TBXark/TKSwitcherCollection/blob/master/Images/liquid.gif)
+* [RAMPaperSwitch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on [•](https://github.com/Ramotion/paper-switch/blob/master/paper-switch.gif)
+* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch [•](https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif)
 
 ### PickerView
 
