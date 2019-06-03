@@ -30,9 +30,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 	- [TextField](#textfield)
 	- [TextView](#textview)
 	- [UIPageControl](#uipagecontrol)
-- [Collection View](#collection-view-layout)
-    - [Collection View Layout](#collection-view-layout)
-    - [Expandable Collection Cell](#expandable-collection-cell)
+- [Collection View](#collection-view)
 - [Form & Settings](#form--settings)
 - [Keyboard](#keyboard)
 - [Label](#label)
@@ -73,6 +71,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 ### Action Sheet
 
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
+* [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces [•](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
 * [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView [•](https://github.com/dillidon/alerts-and-pickers/blob/new/Assets/gifs/actionSheet-.gif)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -  A library that helps you display and customise alerts and action sheets on iPad and iPhone [•](https://github.com/Codigami/CFAlertViewController/blob/master/Images/Demo_1.gif)
@@ -105,7 +104,6 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [MotionAnimation](https://github.com/lkzhao/MotionAnimation) - Lightweight animation library for UIKit [•](https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif)
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Chainable animations [•](https://github.com/draveness/DKChainableAnimationKit/blob/master/Gifs/Demo2.gif)
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti! Who doesn't like confetti? [•](https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif)
-* [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations [•](https://camo.githubusercontent.com/0f1c876398ca21b55babe0df926baf52d3498d5f/687474703a2f2f692e67697068792e636f6d2f323646786f6c4c7a334152316f7a3631792e676966)
 
 ### Transition
 
@@ -139,6 +137,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI [•](https://github.com/tispr/tispr-card-stack/blob/master/Screenshot_main.gif)
 * [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit [•](https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif)
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
+* [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
 
 ### Button
@@ -189,21 +188,21 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl [•](https://github.com/ChiliLabs/CHIPageControl/blob/master/Images/demo.gif)
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here [•](https://github.com/popwarsweet/PageControls/blob/master/demo.gif)
 
-### Collection View Layout
+### Collection View
 
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
+* [gliding-collection](https://github.com/Ramotion/gliding-collection) - Smooth, flowing, customizable decision for a UICollectionView Swift Controller [•](https://github.com/Ramotion/gliding-collection/blob/master/assets/gliding-collection.gif)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
 * [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout with slanted content [•](https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif)
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce [•](https://github.com/roberthein/BouncyLayout/blob/master/art/gifs/02.gif)
-
-### Expandable Collection Cell
-
-* [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
-* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
+* [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 
 ### Form & Settings
 
-* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in pure Swift.
-* [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow) - A row for Eureka to implement password validations.
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
+* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder [•](https://github.com/xmartlabs/Eureka/blob/master/Example/Media/EurekaExample1.gif)
+* [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form [•](https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966)
+* [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow) - A row for Eureka to implement password validations [•](https://github.com/EurekaCommunity/GenericPasswordRow/blob/master/Media/GenericPasswordRow.gif)
 
 ### Keyboard
 
@@ -223,8 +222,9 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### Menu
 
-* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches.
-* [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
+* [circle-menu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations [•](https://github.com/Ramotion/circle-menu/blob/master/circle-menu.gif)
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
+
 
 ### Pull to Refresh
 
@@ -251,6 +251,9 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [WormTabStrip](https://github.com/EzimetYusup/WormTabStrip) Beatiful ViewPager For iOS written in Swift.
 
 ### Table View
+
+* [](https://github.com/Ramotion/preview-transition) - Simple preview gallery UI controller with animated tranisitions [•](https://github.com/Ramotion/preview-transition/blob/master/preview-transition.gif)
+* [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
 
 * [TableFlip](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻
 * [DTTableViewManager](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
