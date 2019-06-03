@@ -38,13 +38,13 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 - [Pull to Refresh](#pull-to-refresh)
 - [Tab Bar](#tab-bar)
 - [Table View](#table-view)
-- [Web View](#web-view)
 
 #### Other
 
 - [Design](#design)
 	- [Icon](#icon)
 	- [Sketch](#sketch)
+	- [Font](#font)
 - [Store](#store)
 
 
@@ -194,6 +194,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce [•](https://github.com/roberthein/BouncyLayout/blob/master/art/gifs/02.gif)
 *  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView [•](https://camo.githubusercontent.com/bb984a34320d944ccf561857995c90629f5037a0/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f646334323539613135303438303136333139393038353836)
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
+* [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - UICollectionViewLayout with focused content [•](https://github.com/fdzsergio/SFFocusViewLayout/blob/master/Screenshots/SFFocusViewLayout.gif)
 
 ### Form & Settings
 
@@ -264,13 +265,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - I envied so much Spotify iOS app this great playlist preview cell. Now you can give your users ability to quick check 'what content is hidden under your UITableViewCell' [•](https://github.com/robertherdzik/RHPreviewCell/blob/master/ReadmeAssets/demo.gif)
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource [•](https://github.com/edopelawi/CascadingTableDelegate/blob/master/ReadmeImages/sample-page-screenshot.jpg)
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
-
-### Web View
-
-* [Otafuku](https://github.com/tasanobu/Otafuku) - Otafuku provides utility classes to use WKWebView in Swift.
-* [SwiftWebVC](https://github.com/meismyles/SwiftWebVC) - A drop-in inline browser for your Swift iOS app.
-* [SVWebViewController](https://github.com/TransitApp/SVWebViewController) - A drop-in inline browser for your iOS app.
-* [PTPopupWebView](https://github.com/pjocprac/PTPopupWebView) - PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item 
+* [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project [•](https://github.com/HamzaGhazouani/HGPlaceholders/blob/master/Screenshots/default.gif)
 
 ### Design
 
@@ -283,7 +278,15 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### Sketch
 
+* [Apple Design Sources](https://developer.apple.com/design/resources/) - Design apps quickly and accurately by using Sketch
 * [SketchAppSources](https://www.sketchappsources.com) - The largest collection of Sketch resources for mobile UI
+
+### Font
+
+* [Fonts](https://developer.apple.com/fonts/) - Fonts for Apple Platforms
+* [Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) - The fonts of this typeface are optimized to give your text unmatched legibility
+* [iOS Fonts](http://iosfonts.com/) - List of iOS Fonts
+* [iOS Font List](https://iosfontlist.com/#availability=10.0&preinstalled) - Also list of fonts
 
 ### Store
 
