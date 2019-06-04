@@ -88,6 +88,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [Dodo](https://github.com/evgenyneu/Dodo) - A message bar [•](https://raw.githubusercontent.com/evgenyneu/Dodo/master/Graphics/presets/info.jpg)
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar [•](https://github.com/SwiftKickMobile/SwiftMessages/blob/master/Demo/demo.png)
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners [•](https://github.com/Daltron/NotificationBanner/blob/master/NotificationBanner/Assets/basic.gif)
+* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS [•](https://github.com/huri000/assets/blob/master/swift-entrykit/alerts.gif)
 
 ### Animation
 
