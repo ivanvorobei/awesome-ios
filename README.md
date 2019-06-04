@@ -275,7 +275,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### Sketch
 
-* [Apple Design Sources](https://developer.apple.com/design/resources/) - Design apps quickly and accurately by using Sketch
+* [Apple Design Sources](https://developer.apple.com/design/resources/) - Design apps quickly and accurately by using `Sketch`
 * [SketchAppSources](https://www.sketchappsources.com) - The largest collection of Sketch resources for mobile UI
 
 ### Font
