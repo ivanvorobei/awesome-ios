@@ -262,7 +262,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://github.com/KittenYang/GooeyTabbar/blob/master/gooeyTabbar_Temple.gif)
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items [•](https://github.com/Ramotion/animated-tab-bar/blob/master/Screenshots/animatedTabBar.gif)
-* [CircleBar](https://github.com/softhausHQ/CircleBar) - 🔶 A fun, easy-to-use tab bar navigation controller [•](https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif)
+* [CircleBar](https://github.com/softhausHQ/CircleBar) - Fun, easy-to-use tab bar navigation controller [•](https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif)
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control [•](https://github.com/Yalantis/Segmentio/blob/master/Assets/animation.gif)
 * [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements [•](https://github.com/Ramotion/adaptive-tab-bar/blob/master/adaptive_tab_bar.gif)
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs [•](https://github.com/Yalantis/ColorMatchTabs/blob/master/Resources/preview.gif)
@@ -286,6 +286,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 * [iOS 11 Glyphs](https://icons8.com/ios) - These icons are a must-have for all iOS developers
 * [useAnimations](https://useanimations.com) - Animated icons in Lottie Framework and After Effects for immediate implementation
+* [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) - Provides a set of over 1,500 consistent, highly configurable symbols you can use in your app
 
 ### Sketch
 
