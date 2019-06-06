@@ -31,6 +31,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 	- [TextView](#textview)
 	- [UIPageControl](#uipagecontrol)
 - [Collection View](#collection-view)
+- [Controller](#controller)
 - [Form & Settings](#form--settings)
 - [Label](#label)
 - [Menu](#menu)
@@ -60,7 +61,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator [•](https://raw.githubusercontent.com/jogendra/LoadingShimmer/master/Screenshots/demo.gif)
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation [•](https://github.com/yoavlt/LiquidLoader/raw/master/Demo/grow-circle.gif)
 * [STLoadingGroup](https://github.com/saitjr/STLoadingGroup) - loading views [•](https://github.com/saitjr/STLoadingGroup/blob/master/resources/loading.gif)
-* [AlamofireNetworkActivityIndicator](https://github.com/Alamofire/AlamofireNetworkActivityIndicator) - Controls the visibility of the network activity indicator on iOS using Alamofire
+* [AlamofireNetworkActivityIndicator](https://github.com/Alamofire/AlamofireNetworkActivityIndicator) - Controls the visibility of the network activity indicator on iOS using `Alamofire`
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - A circular progress view with gradients [•](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif)
 * [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view [•](https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966)
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths [•](https://github.com/polqf/FillableLoaders/blob/master/Images/waves.gif)
@@ -94,15 +95,16 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif)
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations [•](https://camo.githubusercontent.com/301f360304b089f40989a870ff3c04572054e288/687474703a2f2f636c2e6c792f696d6167652f316e3145326a3357337932342f737072696e6773637265656e2e6a7067)
-* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
 * [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS [•](https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif)
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable [•](https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif)
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line [•](https://camo.githubusercontent.com/1f76933a70dd39cb3f36f77519d8c163313e316a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6d6172636f7367726973656c6c692f56696577416e696d61746f7240636630363565393661633334633932343731306464383463373138656364336265313739616533372f5265736f75726365732f656e74697265566965772e737667)
-* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more UICollectionView [•](https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif)
+* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more `UICollectionView` [•](https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif)
 * [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease [•](https://github.com/roberthein/Ease/blob/master/Art/header.gif)
-* [MotionAnimation](https://github.com/lkzhao/MotionAnimation) - Lightweight animation library for UIKit [•](https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif)
+* [MotionAnimation](https://github.com/lkzhao/MotionAnimation) - Lightweight animation library for `UIKit` [•](https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif)
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Chainable animations [•](https://github.com/draveness/DKChainableAnimationKit/blob/master/Gifs/Demo2.gif)
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti! Who doesn't like confetti? [•](https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif)
+* [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces" [•](https://github.com/nathangitter/fluid-interfaces/blob/master/Resources/flashdemo.gif)
 
 ### Transition
 
@@ -112,15 +114,16 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions [•](https://github.com/Touchwonders/Transition/blob/master/Documentation/artwork/tabbar.gif)
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - This component implements transition animation to crumble view-controller into tiny pieces [•](https://github.com/Yalantis/StarWars.iOS/blob/master/preview.gif)
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - A custom modal transition that presents and dismiss a controller with an expanding bubble effect [•](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
-* [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag [•](https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif)
+* [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A `UIKit` custom transition that simulates an elastic drag [•](https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif)
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design [•](https://github.com/jonathantribouharet/JTMaterialTransition/blob/master/Screens/example.gif)
+* [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view [•](https://github.com/naru-jpn/View2ViewTransition/blob/master/preview.gif?raw=true)
 
 ### Badge
 
-* [BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any UIView a full fledged animated notification center [•](https://camo.githubusercontent.com/88938e803d4a75413002c77f6b02178817a6ac33/68747470733a2f2f692e696d6775722e636f6d2f32333874696b662e676966)
-* [EasyNotificationBadge](https://github.com/Minitour/EasyNotificationBadge) - UIView extension that adds a notification badge [•](https://github.com/Minitour/EasyNotificationBadge/blob/master/Screenshots/heading.gif)
+* [BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any `UIView` a full fledged animated notification center [•](https://camo.githubusercontent.com/88938e803d4a75413002c77f6b02178817a6ac33/68747470733a2f2f692e696d6775722e636f6d2f32333874696b662e676966)
+* [EasyNotificationBadge](https://github.com/Minitour/EasyNotificationBadge) - `UIView` extension that adds a notification badge [•](https://github.com/Minitour/EasyNotificationBadge/blob/master/Screenshots/heading.gif)
 
 ### Calendar
 
@@ -135,7 +138,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views [•](https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png)
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards [•](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
 * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI [•](https://github.com/tispr/tispr-card-stack/blob/master/Screenshot_main.gif)
-* [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit [•](https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif)
+* [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on `UIKit` [•](https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif)
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
@@ -191,20 +194,29 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 ### Collection View
 
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
-* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
-* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout with slanted content [•](https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif)
-* [gliding-collection](https://github.com/Ramotion/gliding-collection) - Smooth, flowing, customizable decision for a UICollectionView Swift Controller [•](https://github.com/Ramotion/gliding-collection/blob/master/assets/gliding-collection.gif)
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
+* [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - `UICollectionViewLayout` with slanted content [•](https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif)
+* [gliding-collection](https://github.com/Ramotion/gliding-collection) - Smooth, flowing, customizable decision for a `UICollectionView` Swift Controller [•](https://github.com/Ramotion/gliding-collection/blob/master/assets/gliding-collection.gif)
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce [•](https://github.com/roberthein/BouncyLayout/blob/master/art/gifs/02.gif)
-*  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView [•](https://camo.githubusercontent.com/bb984a34320d944ccf561857995c90629f5037a0/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f646334323539613135303438303136333139393038353836)
+*  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for `UICollectionView` [•](https://camo.githubusercontent.com/bb984a34320d944ccf561857995c90629f5037a0/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f646334323539613135303438303136333139393038353836)
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
-* [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - UICollectionViewLayout with focused content [•](https://github.com/fdzsergio/SFFocusViewLayout/blob/master/Screenshots/SFFocusViewLayout.gif)
+* [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - `UICollectionViewLayout` with focused content [•](https://github.com/fdzsergio/SFFocusViewLayout/blob/master/Screenshots/SFFocusViewLayout.gif)
+
+### Controller
+
+* [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
+* [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
+* [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement [•](https://github.com/GitHawkApp/MessageViewController/blob/master/animation.gif)
+* [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS [•](https://github.com/steve228uk/MessengerKit/blob/master/readme-resources/screenshots/examples.png)
 
 ### Form & Settings
 
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder [•](https://github.com/xmartlabs/Eureka/blob/master/Example/Media/EurekaExample1.gif)
-* [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form [•](https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966)
+* [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating `UITableView` based form [•](https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966)
 * [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow) - A row for Eureka to implement password validations [•](https://github.com/EurekaCommunity/GenericPasswordRow/blob/master/Media/GenericPasswordRow.gif)
+* [LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions [•](https://github.com/cgoldsby/LoginCritter/blob/master/assets/demo.gif)
 
 ### Label
 
@@ -224,7 +236,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3 [•](https://github.com/GitHawkApp/ContextMenu/blob/master/images/animation.gif)
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control [•](https://github.com/Yalantis/Segmentio/blob/master/Assets/animation.gif)
-* [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView [•](https://github.com/Yalantis/Persei/blob/master/Assets/animation.gif)
+* [Persei](https://github.com/Yalantis/Persei) - Animated top menu for `UITableView`, `UICollectionView`, `UIScrollView` [•](https://github.com/Yalantis/Persei/blob/master/Assets/animation.gif)
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title [•](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/Assets/Demo.gif)
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects [•](https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966)
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://github.com/KittenYang/GooeyTabbar/blob/master/gooeyTabbar_Temple.gif)
@@ -244,7 +256,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh [•](https://github.com/CRAnimation/CRRefresh/blob/master/CRRefresh2.gif)
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to UIScrollView [•](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - GIFRefreshControl is a pull to refresh that supports GIF images as track animations [•](https://github.com/delannoyk/GIFRefreshControl/blob/master/example2.gif)
-* [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in UICollectionView with a sticky header flow layout [•](https://github.com/fruitcoder/ReplaceAnimation/blob/master/RefreshSuccess.gif)
+* [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in `UICollectionView` with a sticky header flow layout [•](https://github.com/fruitcoder/ReplaceAnimation/blob/master/RefreshSuccess.gif)
 
 ### Tab Bar
 
@@ -257,18 +269,18 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS [•](https://github.com/xmartlabs/XLPagerTabStrip/blob/master/Example/youtube.gif)
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar for iOS [•](https://github.com/uias/Tabman/blob/master/Docs/img/tm_header.png)
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller [•](https://github.com/Minitour/AZTabBarController/blob/master/Screenshots/aztabbar.gif)
-* [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs [•](https://github.com/marcosgriselli/SwipeableTabBarController/blob/master/./Resources/GIFs/SwipeableTabBarController_new.gif)
+* [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - `UITabBarController` with swipe interaction between its tabs [•](https://github.com/marcosgriselli/SwipeableTabBarController/blob/master/./Resources/GIFs/SwipeableTabBarController_new.gif)
 
 ### Table View
 
 * [preview-transition](https://github.com/Ramotion/preview-transition) - Simple preview gallery UI controller with animated tranisitions [•](https://github.com/Ramotion/preview-transition/blob/master/preview-transition.gif)
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
-* [MYTableViewIndex](https://github.com/mindz-eye/MYTableViewIndex) - A pixel perfect replacement for UITableView section index [•](https://camo.githubusercontent.com/3c789faf45e094fca7cb665567f80112350a3981/68747470733a2f2f7261772e6769746875622e636f6d2f6d696e647a2d6579652f4d595461626c6556696577496e6465782f6d61737465722f53637265656e73686f74732f686967686c69676874696e672e676966)
-* [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail app [•](https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif)
-* [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - I envied so much Spotify iOS app this great playlist preview cell. Now you can give your users ability to quick check 'what content is hidden under your UITableViewCell' [•](https://github.com/robertherdzik/RHPreviewCell/blob/master/ReadmeAssets/demo.gif)
+* [MYTableViewIndex](https://github.com/mindz-eye/MYTableViewIndex) - A pixel perfect replacement for `UITableView` section index [•](https://camo.githubusercontent.com/3c789faf45e094fca7cb665567f80112350a3981/68747470733a2f2f7261772e6769746875622e636f6d2f6d696e647a2d6579652f4d595461626c6556696577496e6465782f6d61737465722f53637265656e73686f74732f686967686c69676874696e672e676966)
+* [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable `UITableViewCell` based on the stock Mail app [•](https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif)
+* [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - I envied so much Spotify iOS app this great playlist preview cell. Now you can give your users ability to quick check 'what content is hidden under your `UITableViewCell`' [•](https://github.com/robertherdzik/RHPreviewCell/blob/master/ReadmeAssets/demo.gif)
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource [•](https://github.com/edopelawi/CascadingTableDelegate/blob/master/ReadmeImages/sample-page-screenshot.jpg)
-* [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
-* [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project [•](https://github.com/HamzaGhazouani/HGPlaceholders/blob/master/Screenshots/default.gif)
+* [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of `UITableView` can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
+* [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project [•](https://github.com/HamzaGhazouani/HGPlaceholders/blob/master/Screenshots/default.gif)
 
 ### Icon
 
@@ -289,7 +301,8 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### Tutorial
 
-* [Swift UI](https://developer.apple.com/tutorials/swiftui) - Tutorials step by steb about `SwiftUI`
+* [SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutorials step by steb about `SwiftUI`
+* [SwiftUI examples projects](https://github.com/ivanvorobei/SwiftUI) - Examples projects using `SwiftUI`. UI, Layout, Animation & Draw.
 
 ### Store
 
