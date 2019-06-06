@@ -203,6 +203,10 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - `UICollectionViewLayout` with focused content [•](https://github.com/fdzsergio/SFFocusViewLayout/blob/master/Screenshots/SFFocusViewLayout.gif)
 
+### Color
+
+* [Hue](https://github.com/zenangst/Hue) - All-in-one coloring utility
+
 ### Controller
 
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
@@ -305,10 +309,6 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 * [SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutorials step by steb about `SwiftUI`
 * [SwiftUI examples projects](https://github.com/ivanvorobei/SwiftUI) - Examples projects using `SwiftUI`. UI, Layout, Animation & Draw.
-
-### Color
-
-* [Hue](https://github.com/zenangst/Hue) - All-in-one coloring utility.
 
 ### Store
 
