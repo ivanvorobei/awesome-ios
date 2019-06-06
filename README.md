@@ -31,6 +31,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 	- [TextView](#textview)
 	- [UIPageControl](#uipagecontrol)
 - [Collection View](#collection-view)
+- [Color](#color)
 - [Controller](#controller)
 - [Form & Settings](#form--settings)
 - [Label](#label)
@@ -304,6 +305,10 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 * [SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutorials step by steb about `SwiftUI`
 * [SwiftUI examples projects](https://github.com/ivanvorobei/SwiftUI) - Examples projects using `SwiftUI`. UI, Layout, Animation & Draw.
+
+### Color
+
+* [Hue](https://github.com/zenangst/Hue) - All-in-one coloring utility.
 
 ### Store
 
