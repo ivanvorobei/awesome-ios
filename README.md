@@ -296,7 +296,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 In the process of sorting
 
-* [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
+* [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * [SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework Learning and Usage Guide. 🚀
 * [SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19.
 * [KeyboardAvoiding](https://github.com/a2/KeyboardAvoiding) - A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets.
@@ -342,6 +342,7 @@ In the process of sorting
 * [iOS 11 Glyphs](https://icons8.com/ios) - These icons are a must-have for all iOS developers
 * [useAnimations](https://useanimations.com) - Animated icons in `Lottie` Framework and After Effects for immediate implementation
 * [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) - Provides a set of over 1,500 consistent, highly configurable symbols you can use in your app
+* [PaintCode](https://www.paintcodeapp.com) - Turn drawings vector icons into Swift
 
 ### Sketch Projects
 
@@ -361,7 +362,7 @@ In the process of sorting
 
 ### UI Store
 
-* [xcode-shop.com](https://xcode-shop.com) - I am sale some source of my apps
+* [xcode-shop.com](https://xcode-shop.com) - I am sale some source of my apps & elements
 * [codecanyon.net](https://codecanyon.net/category/mobile/ios) - App templates from developers
 
 ## Sponsors
