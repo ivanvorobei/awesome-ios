@@ -75,7 +75,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
 * [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces [•](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
-* [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView [•](https://github.com/dillidon/alerts-and-pickers/blob/new/Assets/gifs/actionSheet-.gif)
+* [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with `UITextField`, `UIDatePicker`, `UIPickerView`, `UITableView` and `UICollectionView` [•](https://github.com/dillidon/alerts-and-pickers/blob/new/Assets/gifs/actionSheet-.gif)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -  A library that helps you display and customise alerts and action sheets on iPad and iPhone [•](https://github.com/Codigami/CFAlertViewController/blob/master/Images/Demo_1.gif)
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A Swift library to provide a bouncy action sheet [•](https://raw.githubusercontent.com/wiki/ytakzk/Hokusai/images/demo.gif)
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) - Animated alert library like Swarm app [•](https://raw.githubusercontent.com/entotsu/TKSwarmAlert/master/ScreenShots/minidemo.gif)
@@ -149,17 +149,17 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 ### Button
 
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif)
-* [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons [•](https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966)
-* [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation [•](https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966)
+* [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS `UIButton` [•](https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966)
+* [TransitionButton](https://github.com/AladinWay/TransitionButton) - `UIButton` sublass for loading and transition animation [•](https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966)
 * [WCLShineButton](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining [•](https://github.com/imwcl/WCLShineButton/blob/master/DemoGif.gif)
-* [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress [•](https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif)
+* [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible `UIButton` subclass with animated loading progress [•](https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 
 ### Segmented Control
 
 * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator [•](https://github.com/TBXark/TKRubberIndicator/blob/master/Example/demo.gif)
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation [•](https://github.com/TBXark/PinterestSegment/blob/master/Example/demo.gif)
-* [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement [•](https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif)
+* [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom `UISegmentedControl` replacement [•](https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif)
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations [•](https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif)
 * [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) - A powerful and easy to use segmented view [•](https://github.com/pujiaxin33/JXExampleImages/blob/master/JXSegmentedView/Indicator/LineLengthen.gif)
 
@@ -229,10 +229,10 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### Label
 
-* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel [•](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
-* [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel [•](https://raw.githubusercontent.com/kciter/GlitchLabel/master/Images/preview.gif)
-* [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function [•](https://github.com/suzuki-0000/CountdownLabel/blob/master/Screenshots/example01.gif)
-* [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect [•](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif)
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for `UILabel` [•](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
+* [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching `UILabel` [•](https://raw.githubusercontent.com/kciter/GlitchLabel/master/Images/preview.gif)
+* [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown `UILabel` with morphing animation, and some useful function [•](https://github.com/suzuki-0000/CountdownLabel/blob/master/Screenshots/example01.gif)
+* [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for `UILabel`, which automatically adds a scrolling marquee effect [•](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif)
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR [•](https://github.com/hanleyweng/CoreML-in-ARKit/blob/master/post-media/giphy.gif)
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing [•](https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif)
 
