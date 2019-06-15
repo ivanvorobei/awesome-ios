@@ -159,6 +159,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation [•](https://github.com/TBXark/PinterestSegment/blob/master/Example/demo.gif)
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement [•](https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif)
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations [•](https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif)
+* [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) - A powerful and easy to use segmented view [•](https://github.com/pujiaxin33/JXExampleImages/blob/master/JXSegmentedView/Indicator/LineLengthen.gif)
 
 ### Slider
 
