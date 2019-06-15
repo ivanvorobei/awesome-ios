@@ -42,7 +42,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 #### SwiftUI
 
-- [Projects](#projects)
+- [Projects](#swiftui)
 
 #### Other
 
