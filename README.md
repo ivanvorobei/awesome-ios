@@ -177,10 +177,10 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 * [Reel Search](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list [•](https://github.com/Ramotion/reel-search/blob/master/reel-search.gif)
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern" [•](https://github.com/Skyscanner/SkyFloatingLabelTextField/blob/master/SkyFloatingLabelTextField/images/showcase-example.gif)
-* [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops [•](https://github.com/raulriera/TextFieldEffects/blob/master/Screenshots/Kaede.gif)
+* [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom `UITextField` effects inspired by Codrops [•](https://github.com/raulriera/TextFieldEffects/blob/master/Screenshots/Kaede.gif)
 * [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield [•](https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif)
-* [SearchTextField](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions lis [•](https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif)
-* [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement [•](https://github.com/jobandtalent/AnimatedTextInput/blob/master/Assets/general.gif)
+* [SearchTextField](https://github.com/apasccon/SearchTextField) - `UITextField` subclass with autocompletion suggestions lis [•](https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif)
+* [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated `UITextField` and `UITextView` replacement [•](https://github.com/jobandtalent/AnimatedTextInput/blob/master/Assets/general.gif)
 
 ### TextView
 
@@ -236,7 +236,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine [•](https://github.com/Yalantis/GuillotineMenu/blob/master/example.gif)
 * [circle-menu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations [•](https://github.com/Ramotion/circle-menu/blob/master/circle-menu.gif)
-* [AirBar](https://github.com/uptechteam/AirBar) - UIScrollView driven expandable menu [•](https://github.com/uptechteam/AirBar/blob/master/Logo/Demo.gif)
+* [AirBar](https://github.com/uptechteam/AirBar) - `UIScrollView` driven expandable menu [•](https://github.com/uptechteam/AirBar/blob/master/Logo/Demo.gif)
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3 [•](https://github.com/GitHawkApp/ContextMenu/blob/master/images/animation.gif)
@@ -250,17 +250,17 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 ### Navigation Bar
 
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects [•](https://raw.githubusercontent.com/gmertk/BusyNavigationBar/master/Screenshots/gray_stripe.gif)
-* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView [•](https://github.com/andreamazz/AMScrollingNavbar/blob/master/assets/screenshot.gif)
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a `UIScrollView` [•](https://github.com/andreamazz/AMScrollingNavbar/blob/master/assets/screenshot.gif)
 * [SPFakeBar](https://github.com/ivanvorobei/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other [•](https://github.com/IvanVorobei/SPStorkController/blob/master/Resources/Navigation%20Bar.jpg)
 
 ### Pull to Refresh
 
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS [•](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
-* [PullToBounce](https://github.com/entotsu/PullToBounce) - Animated Pull To Refresh Library for UIScrollView [•](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)
+* [PullToBounce](https://github.com/entotsu/PullToBounce) - Animated Pull To Refresh Library for `UIScrollView` [•](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)
 * [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS [•](https://github.com/Onix-Systems/RainyRefreshControl/blob/develop/gif/umbrella_refresh.gif)
 * [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh) - Chrome iOS app style pull to refresh with multiple actions [•](https://camo.githubusercontent.com/88412633783b20de69ae9d047ec03f3b51169a7b/68747470733a2f2f6170692e6d6f6e6f736e61702e636f6d2f7270632f66696c652f646f776e6c6f61643f69643d72615136435468374b564a31657843756b524f5948356d6a696267774e70)
 * [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh [•](https://github.com/CRAnimation/CRRefresh/blob/master/CRRefresh2.gif)
-* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to UIScrollView [•](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
+* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to `UIScrollView` [•](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - GIFRefreshControl is a pull to refresh that supports GIF images as track animations [•](https://github.com/delannoyk/GIFRefreshControl/blob/master/example2.gif)
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in `UICollectionView` with a sticky header flow layout [•](https://github.com/fruitcoder/ReplaceAnimation/blob/master/RefreshSuccess.gif)
 
@@ -291,7 +291,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 ### Icon
 
 * [iOS 11 Glyphs](https://icons8.com/ios) - These icons are a must-have for all iOS developers
-* [useAnimations](https://useanimations.com) - Animated icons in Lottie Framework and After Effects for immediate implementation
+* [useAnimations](https://useanimations.com) - Animated icons in `Lottie` Framework and After Effects for immediate implementation
 * [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) - Provides a set of over 1,500 consistent, highly configurable symbols you can use in your app
 
 ### Sketch
