@@ -5,10 +5,9 @@
 A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
 Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Resources/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
 
-If you like the project, do not forget to `put star ★`  
-or help me by donate:
+If you like the project, do not forget to `put star ★` or visit my store for iOS developers:
 
-[![Patron](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Patron%20Button.svg)](https://patreon.com/ivanvorobei)
+[![xcode-shop.com](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Buttons/Xcode%20Shop%20Button%20-%203.svg)](https://xcode-shop.com)
 
 See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-ui#sponsors) section.
 
