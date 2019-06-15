@@ -380,4 +380,4 @@ Support me with a monthly donation and help me continue activities. After paymen
 
 ## Contact
 
-If you need any application or UI to be developed, message me at hello@ivanvorobei.by, [telegram](https://t.me/ivanvorobei) or [twitter](https://twitter.com/varabeis). I develop iOS apps and designs. I use `swift` for development. You can see my [apps in AppStore](https://itunes.apple.com/developer/id1446635817).
+If you need any application or UI to be developed, message me at [telegram](https://t.me/ivanvorobei) or [twitter](https://twitter.com/varabeis). I develop iOS apps and designs. I use `swift` for development. You can see my apps [in AppStore](https://itunes.apple.com/developer/id1446635817).
