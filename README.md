@@ -40,14 +40,17 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 - [Tab Bar](#tab-bar)
 - [Table View](#table-view)
 
+#### SwiftUI
+
+- [Projects](#projects)
+
 #### Other
 
-- [Design](#icon)
-	- [Icon](#icon)
-	- [Sketch](#sketch)
-	- [Font](#font)
-- [Tutorial](#tutorial)
-- [Store](#store)
+- [Icons & Glyphs](#icons--glyphs)
+- [Sketch Projects](#sketch-projects)
+- [Fonts](#font)
+- [Apple Tutorials](#apple-tutorials)
+- [UI Store](#ui-store)
 
 
 ## Content
@@ -289,30 +292,74 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of `UITableView` can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project [•](https://github.com/HamzaGhazouani/HGPlaceholders/blob/master/Screenshots/default.gif)
 
-### Icon
+### SwiftUI
+
+In the process of sorting
+
+* [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
+* [SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework Learning and Usage Guide. 🚀
+* [SwiftUITodo](https://github.com/devxoul/SwiftUITodo) - An example to-do list app using SwiftUI which is introduced in WWDC19.
+* [KeyboardAvoiding](https://github.com/a2/KeyboardAvoiding) - A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets.
+* [DispatchStore](https://github.com/alexdrone/DispatchStore) - Swift package that implements an operation based, multi-store à-la Flux for SwiftUI.
+* [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) - SwiftUI based GitHubSearch example.
+* [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB) - SwiftUI MovieDB prototype app built with Xcode 11 Beta & macOS 10.15 Catalina.
+* [WWDCPlayer](https://github.com/YOONMS/WWDCPlayer) - 🤖 WWDC19 player using SwiftUI.
+* [MyDogs](https://github.com/valvoline/MyDogs) - A simple SwiftUI example for testing Lists, BindableObject, State management and Network.
+* [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API.
+* [SwiftUI-Combine](https://github.com/ra1028/SwiftUI-Combine) - This is an example project of SwiftUI and Combine using GitHub API.
+* [SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel) - An experimental time traveling state store for SwiftUI.
+* [SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike) - SwiftUI imitation app interface (Build Jike App with SwiftUI).
+* [2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
+* [SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks) - Introducing SwiftUI. A declarative way to create User Interfaces with Swift.
+* [SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux) - 🚀 This is a tiny experimental application using SwiftUI with Flux architecture.
+* [SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples) - Examples of new SwiftUI framework.
+* [SwiftUICalculator](https://github.com/hotchner/SwiftUICalculator) - A calculator app using SwiftUI which is introduced in WWDC19.
+* [InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI) - Swift UI Demo for an instagram copy.
+* [SwiftUITheme](https://github.com/bellots/SwiftUITheme) - A first idea to style SwiftUI Views.
+* [Lists - Navigation_SwiftUI](https://github.com/swifterH/Lists_-_Navigation_SwiftUI) - Exploration of Apple Developer's SwiftUI tutorial, detailing how to build lists and enable navigation between views with SwiftUI.
+* [injectable](https://github.com/vincent-pradeilles/injectable) - A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern.
+* [NetworkImage.swift](https://gist.github.com/ivanbruel/b2838f62cb281bd974ec9c9c121c6cbe) - Basic NetworkImage support for SwiftUI via Kingfisher
+* [SwiftUI-Combine-todo-example](https://github.com/jamfly/SwiftUI-Combine-todo-example) - A to-do list app using SwiftUI and combine with restful api.
+* [Bindings.swift](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8) - Re-implementation of @binding and @State (from SwiftUI) myself to better understand it.
+* [Contacts.swift](https://gist.github.com/jackhl/632935a2e90e3796e38c2143d5dadc96) - ?
+* [CombineUnsplash](https://github.com/vinhnx/CombineUnsplash) - Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination.
+* [RemoteImage.swift](https://gist.github.com/alexito4/59436b9ab0489b00fb137a8382f38ea5) - Rough sketch of SwiftUI RemoteImage using AlamofireImage.
+* [CombineFeedback](https://github.com/sergdort/CombineFeedback) - Unidirectional reactive architecture using new Apple Combine framework.
+* [Harvest](https://github.com/inamiy/Harvest) -  🌾 Harvest: Apple's Combine.framework + State Machine, inspired by Redux and Elm.
+* [Redux HandlingUserInput](https://github.com/AlexeyDemedetskiy/HandlingUserInput) - HandlingUserInput tutorial showcasing redux style of state and change management.
+* [SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI Cheat Sheet.
+* [swiftui_shadow_and_border.swift](https://gist.github.com/fitomad/b093e008f98c03e87b9c4ba7627798ff) - Testing SwiftUI. Adding shadow and corner radius to a View. Strange behavior depending on View background color.
+* [SwiftUI-MVVM](https://github.com/kitasuke/SwiftUI-MVVM) - Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API.
+* [SwiftUI-Circular.swift](https://gist.github.com/Thomvis/8a78d49a662f708311e0440f1f43a204) - Rough attempt at creating a container view that lays out its children in a circle.
+* [NotesApp.swift](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451) - A notes app written in >100 lines of swift using SwiftUI.
+* [UnsplashSwiftUI](https://github.com/kaunamohammed/UnsplashSwiftUI) - `UnsplashSwiftUI` A simple app powered by SwiftUI and Unsplash 🚀
+* [AniTime](https://github.com/PangMo5/AniTime) - Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture
+* [Fluxus](https://github.com/johnsusek/fluxus) - True one-way data flow for SwiftUI, inspired by Vuex.
+* [ChartView in SwiftUI](https://github.com/AppPear/ChartView) - Easy to use animated Chartview supporting `Bar and Piecharts`
+
+### Icons & Glyphs
 
 * [iOS 11 Glyphs](https://icons8.com/ios) - These icons are a must-have for all iOS developers
 * [useAnimations](https://useanimations.com) - Animated icons in `Lottie` Framework and After Effects for immediate implementation
 * [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) - Provides a set of over 1,500 consistent, highly configurable symbols you can use in your app
 
-### Sketch
+### Sketch Projects
 
 * [Apple Design Sources](https://developer.apple.com/design/resources/) - Design apps quickly and accurately by using `Sketch`
 * [SketchAppSources](https://www.sketchappsources.com) - The largest collection of Sketch resources for mobile UI
 
-### Font
+### Fonts
 
 * [Fonts](https://developer.apple.com/fonts/) - Fonts for Apple Platforms
 * [Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) - The fonts of this typeface are optimized to give your text unmatched legibility
 * [iOS Fonts](http://iosfonts.com/) - List of iOS Fonts
 * [iOS Font List](https://iosfontlist.com/#availability=10.0&preinstalled) - Also list of fonts
 
-### Tutorial
+### Apple Tutorials
 
 * [SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutorials step by steb about `SwiftUI`
-* [SwiftUI examples projects](https://github.com/ivanvorobei/SwiftUI) - Examples projects using `SwiftUI`. UI, Layout, Animation & Draw.
 
-### Store
+### UI Store
 
 * [xcode-shop.com](https://xcode-shop.com) - I am sale some source of my apps
 * [codecanyon.net](https://codecanyon.net/category/mobile/ios) - App templates from developers
