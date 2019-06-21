@@ -216,8 +216,10 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
+* [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController [•](https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png)
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement [•](https://github.com/GitHawkApp/MessageViewController/blob/master/animation.gif)
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS [•](https://github.com/steve228uk/MessengerKit/blob/master/readme-resources/screenshots/examples.png)
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://github.com/ivanvorobei/SPStorkController/blob/master/Resources/Preview.gif)
 
 ### Form & Settings
 
