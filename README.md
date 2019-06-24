@@ -9,6 +9,10 @@ If you like the project, do not forget to `put star ★` or visit my store for i
 
 [![xcode-shop.com](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Buttons/Xcode%20Shop%20Button%20-%201.svg)](https://xcode-shop.com)
 
+If you like the project, do not forget to `put star ★` or follow me in twitter:
+
+[![https://twitter.com/varabeis](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Buttons/Twitter-2.svg)](https://twitter.com/varabeis)
+
 See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-ui#sponsors) section.
 
 ## Navigate
