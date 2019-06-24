@@ -122,6 +122,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design [•](https://github.com/jonathantribouharet/JTMaterialTransition/blob/master/Screens/example.gif)
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view [•](https://github.com/naru-jpn/View2ViewTransition/blob/master/preview.gif?raw=true)
+* [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
 
 ### Badge
 
@@ -213,7 +214,8 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ### Controller
 
-* [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
+* [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
+* [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController [•](https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png)
