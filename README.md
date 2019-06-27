@@ -46,7 +46,7 @@ Here you will find projects on `UIKit`
 
 Now there are few projects since `SwiftUI` was just introduced. I look for new projects every day.
 
-- [Cards](#cards%20&%20area)
+- [Cards](#cards--area)
 - [Projects](https://github.com/ivanvorobei/SwiftUI)
 
 ### Other
@@ -357,8 +357,8 @@ Support me with a monthly donation and help me continue activities. After paymen
 
 ## Contact
 
-If you need any application or UI to be developed, contact me via [telegram](https://t.me/ivanvorobei). I develop iOS apps and designs. I use `swift`. You can see my apps [in AppStore](https://itunes.apple.com/developer/id1446635817).
-
 If you want to know more about Xcode, `UIKit` & Design, follow me on twitter:
 
 [![https://twitter.com/varabeis](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Buttons/Twitter-2.svg)](https://twitter.com/varabeis)
+
+You can see my apps [in AppStore](https://itunes.apple.com/developer/id1446635817).
