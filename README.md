@@ -46,7 +46,7 @@ Here you will find projects on `UIKit`
 
 Now there are few projects since `SwiftUI` was just introduced. I look for new projects every day.
 
-- [Cards](#cards)
+- [Cards](#cards%20&%20area)
 - [Projects](https://github.com/ivanvorobei/SwiftUI)
 
 ### Other
@@ -307,7 +307,7 @@ Useful projects and links for iOS design and UX
 
 Projects and elements for `Swift UI`. Supported sinse `iOS 13`.
 
-### Cards
+### Cards & Area
 
 * [Animatable Cards](https://github.com/ivanvorobei/SwiftUI#animatable-cards) - Three cards with `ZStack`, gesters and `Spring` animations [•](https://github.com/ivanvorobei/SwiftUI/blob/master/Previews/animatable-cards.gif)
 * [Area to Card](https://github.com/ivanvorobei/SwiftUI#area-to-card) - Card with resizable frame with bounce animation. Using text with some lines [•](https://github.com/ivanvorobei/SwiftUI/blob/master/Previews/area-to-card.gif)
@@ -359,6 +359,6 @@ Support me with a monthly donation and help me continue activities. After paymen
 
 If you need any application or UI to be developed, contact me via [telegram](https://t.me/ivanvorobei). I develop iOS apps and designs. I use `swift`. You can see my apps [in AppStore](https://itunes.apple.com/developer/id1446635817).
 
-If you want to know more about Xcode, UIKit & Design, follow me on twitter:
+If you want to know more about Xcode, `UIKit` & Design, follow me on twitter:
 
 [![https://twitter.com/varabeis](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Buttons/Twitter-2.svg)](https://twitter.com/varabeis)
