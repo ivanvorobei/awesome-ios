@@ -13,6 +13,8 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ## Navigate
 
+Here you will find projects on `UIKit`
+
 - [Activity Indicator](#activity-indicator)
 - [Action Sheet](#action-sheet)
 - [Alert](#alert)
@@ -48,6 +50,8 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 - [Projects](https://github.com/ivanvorobei/SwiftUI)
 
 ### Other
+
+Useful projects and links for iOS design and UX
 
 - [Icons & Glyphs](#icons--glyphs)
 - [Sketch Projects](#sketch-projects)
