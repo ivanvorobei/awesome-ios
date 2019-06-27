@@ -305,8 +305,6 @@ Useful projects and links for iOS design and UX
 
 ## SwiftUI
 
-Projects and elements for `Swift UI`. Supported sinse `iOS 13`.
-
 ### Cards & Area
 
 * [Animatable Cards](https://github.com/ivanvorobei/SwiftUI#animatable-cards) - Three cards with `ZStack`, gesters and `Spring` animations [•](https://github.com/ivanvorobei/SwiftUI/blob/master/Previews/animatable-cards.gif)
@@ -354,11 +352,3 @@ Support me with a monthly donation and help me continue activities. After paymen
 ## License
 
 `awesome-ios-ui` is released under the MIT license. Check `LICENSE.md` for details.
-
-## Contact
-
-If you want to know more about Xcode, `UIKit` & Design, follow me on twitter:
-
-[![https://twitter.com/varabeis](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Buttons/Twitter-2.svg)](https://twitter.com/varabeis)
-
-You can see my apps [in AppStore](https://itunes.apple.com/developer/id1446635817).
