@@ -51,8 +51,6 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 
 ### Other
 
-Useful projects and links for iOS design and UX
-
 - [Icons & Glyphs](#icons--glyphs)
 - [Sketch Projects](#sketch-projects)
 - [Fonts](#font)
