@@ -13,8 +13,6 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 
 ## Navigate
 
-Here you will find projects on `UIKit`
-
 - [Activity Indicator](#activity-indicator)
 - [Action Sheet](#action-sheet)
 - [Alert](#alert)
