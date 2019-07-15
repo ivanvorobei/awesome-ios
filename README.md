@@ -28,7 +28,7 @@ See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-u
 	- [Switch](#switch)
 	- [TextField](#textfield)
 	- [TextView](#textview)
-	- [UIPageControl](#uipagecontrol)
+	- [PageControl](#pagecontrol)
 - [Collection View](#collection-view)
 - [Color](#color)
 - [Controller](#controller)
@@ -175,6 +175,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected [•](https://github.com/Ramotion/fluid-slider/blob/master/fluid-slider.gif)
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider [•](https://github.com/LeonardoCardoso/SectionedSlider/blob/master/Images/static2.gif)
 * [balloon-picker](https://github.com/Cuberto/balloon-picker) - Custom picker view with floating balloon animation [•](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
+* [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle [•](https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif)
 
 ### Switch
 
@@ -196,7 +197,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks [•](https://github.com/ruslanskorb/RSKGrowingTextView/blob/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif)
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion [•](https://github.com/jhurray/SelectableTextView/blob/master/Resources/SelectableTextViewDemo1.gif)
 
-### UIPageControl
+### PageControl
 
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl [•](https://github.com/ChiliLabs/CHIPageControl/blob/master/Images/demo.gif)
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl [•](https://github.com/popwarsweet/PageControls/blob/master/demo.gif)
