@@ -152,6 +152,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/foldingCell.gif)
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
+* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with `UICollectionView` [•](https://github.com/JoniVR/VerticalCardSwiper/blob/master/example.gif)
 
 ### Button
 
