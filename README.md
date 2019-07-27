@@ -247,6 +247,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for `UILabel`, which automatically adds a scrolling marquee effect [•](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif)
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR [•](https://github.com/hanleyweng/CoreML-in-ARKit/blob/master/post-media/giphy.gif)
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing [•](https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif)
+* [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - `UILabel` drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) [•](https://github.com/optonaut/ActiveLabel.swift/blob/master/ActiveLabelDemo/demo.gif)
 
 ### Menu
 
