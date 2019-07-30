@@ -232,6 +232,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement [•](https://github.com/GitHawkApp/MessageViewController/blob/master/animation.gif)
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS [•](https://github.com/steve228uk/MessengerKit/blob/master/readme-resources/screenshots/examples.png)
 * [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://github.com/ivanvorobei/SPStorkController/blob/master/Resources/Preview.gif)
+* [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider [•](https://github.com/Ramotion/paper-onboarding/blob/master/paper-onboarding.gif)
 
 ### Form & Settings
 
