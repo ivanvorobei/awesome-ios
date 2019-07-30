@@ -263,6 +263,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title [•](https://github.com/PhamBaTho/BTNavigationDropdownMenu/blob/master/Assets/Demo.gif)
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects [•](https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966)
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://github.com/KittenYang/GooeyTabbar/blob/master/gooeyTabbar_Temple.gif)
+* [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side/slide menu control, no code necessary [•](https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideOut.gif)
 
 ### Navigation Bar
 
