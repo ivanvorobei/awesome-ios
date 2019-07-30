@@ -216,6 +216,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 *  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for `UICollectionView` [•](https://camo.githubusercontent.com/bb984a34320d944ccf561857995c90629f5037a0/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f646334323539613135303438303136333139393038353836)
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - `UICollectionViewLayout` with focused content [•](https://github.com/fdzsergio/SFFocusViewLayout/blob/master/Screenshots/SFFocusViewLayout.gif)
+* [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation [•](https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif)
 
 ### Color
 
