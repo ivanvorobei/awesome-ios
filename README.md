@@ -162,6 +162,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [WCLShineButton](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining [•](https://github.com/imwcl/WCLShineButton/blob/master/DemoGif.gif)
 * [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible `UIButton` subclass with animated loading progress [•](https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
+* [CocoaButton](https://github.com/edgar-zigis/CocoaButton) - Interactive UIButton with loading capability [•](https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif)
 
 ### Segmented Control
 
@@ -179,6 +180,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider [•](https://github.com/LeonardoCardoso/SectionedSlider/blob/master/Images/static2.gif)
 * [balloon-picker](https://github.com/Cuberto/balloon-picker) - Custom picker view with floating balloon animation [•](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle [•](https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif)
+* [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - Highly customizable GaugeSlider primarily designed for a Smart Home app. [•](https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif)
 
 ### Switch
 
@@ -195,6 +197,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield [•](https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif)
 * [SearchTextField](https://github.com/apasccon/SearchTextField) - `UITextField` subclass with autocompletion suggestions lis [•](https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif)
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated `UITextField` and `UITextView` replacement [•](https://github.com/jobandtalent/AnimatedTextInput/blob/master/Assets/general.gif)
+* [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) - Highly customizable text field created according to Material.IO guidelines. [•](https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif)
 
 ### TextView
 
