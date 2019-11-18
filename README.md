@@ -7,9 +7,7 @@ Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/
 
 If you like the project, do not forget to `put star ★` and follow me on GitHub:
 
-[![https://github.com/ivanvorobei](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Buttons/Follow%20me%20-%2016.svg)](https://github.com/ivanvorobei)
-
-See project's backers in [Sponsors](https://github.com/ivanvorobei/awesome-ios-ui#sponsors) section.
+[![https://github.com/ivanvorobei](https://github.com/ivanvorobei/SPPermissions/blob/master/Assets/Buttons/follow-me-on-github.svg)](https://github.com/ivanvorobei)
 
 ## Navigate
 
@@ -350,15 +348,6 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 
 * [xcode-shop.com](https://xcode-shop.com) - I am sale some source of my apps & elements
 * [codecanyon.net](https://codecanyon.net/category/mobile/ios) - App templates from developers
-
-## Sponsors
-
-Support me with a monthly donation and help me continue activities. After payment I add you to list of sponsor **in my all projects** with link to your profile. [Become a sponsors](https://www.patreon.com/ivanvorobei)
-
-<a href="https://github.com/zubara21/" target="_blank"><img src="https://github.api.ivanvorobei.by/sponsors/zubara21.jpg" width="100"></a>
-<a href="https://github.com/sparrowganz/" target="_blank"><img src="https://github.api.ivanvorobei.by/sponsors/sparrowganz.jpg" width="100"></a>
-<a href="https://github.com/shatk0vskiy/" target="_blank"><img src="https://github.api.ivanvorobei.by/sponsors/shatk0vskiy.jpg" width="100"></a>
-<a href="https://www.patreon.com/ivanvorobei" target="_blank"><img src="https://github.api.ivanvorobei.by/sponsors/add.jpg" width="100"></a>
 
 ## License
 
