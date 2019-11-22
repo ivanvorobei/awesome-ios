@@ -219,6 +219,7 @@ Now there are few projects since `SwiftUI` was just introduced. I look for new p
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - `UICollectionViewLayout` with focused content [•](https://github.com/fdzsergio/SFFocusViewLayout/blob/master/Screenshots/SFFocusViewLayout.gif)
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation [•](https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif)
+* [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) - Backport of UICollectionViewCompositionalLayout to earlier iOS 12 [•](https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif)
 
 ### Color
 
