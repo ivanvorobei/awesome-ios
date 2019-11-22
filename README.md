@@ -306,8 +306,6 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of `UITableView` can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project [•](https://github.com/HamzaGhazouani/HGPlaceholders/blob/master/Screenshots/default.gif)
 
-## Other
-
 ### Icons & Glyphs
 
 * [iOS 11 Glyphs](https://icons8.com/ios) - These icons are a must-have for all iOS developers
