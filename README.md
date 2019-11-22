@@ -38,14 +38,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 - [Tab Bar](#tab-bar)
 - [Table View](#table-view)
 
-### SwiftUI
-
-Now there are few projects since `SwiftUI` was just introduced. I look for new projects every day.
-
-- [Cards](#cards--area)
-- [Projects](https://github.com/ivanvorobei/SwiftUI)
-
-### Other
+#### Other
 
 - [Icons & Glyphs](#icons--glyphs)
 - [Sketch Projects](#sketch-projects)
