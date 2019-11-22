@@ -44,7 +44,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 - [Sketch Projects](#sketch-projects)
 - [Fonts](#font)
 - [Apple Tutorials](#apple-tutorials)
-- [UI Store](#ui-store)
+- [Xcode Stores](#xcode-stores)
 
 
 ## Content
@@ -306,13 +306,6 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of `UITableView` can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project [•](https://github.com/HamzaGhazouani/HGPlaceholders/blob/master/Screenshots/default.gif)
 
-## SwiftUI
-
-### Cards & Area
-
-* [Animatable Cards](https://github.com/ivanvorobei/SwiftUI#animatable-cards) - Three cards with `ZStack`, gesters and `Spring` animations [•](https://github.com/ivanvorobei/SwiftUI/blob/master/Previews/animatable-cards.gif)
-* [Area to Card](https://github.com/ivanvorobei/SwiftUI#area-to-card) - Card with resizable frame with bounce animation. Using text with some lines [•](https://github.com/ivanvorobei/SwiftUI/blob/master/Previews/area-to-card.gif)
-
 ## Other
 
 ### Icons & Glyphs
@@ -338,7 +331,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 
 * [SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutorials step by steb about `SwiftUI`
 
-### UI Store
+### Xcode Stores
 
 * [xcode-shop.com](https://xcode-shop.com) - I am sale some source of my apps & elements
 * [codecanyon.net](https://codecanyon.net/category/mobile/ios) - App templates from developers
