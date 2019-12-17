@@ -63,6 +63,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view [•](https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966)
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom `CGPaths` [•](https://github.com/polqf/FillableLoaders/blob/master/Images/waves.gif)
 * [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and customizable animated progress bar [•](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
+* [StepProgressView](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes [•](https://github.com/yonat/StepProgressView/raw/master/screenshots/blue.gif)
 
 ### Action Sheet
 
@@ -155,6 +156,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 * [Loady](https://github.com/farshadjahanmanesh/loady) - A small library to show loading and indicator in `UIButton`, with fully customizable styles [•](https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif)
 * [CocoaButton](https://github.com/edgar-zigis/CocoaButton) - Interactive UIButton with loading capability [•](https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif)
+* [MultiToggleButton](https://github.com/yonat/MultiToggleButton) - Multiple state tap-to-toggle UIButton (like old camera flash button) [•](https://github.com/yonat/MultiToggleButton/raw/master/screenshots/toggle.gif)
 
 ### Segmented Control
 
@@ -163,6 +165,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom `UISegmentedControl` replacement [•](https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif)
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations [•](https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif)
 * [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) - A powerful and easy to use segmented view [•](https://github.com/pujiaxin33/JXExampleImages/blob/master/JXSegmentedView/Indicator/LineLengthen.gif)
+* [MultiSelectSegmentedControl](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images [•](https://github.com/yonat/MultiSelectSegmentedControl/raw/master/Screenshots/MultiSelectSegmentedControl.png)
 
 ### Slider
 
@@ -173,6 +176,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [balloon-picker](https://github.com/Cuberto/balloon-picker) - Custom picker view with floating balloon animation [•](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle [•](https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif)
 * [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - Highly customizable GaugeSlider primarily designed for a Smart Home app. [•](https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif)
+* [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal. [•](https://github.com/yonat/MultiSlider/raw/master/Screenshots/MultiSlider.png)
 
 ### Switch
 
@@ -213,6 +217,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - `UICollectionViewLayout` with focused content [•](https://github.com/fdzsergio/SFFocusViewLayout/blob/master/Screenshots/SFFocusViewLayout.gif)
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation [•](https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif)
 * [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) - Backport of UICollectionViewCompositionalLayout to earlier iOS 12 [•](https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif)
+* [CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) - UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app "Select" mode. [•](https://github.com/yonat/CheckmarkCollectionViewCell/raw/master/Screenshots/CheckmarkCollectionViewCell.png)
 
 ### Color
 
@@ -237,6 +242,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating `UITableView` based form [•](https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966)
 * [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow) - A row for Eureka to implement password validations [•](https://github.com/EurekaCommunity/GenericPasswordRow/blob/master/Media/GenericPasswordRow.gif)
 * [LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions [•](https://github.com/cgoldsby/LoginCritter/blob/master/assets/demo.gif)
+* [RadioGroup](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group [•](https://github.com/yonat/RadioGroup/raw/master/Screenshots/RadioGroup.png)
 
 ### Label
 
@@ -305,6 +311,7 @@ If you like the project, do not forget to `put star ★` and follow me on GitHub
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource [•](https://github.com/edopelawi/CascadingTableDelegate/blob/master/ReadmeImages/sample-page-screenshot.jpg)
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of `UITableView` can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project [•](https://github.com/HamzaGhazouani/HGPlaceholders/blob/master/Screenshots/default.gif)
+* [SelectionList](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView [•](https://github.com/yonat/SelectionList/raw/master/Screenshots/SelectionList.png)
 
 ### Icons & Glyphs
 
