@@ -46,7 +46,6 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - [Apple Tutorials](#apple-tutorials)
 - [Xcode Stores](#xcode-stores)
 
-
 ## Content
 
 ### Activity Indicator
@@ -333,7 +332,3 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 * [xcode-shop.com](https://xcode-shop.com) - I am sale some source of my apps & elements
 * [codecanyon.net](https://codecanyon.net/category/mobile/ios) - App templates from developers
-
-## License
-
-`awesome-ios-ui` is released under the MIT license. Check `LICENSE.md` for details.
