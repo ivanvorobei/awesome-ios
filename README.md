@@ -194,6 +194,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 * [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks [•](https://github.com/ruslanskorb/RSKGrowingTextView/blob/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif)
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion [•](https://github.com/jhurray/SelectableTextView/blob/master/Resources/SelectableTextViewDemo1.gif)
+* [STTextView](https://github.com/onl1ner/STTextView) - An easy and clean framework that adds a custom UITextView subclass with a needed placeholder property.
 
 ### PageControl
 
