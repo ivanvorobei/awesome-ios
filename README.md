@@ -117,6 +117,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view [•](https://github.com/naru-jpn/View2ViewTransition/blob/master/preview.gif?raw=true)
 * [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
+* [DropdownTransition](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant dropdown transition for iOS [•](https://github.com/nugmanoff/DropdownTransition/blob/master/Resources/demo-default.gif)
 
 ### Badge
 
