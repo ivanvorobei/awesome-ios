@@ -1,1 +1,1 @@
-print("https://github.com/IvanVorobei/awesome-ios-ui")
+print("https://github.com/varabeis/awesome-ios-ui")
