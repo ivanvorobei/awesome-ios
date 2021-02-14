@@ -352,9 +352,7 @@ Simplifies working with animated changes in table and collections. Apple's diffa
 #### [SparrowKit](https://github.com/varabeis/SparrowKit)
 Collection of native Swift extensions to boost your development. Support tvOS and watchOS.
 
-Для русского комьюнити
-
-## Russian-specking Community
+## Russian Community
 
 В телеграм-канале [Код Воробья](https://ivanvorobei.by/sparrowcode/telegram) пишу о iOS разработке. Видео-туториалы выклыдываю на [YouTube](https://ivanvorobei.by/youtube):
 
