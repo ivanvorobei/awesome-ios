@@ -144,6 +144,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif)
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://github.com/Ramotion/expanding-collection/blob/master/expanding-collection.gif)
 * [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with `UICollectionView` [•](https://github.com/JoniVR/VerticalCardSwiper/blob/master/example.gif)
+* [CardNavigation](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards [•](https://raw.githubusercontent.com/james01/CardNavigation/main/Docs/Images/Screen.gif)
 
 ### Button
 
