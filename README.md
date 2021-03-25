@@ -1,13 +1,13 @@
 # Awesome iOS UI
 
-<a href="https://github.com/varabeis/SPAlert" target="_blank"><img align="right" src="https://github.com/varabeis/awesome-ios-ui/blob/master/Assets/Preview%20-%20SPAlert.gif" width="250"/></a>
+<a href="https://github.com/ivanvorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Assets/Preview%20-%20SPAlert.gif" width="250"/></a>
 
 A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
-Use for search by ![](https://github.com/varabeis/awesome-ios-ui/blob/master/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
+Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
 
 If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
-[![https://github.com/varabeis](https://github.com/varabeis/Readme/blob/main/Buttons/follow-me-varabeis.svg)](https://github.com/varabeis)
+[![https://github.com/ivanvorobei](https://github.com/ivanvorobei/Readme/blob/main/Buttons/follow-me-ivanvorobei.svg)](https://github.com/ivanvorobei)
 
 ## Navigate
 
@@ -66,7 +66,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 ### Action Sheet
 
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
-* [SPPermission](https://github.com/varabeis/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/varabeis/SPPermission/blob/master/Resources/Preview.gif)
+* [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces [•](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
 * [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with `UITextField`, `UIDatePicker`, `UIPickerView`, `UITableView` and `UICollectionView` [•](https://github.com/dillidon/alerts-and-pickers/blob/new/Assets/gifs/actionSheet-.gif)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -  A library that helps you display and customise alerts and action sheets on iPad and iPhone [•](https://github.com/Codigami/CFAlertViewController/blob/master/Images/Demo_1.gif)
@@ -76,7 +76,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ### Alert
 
-* [SPAlert](https://github.com/varabeis/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets [•](https://github.com/varabeis/SPAlert/blob/master/Resources/Preview-Done.gif)
+* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets [•](https://github.com/ivanvorobei/SPAlert/blob/master/Resources/Preview-Done.gif)
 * [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - Use the iPhone X notch space to display creative alerts [•](https://github.com/TheAbstractDev/NotchyAlert/blob/master/Screenshots/notchyWithDescription.gif)
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
 * [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy Toasts [•](https://user-images.githubusercontent.com/22358682/53521918-4f8b7600-3aa7-11e9-934d-866e04189e99.png)
@@ -105,14 +105,14 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ### Transition
 
-* [SPStorkController](https://github.com/varabeis/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://github.com/varabeis/SPStorkController/blob/master/Resources/Preview.gif)
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://github.com/ivanvorobei/SPStorkController/blob/master/Resources/Preview.gif)
 * [Hero](https://github.com/HeroTransitions/Hero) - Building iOS view controller transitions [•](https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667)
 * [Motion](https://github.com/CosmicMind/Motion) - Seamless animations and transitions [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions [•](https://github.com/Touchwonders/Transition/blob/master/Documentation/artwork/tabbar.gif)
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - This component implements transition animation to crumble view-controller into tiny pieces [•](https://github.com/Yalantis/StarWars.iOS/blob/master/preview.gif)
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - A custom modal transition that presents and dismiss a controller with an expanding bubble effect [•](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A `UIKit` custom transition that simulates an elastic drag [•](https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif)
-* [SPLarkController](https://github.com/varabeis/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/varabeis/SPLarkController/blob/master/Resources/Preview.gif)
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design [•](https://github.com/jonathantribouharet/JTMaterialTransition/blob/master/Screens/example.gif)
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
 * [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view [•](https://github.com/naru-jpn/View2ViewTransition/blob/master/preview.gif?raw=true)
@@ -223,17 +223,17 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 * [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
-* [SPLarkController](https://github.com/varabeis/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/varabeis/SPLarkController/blob/master/Resources/Preview.gif)
-* [SPPermission](https://github.com/varabeis/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/varabeis/SPPermission/blob/master/Resources/Preview.gif)
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
+* [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController [•](https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png)
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement [•](https://github.com/GitHawkApp/MessageViewController/blob/master/animation.gif)
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS [•](https://github.com/steve228uk/MessengerKit/blob/master/readme-resources/screenshots/examples.png)
-* [SPStorkController](https://github.com/varabeis/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://github.com/varabeis/SPStorkController/blob/master/Resources/Preview.gif)
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://github.com/ivanvorobei/SPStorkController/blob/master/Resources/Preview.gif)
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider [•](https://github.com/Ramotion/paper-onboarding/blob/master/paper-onboarding.gif)
 
 ### Form & Settings
 
-* [SPLarkController](https://github.com/varabeis/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/varabeis/SPLarkController/blob/master/Resources/Preview.gif)
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder [•](https://github.com/xmartlabs/Eureka/blob/master/Example/Media/EurekaExample1.gif)
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating `UITableView` based form [•](https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966)
 * [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow) - A row for Eureka to implement password validations [•](https://github.com/EurekaCommunity/GenericPasswordRow/blob/master/Media/GenericPasswordRow.gif)
@@ -254,7 +254,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine [•](https://github.com/Yalantis/GuillotineMenu/blob/master/example.gif)
 * [circle-menu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations [•](https://github.com/Ramotion/circle-menu/blob/master/circle-menu.gif)
 * [AirBar](https://github.com/uptechteam/AirBar) - `UIScrollView` driven expandable menu [•](https://github.com/uptechteam/AirBar/blob/master/Logo/Demo.gif)
-* [SPLarkController](https://github.com/varabeis/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/varabeis/SPLarkController/blob/master/Resources/Preview.gif)
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3 [•](https://github.com/GitHawkApp/ContextMenu/blob/master/images/animation.gif)
 * [Menu](https://github.com/TwoLivesLeft/Menu) - The iOS Menu [•](https://camo.githubusercontent.com/2b472d44a26b03ca566a822ff6e0f5636edadcd1/68747470733a2f2f636f6465612e696f2f6d656469612f6d656e752e706e67)
@@ -270,7 +270,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects [•](https://raw.githubusercontent.com/gmertk/BusyNavigationBar/master/Screenshots/gray_stripe.gif)
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a `UIScrollView` [•](https://github.com/andreamazz/AMScrollingNavbar/blob/master/assets/screenshot.gif)
-* [SPFakeBar](https://github.com/varabeis/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other [•](https://github.com/varabeis/SPStorkController/blob/master/Resources/Navigation%20Bar.jpg)
+* [SPFakeBar](https://github.com/ivanvorobei/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other [•](https://github.com/ivanvorobei/SPStorkController/blob/master/Resources/Navigation%20Bar.jpg)
 
 ### Pull to Refresh
 
@@ -337,19 +337,19 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ## Other Projects
 
-#### [SPAlert](https://github.com/varabeis/SPAlert)
+#### [SPAlert](https://github.com/ivanvorobei/SPAlert)
 You can find this alerts in AppStore after feedback or after added song to library in Apple Music. Contains popular Done, Heart presets and many other. Done preset present with draw path animation like original. Also available simple present message without icon. Usage in one line code.
 
-#### [SPPerspective](https://github.com/varabeis/SPPerspective)
+#### [SPPerspective](https://github.com/ivanvorobei/SPPerspective)
 Animation of widgets from iOS 14. 3D transform with dynamic shadow. Look [video preview](https://ivanvorobei.by/github/spperspective/video-preview). Available deep customisation 3D and shadow. Also you can use static transform without animation.
 
-#### [SPPermissions](https://github.com/varabeis/SPPermissions)
+#### [SPPermissions](https://github.com/ivanvorobei/SPPermissions)
 Using for request and check state of permissions. Available native UI for request multiple permissions at the same time. Simple integration and usage like 2 lines code.
 
-#### [SPDiffable](https://github.com/varabeis/SPDiffable)
+#### [SPDiffable](https://github.com/ivanvorobei/SPDiffable)
 Simplifies working with animated changes in table and collections. Apple's diffable API required models for each object type. If you want use it in many place, you pass time to implement it and get over duplicates codes. This project help do it elegant with shared models and special cell providers. Support side bar iOS14 and already has native cell providers and views.
 
-#### [SparrowKit](https://github.com/varabeis/SparrowKit)
+#### [SparrowKit](https://github.com/ivanvorobei/SparrowKit)
 Collection of native Swift extensions to boost your development. Support tvOS and watchOS.
 
 ## Russian Community
