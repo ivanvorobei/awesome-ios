@@ -66,7 +66,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 ### Action Sheet
 
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
-* [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
+* [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermissions/blob/master/Resources/Preview.gif)
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces [•](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
 * [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with `UITextField`, `UIDatePicker`, `UIPickerView`, `UITableView` and `UICollectionView` [•](https://github.com/dillidon/alerts-and-pickers/blob/new/Assets/gifs/actionSheet-.gif)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -  A library that helps you display and customise alerts and action sheets on iPad and iPhone [•](https://github.com/Codigami/CFAlertViewController/blob/master/Images/Demo_1.gif)
@@ -89,6 +89,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ### Animation
 
+* [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration. [•](https://github.com/ivanvorobei/Readme/blob/main/Buttons/video-preview.svg)
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif)
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations [•](https://camo.githubusercontent.com/301f360304b089f40989a870ff3c04572054e288/687474703a2f2f636c2e6c792f696d6167652f316e3145326a3357337932342f737072696e6773637265656e2e6a7067)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
@@ -225,7 +226,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component [•](https://github.com/SCENEE/FloatingPanel/blob/master/assets/maps.gif)
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
-* [SPPermission](https://github.com/ivanvorobei/SPPermission) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermission/blob/master/Resources/Preview.gif)
+* [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermissions/blob/master/Resources/Preview.gif)
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController [•](https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png)
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement [•](https://github.com/GitHawkApp/MessageViewController/blob/master/animation.gif)
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS [•](https://github.com/steve228uk/MessengerKit/blob/master/readme-resources/screenshots/examples.png)
