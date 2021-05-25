@@ -157,6 +157,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 * [Loady](https://github.com/farshadjahanmanesh/loady) - A small library to show loading and indicator in `UIButton`, with fully customizable styles [•](https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif)
 * [CocoaButton](https://github.com/edgar-zigis/CocoaButton) - Interactive UIButton with loading capability [•](https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif)
+* [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton) - Simple way to create beautiful button with fully customisable (gradient background, touch animation) and more [•](https://github.com/sjc-bui/QBIndicatorButton/blob/master/Example/Screenshots/QBIndicatorButton.gif)
 
 ### Segmented Control
 
