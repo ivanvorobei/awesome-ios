@@ -1,9 +1,9 @@
 # Awesome iOS UI
 
-<a href="https://github.com/ivanvorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Assets/Preview%20-%20SPAlert.gif" width="250"/></a>
+<a href="https://github.com/ivanvorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/Preview%20-%20SPAlert.gif" width="250"/></a>
 
 A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
-Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
+Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
 
 If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
