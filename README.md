@@ -65,7 +65,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 ### Action Sheet
 
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
-* [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Request permissions with dialog. For customise implement DataSource protocol [•](https://github.com/ivanvorobei/SPPermissions/blob/master/Resources/Preview.gif)
+* [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission [•](https://github.com/ivanvorobei/SPPermissions/blob/main/Assets/Readme/latest-preview.jpg)
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces [•](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
 * [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with `UITextField`, `UIDatePicker`, `UIPickerView`, `UITableView` and `UICollectionView` [•](https://github.com/dillidon/alerts-and-pickers/blob/new/Assets/gifs/actionSheet-.gif)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -  A library that helps you display and customise alerts and action sheets on iPad and iPhone [•](https://github.com/Codigami/CFAlertViewController/blob/master/Images/Demo_1.gif)
