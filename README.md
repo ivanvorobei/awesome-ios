@@ -85,6 +85,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar [•](https://github.com/SwiftKickMobile/SwiftMessages/blob/master/Demo/demo.png)
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners [•](https://github.com/Daltron/NotificationBanner/blob/master/NotificationBanner/Assets/basic.gif)
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS [•](https://github.com/huri000/assets/blob/master/swift-entrykit/alerts.gif)
+* [QBToast](https://github.com/sjc-bui/QBToast) - Simple way to display Toast message in iOS app with a single line of code [•](https://github.com/sjc-bui/QBToast/blob/master/Example/QBToast/screen-record.gif)
 
 ### Animation
 
