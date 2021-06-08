@@ -1,9 +1,9 @@
 # Awesome iOS UI
 
-<a href="https://github.com/ivanvorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/Preview%20-%20SPAlert.gif" width="250"/></a>
+<a href="https://github.com/ivanvorobei/SPAlert" target="_blank"><img align="right" src="https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Assets/Preview%20-%20SPAlert.gif" width="250"/></a>
 
 A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
-Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
+Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/master/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
 
 If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
@@ -75,22 +75,22 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ### Alert
 
-* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets [•](https://github.com/ivanvorobei/SPAlert/blob/master/Resources/Preview-Done.gif)
+* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.giff)
 * [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - Use the iPhone X notch space to display creative alerts [•](https://github.com/TheAbstractDev/NotchyAlert/blob/master/Screenshots/notchyWithDescription.gif)
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
-* [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy Toasts [•](https://user-images.githubusercontent.com/22358682/53521918-4f8b7600-3aa7-11e9-934d-866e04189e99.png)
-* [HDNotificationView](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert [•](https://github.com/nhdang103/HDNotificationView/blob/master/Assets/Images/iPhoneX_Portrait.png)
+* [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy Toasts [•](https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png)
+* [HDNotificationView](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert [•](https://raw.githubusercontent.com/nhdang103/HDNotificationView/master/Assets/Images/iPhoneX_Portrait.png)
 * [PMAlertController](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController [•](https://raw.githubusercontent.com/pmusolino/PMAlertController/master/preview_pmalertacontroller.png)
 * [Dodo](https://github.com/evgenyneu/Dodo) - A message bar [•](https://raw.githubusercontent.com/evgenyneu/Dodo/master/Graphics/presets/info.jpg)
-* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar [•](https://github.com/SwiftKickMobile/SwiftMessages/blob/master/Demo/demo.png)
-* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners [•](https://github.com/Daltron/NotificationBanner/blob/master/NotificationBanner/Assets/basic.gif)
-* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS [•](https://github.com/huri000/assets/blob/master/swift-entrykit/alerts.gif)
-* [QBToast](https://github.com/sjc-bui/QBToast) - Simple way to display Toast message in iOS app with a single line of code [•](https://github.com/sjc-bui/QBToast/blob/master/Example/QBToast/screen-record.gif)
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar [•](https://raw.githubusercontent.com/SwiftKickMobile/SwiftMessages/master/Demo/demo.png)
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners [•](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
+* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS [•](https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif)
+* [QBToast](https://github.com/sjc-bui/QBToast) - Simple way to display Toast message in iOS app with a single line of code [•](https://raw.githubusercontent.com/sjc-bui/QBToast/master/Example/QBToast/screen-record.gif)
 
 ### Animation
 
 * [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration. [•](https://github.com/ivanvorobei/Readme/blob/main/Buttons/video-preview.svg)
-* [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://github.com/airbnb/lottie-ios/blob/master/_Gifs/Examples2.gif)
+* [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif)
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations [•](https://camo.githubusercontent.com/301f360304b089f40989a870ff3c04572054e288/687474703a2f2f636c2e6c792f696d6167652f316e3145326a3357337932342f737072696e6773637265656e2e6a7067)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
 * [Material](https://github.com/CosmicMind/Material) - Material's animation [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
