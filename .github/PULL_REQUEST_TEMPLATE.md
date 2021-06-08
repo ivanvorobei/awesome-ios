@@ -4,6 +4,8 @@
 - [ ] UI Library
 - [ ] Installed correct via Swift Package Manager or Cocoapods
 - [ ] Clean Readme
-- [ ] Preview
+- [ ] Added Preview
+- [ ] Preview added via `raw.githubusercontent.com`
 - [ ] Added to bottom
+
 
