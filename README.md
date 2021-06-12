@@ -89,7 +89,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ### Animation
 
-* [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration. [•](https://github.com/ivanvorobei/Readme/blob/main/Buttons/video-preview.svg)
+* [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration. [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
 * [Material](https://github.com/CosmicMind/Material) - Material's animation [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
@@ -231,13 +231,12 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController [•](https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png)
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement [•](https://raw.githubusercontent.com/GitHawkApp/MessageViewController/master/animation.gif)
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS [•](https://raw.githubusercontent.com/steve228uk/MessengerKit/master/readme-resources/screenshots/examples.png)
-* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://github.com/ivanvorobei/SPStorkController/blob/master/Resources/Preview.gif)
-* [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider [•](https://github.com/Ramotion/paper-onboarding/blob/master/paper-onboarding.gif)
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
+* [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider [•](https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif)
 
 ### Form & Settings
 
-* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://github.com/ivanvorobei/SPLarkController/blob/master/Resources/Preview.gif)
-* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder [•](https://github.com/xmartlabs/Eureka/blob/master/Example/Media/EurekaExample1.gif)
+* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder [•](https://raw.githubusercontent.com/xmartlabs/Eureka/master/Example/Media/EurekaExample1.gif)
 * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating `UITableView` based form [•](https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966)
 * [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow) - A row for Eureka to implement password validations [•](https://raw.githubusercontent.com/EurekaCommunity/GenericPasswordRow/master/Media/GenericPasswordRow.gif)
 * [LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions [•](https://raw.githubusercontent.com/cgoldsby/LoginCritter/master/assets/demo.gif)
