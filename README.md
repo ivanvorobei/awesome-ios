@@ -76,7 +76,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 ### Alert
 
 * [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif)
-* [SPIndicator](https://github.com/ivanvorobei/SPAlert) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts [•](https://github.com/ivanvorobei/SPIndicator/blob/main/Assets/Readme/preview-v1.jpg)
+* [SPIndicator](https://github.com/ivanvorobei/SPAlert) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts [•](https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg)
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
 * [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy Toasts [•](https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png)
 * [HDNotificationView](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert [•](https://raw.githubusercontent.com/nhdang103/HDNotificationView/master/Assets/Images/iPhoneX_Portrait.png)
