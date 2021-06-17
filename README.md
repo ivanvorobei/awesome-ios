@@ -75,8 +75,8 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ### Alert
 
-* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.giff)
-* [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - Use the iPhone X notch space to display creative alerts [•](https://raw.githubusercontent.com/TheAbstractDev/NotchyAlert/master/Screenshots/notchyWithDescription.gif)
+* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif)
+* [SPIndicator](https://github.com/ivanvorobei/SPAlert) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts [•](https://github.com/ivanvorobei/SPIndicator/blob/main/Assets/Readme/preview-v1.jpg)
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
 * [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy Toasts [•](https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png)
 * [HDNotificationView](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert [•](https://raw.githubusercontent.com/nhdang103/HDNotificationView/master/Assets/Images/iPhoneX_Portrait.png)
@@ -89,7 +89,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ### Animation
 
-* [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration. [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
+* [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
 * [Material](https://github.com/CosmicMind/Material) - Material's animation [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
