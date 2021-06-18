@@ -1,0 +1,112 @@
+[
+    {
+        "id" : "ui",
+        "title" : "UI",
+        "sections" : [
+            {
+                "id" : "activity-indicator",
+                "title" : "Activity Indicator"
+            },
+            {
+                "id" : "action-sheet",
+                "title" : "Action Sheet"
+            },
+            {
+                "id" : "alert",
+                "title" : "Alert"
+            },
+            {
+                "id" : "animation",
+                "title" : "Animation"
+            },
+            {
+                "id" : "animation/transition",
+                "title" : "Transition"
+            },
+            {
+                "id" : "badge",
+                "title" : "Badge"
+            },
+            {
+                "id" : "calendar",
+                "title" : "Calendar"
+            },
+            {
+                "id" : "cards",
+                "title" : "Cards"
+            },
+            {
+                "id" : "control",
+                "title" : "Control"
+            },
+            {
+                "id" : "control/button",
+                "title" : "Button"
+            },
+            {
+                "id" : "control/segmented-control",
+                "title" : "Segmented Control"
+            },
+            {
+                "id" : "control/slider",
+                "title" : "Slider"
+            },
+            {
+                "id" : "control/switch",
+                "title" : "Switch"
+            },
+            {
+                "id" : "control/text-field",
+                "title" : "TextField"
+            },
+            {
+                "id" : "control/textview",
+                "title" : "TextView"
+            },
+            {
+                "id" : "control/page-control",
+                "title" : "PageControl"
+            },
+            {
+                "id" : "collection-view",
+                "title" : "Collection View"
+            },
+            {
+                "id" : "color",
+                "title" : "Color"
+            },
+            {
+                "id" : "controller",
+                "title" : "Controller"
+            },
+            {
+                "id" : "form-and-settings",
+                "title" : "Form & Settings"
+            },
+            {
+                "id" : "label",
+                "title" : "Label"
+            },
+            {
+                "id" : "menu",
+                "title" : "Menu"
+            },
+            {
+                "id" : "navigation-bar",
+                "title" : "Navigation Bar"
+            },
+            {
+                "id" : "pull-to-refresh",
+                "title" : "Pull to Refresh"
+            },
+            {
+                "id" : "tab-bar",
+                "title" : "Tab Bar"
+            },
+            {
+                "id" : "table-view",
+                "title" : "Table View"
+            }
+        ]
+    }
+]
