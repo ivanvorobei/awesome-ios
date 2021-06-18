@@ -5,107 +5,133 @@
         "sections" : [
             {
                 "id" : "activity-indicator",
-                "title" : "Activity Indicator"
+                "title" : "Activity Indicator",
+                "description" : "List of activity indicators."
             },
             {
                 "id" : "action-sheet",
-                "title" : "Action Sheet"
+                "title" : "Action Sheet",
+                "description" : "List of action sheet."
             },
             {
                 "id" : "alert",
-                "title" : "Alert"
+                "title" : "Alert",
+                "description" : "List of alerts."
             },
             {
                 "id" : "animation",
-                "title" : "Animation"
+                "title" : "Animation",
+                "description" : "List of animations."
             },
             {
                 "id" : "animation/transition",
-                "title" : "Transition"
+                "title" : "Transition",
+                "description" : "List of transitions."
             },
             {
                 "id" : "badge",
-                "title" : "Badge"
+                "title" : "Badge",
+                "description" : "List of badges."
             },
             {
                 "id" : "calendar",
-                "title" : "Calendar"
+                "title" : "Calendar",
+                "description" : "List of calendars."
             },
             {
                 "id" : "cards",
-                "title" : "Cards"
+                "title" : "Cards",
+                "description" : "List of cards."
             },
             {
                 "id" : "control",
-                "title" : "Control"
+                "title" : "Control",
+                "description" : "List of controls."
             },
             {
                 "id" : "control/button",
-                "title" : "Button"
+                "title" : "Button",
+                "description" : "List of buttons."
             },
             {
                 "id" : "control/segmented-control",
-                "title" : "Segmented Control"
+                "title" : "Segmented Control",
+                "description" : "List of segments."
             },
             {
                 "id" : "control/slider",
-                "title" : "Slider"
+                "title" : "Slider",
+                "description" : "List of slider."
             },
             {
                 "id" : "control/switch",
-                "title" : "Switch"
+                "title" : "Switch",
+                "description" : "List of switches."
             },
             {
                 "id" : "control/text-field",
-                "title" : "TextField"
+                "title" : "TextField",
+                "description" : "List of text fields."
             },
             {
                 "id" : "control/textview",
-                "title" : "TextView"
+                "title" : "TextView",
+                "description" : "List of text views."
             },
             {
                 "id" : "control/page-control",
-                "title" : "PageControl"
+                "title" : "PageControl",
+                "description" : "List of page controls."
             },
             {
                 "id" : "collection-view",
-                "title" : "Collection View"
+                "title" : "Collection View",
+                "description" : "List of collection views."
             },
             {
                 "id" : "color",
-                "title" : "Color"
+                "title" : "Color",
+                "description" : "List of colors."
             },
             {
                 "id" : "controller",
-                "title" : "Controller"
+                "title" : "Controller",
+                "description" : "List of controllers."
             },
             {
                 "id" : "form-and-settings",
-                "title" : "Form & Settings"
+                "title" : "Form & Settings",
+                "description" : "List of form and settings."
             },
             {
                 "id" : "label",
-                "title" : "Label"
+                "title" : "Label",
+                "description" : "List of labels."
             },
             {
                 "id" : "menu",
-                "title" : "Menu"
+                "title" : "Menu",
+                "description" : "List of menus."
             },
             {
                 "id" : "navigation-bar",
-                "title" : "Navigation Bar"
+                "title" : "Navigation Bar",
+                "description" : "List of navigation bars."
             },
             {
                 "id" : "pull-to-refresh",
-                "title" : "Pull to Refresh"
+                "title" : "Pull to Refresh",
+                "description" : "List of pull to refresh."
             },
             {
                 "id" : "tab-bar",
-                "title" : "Tab Bar"
+                "title" : "Tab Bar",
+                "description" : "List of tab bars."
             },
             {
                 "id" : "table-view",
-                "title" : "Table View"
+                "title" : "Table View",
+                "description" : "List of table views."
             }
         ]
     }
