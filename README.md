@@ -1,6 +1,6 @@
 # Awesome iOS UI
 
-[![https://github.com/ivanvorobei](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/freadme-preview.svg)](https://github.com/ivanvorobei)
+[![https://github.com/ivanvorobei](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/readme-preview.svg)](https://github.com/ivanvorobei)
 
 A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
 Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
