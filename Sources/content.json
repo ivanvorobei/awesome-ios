@@ -217,18 +217,30 @@
       "category" : "ui",
       "adding date" : "18.06.2021",
       "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "who_added_url" : "https://github.com/ivanvorobei",
+      "using_apps" : [
+         {
+            "name" : "Debts - Debt Tracker",
+            "url" : "https://apps.apple.com/app/id1570676244"
+         }
+      ]
    },
    {
       "name" : "SPIndicator",
       "description" : "Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts",
-      "source" : "https://github.com/ivanvorobei/SPAlert",
+      "source" : "https://github.com/ivanvorobei/SPIndicator",
       "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg",
       "section" : "alert",
       "category" : "ui",
       "adding date" : "18.06.2021",
       "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "who_added_url" : "https://github.com/ivanvorobei",
+      "using_apps" : [
+         {
+            "name" : "Debts - Debt Tracker",
+            "url" : "https://apps.apple.com/app/id1570676244"
+         }
+      ]
    },
    {
       "name" : "SCLAlertView-Swift",
@@ -1358,7 +1370,13 @@
       "category" : "ui",
       "adding date" : "18.06.2021",
       "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "who_added_url" : "https://github.com/ivanvorobei",
+      "using_apps" : [
+         {
+            "name" : "Debts - Debt Tracker",
+            "url" : "https://apps.apple.com/app/id1570676244"
+         }
+      ]
    },
    {
       "name" : "MessageKit",
