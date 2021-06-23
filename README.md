@@ -13,36 +13,28 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - [Action Sheet](#action-sheet)
 - [Alert](#alert)
 - [Animation](#animation)
-    - [Transition](#transition)
+	- [Transition](#transition)
 - [Badge](#badge)
 - [Calendar](#calendar)
 - [Cards](#cards)
-- [Control](#button)
+- [Control](#control)
 	- [Button](#button)
 	- [Segmented Control](#segmented-control)
 	- [Slider](#slider)
 	- [Switch](#switch)
-	- [TextField](#textfield)
+	- [TextField](#text-field)
 	- [TextView](#textview)
-	- [PageControl](#pagecontrol)
+	- [PageControl](#page-control)
 - [Collection View](#collection-view)
 - [Color](#color)
 - [Controller](#controller)
-- [Form & Settings](#form--settings)
+- [Form & Settings](#form-and-settings)
 - [Label](#label)
 - [Menu](#menu)
 - [Navigation Bar](#navigation-bar)
 - [Pull to Refresh](#pull-to-refresh)
 - [Tab Bar](#tab-bar)
 - [Table View](#table-view)
-
-#### Other
-
-- [Icons & Glyphs](#icons--glyphs)
-- [Sketch Projects](#sketch-projects)
-- [Fonts](#font)
-- [Apple Tutorials](#apple-tutorials)
-- [Xcode Stores](#xcode-stores)
 
 ## Content
 
@@ -74,7 +66,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 ### Alert
 
 * [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif)
-* [SPIndicator](https://github.com/ivanvorobei/SPAlert) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts [•](https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg)
+* [SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts [•](https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg)
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
 * [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy Toasts [•](https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png)
 * [HDNotificationView](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert [•](https://raw.githubusercontent.com/nhdang103/HDNotificationView/master/Assets/Images/iPhoneX_Portrait.png)
@@ -85,7 +77,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS [•](https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif)
 * [QBToast](https://github.com/sjc-bui/QBToast) - Simple way to display Toast message in iOS app with a single line of code [•](https://raw.githubusercontent.com/sjc-bui/QBToast/master/Example/QBToast/screen-record.gif)
 
-### Animation
+### Transition
 
 * [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif)
@@ -98,12 +90,9 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease [•](https://raw.githubusercontent.com/roberthein/Ease/master/Art/header.gif)
 * [MotionAnimation](https://github.com/lkzhao/MotionAnimation) - Lightweight animation library for `UIKit` [•](https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif)
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Chainable animations [•](https://raw.githubusercontent.com/draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif)
-* [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti! Who doesn't like confetti? [•](https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif)
-* [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces" [•](https://raw.githubusercontent.com/nathangitter/fluid-interfaces/master/Resources/flashdemo.gif)
-
-### Transition
-
-* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
+* [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti
+* [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
 * [Hero](https://github.com/HeroTransitions/Hero) - Building iOS view controller transitions [•](https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667)
 * [Motion](https://github.com/CosmicMind/Motion) - Seamless animations and transitions [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions [•](https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/tabbar.gif)
@@ -113,7 +102,6 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif)
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design [•](https://raw.githubusercontent.com/jonathantribouharet/JTMaterialTransition/master/Screens/example.gif)
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif)
-* [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view [•](https://raw.githubusercontent.com/naru-jpn/View2ViewTransition/master/preview.gif)
 * [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
 * [DropdownTransition](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant dropdown transition for iOS [•](https://raw.githubusercontent.com/nugmanoff/DropdownTransition/master/Resources/demo-default.gif)
 
@@ -154,7 +142,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 * [Loady](https://github.com/farshadjahanmanesh/loady) - A small library to show loading and indicator in `UIButton`, with fully customizable styles [•](https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif)
 * [CocoaButton](https://github.com/edgar-zigis/CocoaButton) - Interactive UIButton with loading capability [•](https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif)
-* [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton) - Simple way to create beautiful button with fully customisable (gradient background, touch animation) and more [•](https://raw.githubusercontent.com/sjc-bui/QBIndicatorButton/master/Example/Screenshots/QBIndicatorButton.gif)
+* [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton) - Simple way to create beautiful button with fully customisable
 
 ### Segmented Control
 
@@ -172,7 +160,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider [•](https://raw.githubusercontent.com/LeonardoCardoso/SectionedSlider/master/Images/static2.gif)
 * [balloon-picker](https://github.com/Cuberto/balloon-picker) - Custom picker view with floating balloon animation [•](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle [•](https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif)
-* [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - Highly customizable GaugeSlider primarily designed for a Smart Home app. [•](https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif)
+* [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - Highly customizable GaugeSlider primarily designed for a Smart Home app [•](https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif)
 
 ### Switch
 
@@ -181,24 +169,23 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch [•](https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif)
 * [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design [•](https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png)
 
-### TextField
+### Control
 
 * [Reel Search](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list [•](https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif)
-* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern" [•](https://raw.githubusercontent.com/Skyscanner/SkyFloatingLabelTextField/master/SkyFloatingLabelTextField/images/showcase-example.gif)
+* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom `UITextField` effects inspired by Codrops [•](https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif)
 * [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield [•](https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif)
 * [SearchTextField](https://github.com/apasccon/SearchTextField) - `UITextField` subclass with autocompletion suggestions lis [•](https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif)
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated `UITextField` and `UITextView` replacement [•](https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif)
-* [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) - Highly customizable text field created according to Material.IO guidelines. [•](https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif)
+* [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) - Highly customizable text field created according to Material.IO guidelines [•](https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif)
 
 ### TextView
 
 * [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks [•](https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif)
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion [•](https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif)
-* [STTextView](https://github.com/onl1ner/STTextView) - An easy and clean framework that adds a custom UITextView subclass with a needed placeholder property. [•](https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif)
+* [STTextView](https://github.com/onl1ner/STTextView) - An easy and clean framework that adds a custom UITextView subclass with a needed placeholder property [•](https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif)
 
-
-### PageControl
+### Control
 
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl [•](https://raw.githubusercontent.com/ChiliLabs/CHIPageControl/master/Images/demo.gif)
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl [•](https://raw.githubusercontent.com/popwarsweet/PageControls/master/demo.gif)
@@ -210,7 +197,6 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - `UICollectionViewLayout` with slanted content [•](https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif)
 * [gliding-collection](https://github.com/Ramotion/gliding-collection) - Smooth, flowing, customizable decision for a `UICollectionView` Swift Controller [•](https://raw.githubusercontent.com/Ramotion/gliding-collection/master/assets/gliding-collection.gif)
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce [•](https://raw.githubusercontent.com/roberthein/BouncyLayout/master/art/gifs/02.gif)
-*  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for `UICollectionView` [•](https://camo.githubusercontent.com/bb984a34320d944ccf561857995c90629f5037a0/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f646334323539613135303438303136333139393038353836)
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif)
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - `UICollectionViewLayout` with focused content [•](https://raw.githubusercontent.com/fdzsergio/SFFocusViewLayout/master/Screenshots/SFFocusViewLayout.gif)
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation [•](https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif)
@@ -229,7 +215,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController [•](https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png)
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement [•](https://raw.githubusercontent.com/GitHawkApp/MessageViewController/master/animation.gif)
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces on iOS [•](https://raw.githubusercontent.com/steve228uk/MessengerKit/master/readme-resources/screenshots/examples.png)
-* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps. [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider [•](https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif)
 
 ### Form & Settings
@@ -248,7 +234,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for `UILabel`, which automatically adds a scrolling marquee effect [•](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif)
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR [•](https://raw.githubusercontent.com/hanleyweng/CoreML-in-ARKit/master/post-media/giphy.gif)
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing [•](https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif)
-* [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - `UILabel` drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) [•](https://raw.githubusercontent.com/optonaut/ActiveLabel.swift/master/ActiveLabelDemo/demo.gif)
+* [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - `UILabel` drop-in replacement supporting Hashtags
 
 ### Menu
 
@@ -271,7 +257,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 * [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects [•](https://raw.githubusercontent.com/gmertk/BusyNavigationBar/master/Screenshots/gray_stripe.gif)
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a `UIScrollView` [•](https://raw.githubusercontent.com/andreamazz/AMScrollingNavbar/master/assets/screenshot.gif)
-* [SPFakeBar](https://github.com/ivanvorobei/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Navigation%20Bar.jpg)
+* [SPFakeBar](https://github.com/ivanvorobei/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other
 
 ### Pull to Refresh
 
@@ -307,34 +293,6 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource [•](https://raw.githubusercontent.com/edopelawi/CascadingTableDelegate/master/ReadmeImages/sample-page-screenshot.jpg)
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of `UITableView` can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project [•](https://raw.githubusercontent.com/HamzaGhazouani/HGPlaceholders/master/Screenshots/default.gif)
-
-### Icons & Glyphs
-
-* [iOS 11 Glyphs](https://icons8.com/ios) - These icons are a must-have for all iOS developers
-* [useAnimations](https://useanimations.com) - Animated icons in `Lottie` Framework and After Effects for immediate implementation
-* [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) - Provides a set of over 1,500 consistent, highly configurable symbols you can use in your app
-* [PaintCode](https://www.paintcodeapp.com) - Turn drawings vector icons into Swift
-
-### Sketch Projects
-
-* [Apple Design Sources](https://developer.apple.com/design/resources/) - Design apps quickly and accurately by using `Sketch`
-* [SketchAppSources](https://www.sketchappsources.com) - The largest collection of Sketch resources for mobile UI
-
-### Fonts
-
-* [Fonts](https://developer.apple.com/fonts/) - Fonts for Apple Platforms
-* [Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) - The fonts of this typeface are optimized to give your text unmatched legibility
-* [iOS Fonts](http://iosfonts.com/) - List of iOS Fonts
-* [iOS Font List](https://iosfontlist.com/#availability=10.0&preinstalled) - Also list of fonts
-
-### Apple Tutorials
-
-* [SwiftUI](https://developer.apple.com/tutorials/swiftui) - Tutorials step by steb about `SwiftUI`
-
-### Xcode Stores
-
-* [xcode-shop.com](https://xcode-shop.com) - I am sale some source of my apps & elements
-* [codecanyon.net](https://codecanyon.net/category/mobile/ios) - App templates from developers
 
 ## Other Projects
 
