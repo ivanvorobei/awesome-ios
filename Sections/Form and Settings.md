@@ -1,4 +1,4 @@
-### Form & Settings
+### Form and Settings
 
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder
 

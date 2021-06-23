@@ -1,4 +1,4 @@
-### Action Sheet
+### ActionSheet
 
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet
 
