@@ -38,7 +38,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ## Content
 
-### [Activity Indicator](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Activity Indicator.md)
+### [Activity Indicator](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Activity%20Indicator.md)
 
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert using blur effects, translucency, flat and bold design [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
