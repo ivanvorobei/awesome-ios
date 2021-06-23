@@ -9,8 +9,8 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 ## Navigate
 
-- [ActivityIndicator](#activity-indicator)
-- [ActionSheet](#action-sheet)
+- [Activity Indicator](#activity-indicator)
+- [Action Sheet](#action-sheet)
 - [Alert](#alert)
 - [Animation](#animation)
 	- [Transition](#transition)
@@ -19,13 +19,13 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - [Cards](#cards)
 - [Control](#control)
 	- [Button](#button)
-	- [SegmentControl](#segmented-control)
+	- [Segment Control](#segmented-control)
 	- [Slider](#slider)
 	- [Switch](#switch)
-	- [TextField](#text-field)
-	- [TextView](#textview)
-	- [PageControl](#page-control)
-- [CollectionView](#collection-view)
+	- [Text Field](#text-field)
+	- [Text View](#text-view)
+	- [Page Control](#page-control)
+- [Collection View](#collection-view)
 - [Color](#color)
 - [Controller](#controller)
 - [Form and Settings](#form-and-settings)
@@ -33,12 +33,12 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - [Menu](#menu)
 - [Navigation Bar](#navigation-bar)
 - [Pull to Refresh](#pull-to-refresh)
-- [TabBar](#tab-bar)
-- [TableView](#table-view)
+- [Tab Bar](#tab-bar)
+- [Table View](#table-view)
 
 ## Content
 
-### [ActivityIndicator](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/ActivityIndicator.md)
+### [Activity Indicator](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Activity%20Indicator.md)
 
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert using blur effects, translucency, flat and bold design [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
@@ -52,7 +52,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom `CGPaths` [•](https://raw.githubusercontent.com/polqf/FillableLoaders/master/Images/waves.gif)
 * [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and customizable animated progress bar [•](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
 
-### [ActionSheet](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/ActionSheet.md)
+### [Action Sheet](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Action%20Sheet.md)
 
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
 * [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission [•](https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg)
@@ -144,7 +144,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [CocoaButton](https://github.com/edgar-zigis/CocoaButton) - Interactive UIButton with loading capability [•](https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif)
 * [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton) - Simple way to create beautiful button with fully customisable
 
-### [SegmentControl](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/SegmentControl.md)
+### [Segment Control](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Segment%20Control.md)
 
 * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator [•](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation [•](https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif)
@@ -179,7 +179,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated `UITextField` and `UITextView` replacement [•](https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif)
 * [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) - Highly customizable text field created according to Material.IO guidelines [•](https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif)
 
-### [TextView](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/TextView.md)
+### [Control](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Control.md)
 
 * [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks [•](https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif)
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion [•](https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif)
@@ -190,7 +190,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl [•](https://raw.githubusercontent.com/ChiliLabs/CHIPageControl/master/Images/demo.gif)
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl [•](https://raw.githubusercontent.com/popwarsweet/PageControls/master/demo.gif)
 
-### [CollectionView](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/CollectionView.md)
+### [Collection View](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Collection%20View.md)
 
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
@@ -270,7 +270,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - GIFRefreshControl is a pull to refresh that supports GIF images as track animations [•](https://raw.githubusercontent.com/delannoyk/GIFRefreshControl/master/example2.gif)
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in `UICollectionView` with a sticky header flow layout [•](https://raw.githubusercontent.com/fruitcoder/ReplaceAnimation/master/RefreshSuccess.gif)
 
-### [TabBar](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/TabBar.md)
+### [Tab Bar](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Tab%20Bar.md)
 
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif)
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items [•](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/animatedTabBar.gif)
@@ -283,7 +283,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller [•](https://raw.githubusercontent.com/Minitour/AZTabBarController/master/Screenshots/aztabbar.gif)
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - `UITabBarController` with swipe interaction between its tabs [•](https://raw.githubusercontent.com/marcosgriselli/SwipeableTabBarController/master/./Resources/GIFs/SwipeableTabBarController_new.gif)
 
-### [TableView](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/TableView.md)
+### [Table View](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Table%20View.md)
 
 * [preview-transition](https://github.com/Ramotion/preview-transition) - Simple preview gallery UI controller with animated tranisitions [•](https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview-transition.gif)
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif)

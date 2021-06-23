@@ -1,4 +1,4 @@
-### TabBar
+### Tab Bar
 
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar
 
