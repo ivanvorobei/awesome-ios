@@ -1,4 +1,4 @@
-### SegmentControl
+### Segment Control
 
 * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator
 

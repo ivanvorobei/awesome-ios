@@ -1,4 +1,4 @@
-### TableView
+### Table View
 
 * [preview-transition](https://github.com/Ramotion/preview-transition) - Simple preview gallery UI controller with animated tranisitions
 

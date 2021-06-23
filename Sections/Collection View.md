@@ -1,4 +1,4 @@
-### CollectionView
+### Collection View
 
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller
 

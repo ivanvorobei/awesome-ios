@@ -1,4 +1,4 @@
-### ActivityIndicator
+### Activity Indicator
 
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations
 
