@@ -1,7 +1,6 @@
 # Awesome iOS
 
-A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
-Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•` or open section inside `/Sections/Alert.md` for see all libraries in this section with preview.
+A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more. 
 
 If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
@@ -293,30 +292,3 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource [•](https://raw.githubusercontent.com/edopelawi/CascadingTableDelegate/master/ReadmeImages/sample-page-screenshot.jpg)
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of `UITableView` can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project [•](https://raw.githubusercontent.com/HamzaGhazouani/HGPlaceholders/master/Screenshots/default.gif)
-
-## Other Projects
-
-#### [SPAlert](https://github.com/ivanvorobei/SPAlert)
-You can find this alerts in AppStore after feedback or after added song to library in Apple Music. Contains popular Done, Heart presets and many other. Done preset present with draw path animation like original. Also available simple present message without icon. Usage in one line code.
-
-#### [SPPerspective](https://github.com/ivanvorobei/SPPerspective)
-Animation of widgets from iOS 14. 3D transform with dynamic shadow. Look [video preview](https://ivanvorobei.by/github/spperspective/video-preview). Available deep customisation 3D and shadow. Also you can use static transform without animation.
-
-#### [SPPermissions](https://github.com/ivanvorobei/SPPermissions)
-Using for request and check state of permissions. Available native UI for request multiple permissions at the same time. Simple integration and usage like 2 lines code.
-
-#### [SPDiffable](https://github.com/ivanvorobei/SPDiffable)
-Simplifies working with animated changes in table and collections. Apple's diffable API required models for each object type. If you want use it in many place, you pass time to implement it and get over duplicates codes. This project help do it elegant with shared models and special cell providers. Support side bar iOS14 and already has native cell providers and views.
-
-#### [SparrowKit](https://github.com/ivanvorobei/SparrowKit)
-Collection of native Swift extensions to boost your development. Support tvOS and watchOS.
-
-#### [SPIndicator](https://github.com/ivanvorobei/SPIndicator)
-Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts and has ready-use animatable icons like `done` and `error`.
-
-## Russian Community
-
-В телеграм-канале [Код Воробья](https://sparrowcode.by/telegram) пишу о iOS разработке. Помощь можно найти в [нашем чате](https://sparrowcode.by/telegram/chat).
-Видео-туториалы выклыдываю на [YouTube](https://sparrowcode.by/youtube):
-
-[![Tutorials on YouTube](https://cdn.ivanvorobei.by/github/readme/youtube-preview.jpg)](https://sparrowcode.by/youtube)
