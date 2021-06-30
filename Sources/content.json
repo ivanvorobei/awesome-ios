@@ -2,222 +2,262 @@
    {
       "name" : "NVActivityIndicatorView",
       "description" : "Collection of nice loading animations",
-      "source" : "https://github.com/ninjaprox/NVActivityIndicatorView",
-      "preview" : "https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ninjaprox/NVActivityIndicatorView",
+      "preview_url" : "https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SwiftSpinner",
       "description" : "A beautiful activity indicator and modal alert using blur effects, translucency, flat and bold design",
-      "source" : "https://github.com/icanzilb/SwiftSpinner",
-      "preview" : "https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/icanzilb/SwiftSpinner",
+      "preview_url" : "https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "GradientLoadingBar",
       "description" : "An animated gradient loading bar",
-      "source" : "https://github.com/fxm90/GradientLoadingBar",
-      "preview" : "https://raw.githubusercontent.com/fxm90/GradientLoadingBar/master/Assets/screen.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/fxm90/GradientLoadingBar",
+      "preview_url" : "https://raw.githubusercontent.com/fxm90/GradientLoadingBar/master/Assets/screen.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SkeletonView",
       "description" : "An elegant way to show users that something is happening and also prepare them to which contents he is waiting",
-      "source" : "https://github.com/Juanpe/SkeletonView",
-      "preview" : "https://raw.githubusercontent.com/Juanpe/SkeletonView/main/Assets/solid.png",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Juanpe/SkeletonView",
+      "preview_url" : "https://raw.githubusercontent.com/Juanpe/SkeletonView/main/Assets/solid.png",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "LoadingShimmer",
       "description" : "An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator",
-      "source" : "https://github.com/jogendra/LoadingShimmer",
-      "preview" : "https://raw.githubusercontent.com/jogendra/LoadingShimmer/master/Screenshots/demo.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/jogendra/LoadingShimmer",
+      "preview_url" : "https://raw.githubusercontent.com/jogendra/LoadingShimmer/master/Screenshots/demo.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "LiquidLoader",
       "description" : "Spinner loader components with liquid animation",
-      "source" : "https://github.com/yoavlt/LiquidLoader",
-      "preview" : "https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-circle.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/yoavlt/LiquidLoader",
+      "preview_url" : "https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-circle.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "STLoadingGroup",
       "description" : "loading views",
-      "source" : "https://github.com/saitjr/STLoadingGroup",
-      "preview" : "https://raw.githubusercontent.com/saitjr/STLoadingGroup/master/resources/loading.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/saitjr/STLoadingGroup",
+      "preview_url" : "https://raw.githubusercontent.com/saitjr/STLoadingGroup/master/resources/loading.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "KDCircularProgress",
       "description" : "A circular progress view with gradients",
-      "source" : "https://github.com/kaandedeoglu/KDCircularProgress",
-      "preview" : "https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/kaandedeoglu/KDCircularProgress",
+      "preview_url" : "https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "ParticlesLoadingView",
       "description" : "A customizable SpriteKit particles animation on the border of a view",
-      "source" : "https://github.com/BalestraPatrick/ParticlesLoadingView",
-      "preview" : "https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/BalestraPatrick/ParticlesLoadingView",
+      "preview_url" : "https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "FillableLoaders",
       "description" : "Completely customizable progress based loaders drawn using custom `CGPaths`",
-      "source" : "https://github.com/polqf/FillableLoaders",
-      "preview" : "https://raw.githubusercontent.com/polqf/FillableLoaders/master/Images/waves.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/polqf/FillableLoaders",
+      "preview_url" : "https://raw.githubusercontent.com/polqf/FillableLoaders/master/Images/waves.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "DSGradientProgressView",
       "description" : "A simple and customizable animated progress bar",
-      "source" : "https://github.com/DholStudio/DSGradientProgressView",
-      "preview" : "https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif",
-      "section" : "activity-indicator",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/DholStudio/DSGradientProgressView",
+      "preview_url" : "https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif",
+      "section_id" : "activity-indicator",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "PopMenu",
       "description" : "A cool and customizable popup style action sheet",
-      "source" : "https://github.com/CaliCastle/PopMenu",
-      "preview" : "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif",
-      "section" : "action-sheet",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/CaliCastle/PopMenu",
+      "preview_url" : "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif",
+      "section_id" : "action-sheet",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPPermissions",
       "description" : "Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission",
-      "source" : "https://github.com/ivanvorobei/SPPermissions",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg",
-      "section" : "action-sheet",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ivanvorobei/SPPermissions",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg",
+      "section_id" : "action-sheet",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "BulletinBoard",
       "description" : "Generate and Display Bottom Card Interfaces",
-      "source" : "https://github.com/alexaubry/BulletinBoard",
-      "preview" : "https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png",
-      "section" : "action-sheet",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/alexaubry/BulletinBoard",
+      "preview_url" : "https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png",
+      "section_id" : "action-sheet",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "alerts-and-pickers",
       "description" : "Advanced usage of native UIAlertController with `UITextField`, `UIDatePicker`, `UIPickerView`, `UITableView` and `UICollectionView`",
-      "source" : "https://github.com/dillidon/alerts-and-pickers",
-      "preview" : "https://raw.githubusercontent.com/dillidon/alerts-and-pickers/new/Assets/gifs/actionSheet-.gif",
-      "section" : "action-sheet",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/dillidon/alerts-and-pickers",
+      "preview_url" : "https://raw.githubusercontent.com/dillidon/alerts-and-pickers/new/Assets/gifs/actionSheet-.gif",
+      "section_id" : "action-sheet",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CFAlertViewController",
       "description" : " A library that helps you display and customise alerts and action sheets on iPad and iPhone",
-      "source" : "https://github.com/Codigami/CFAlertViewController",
-      "preview" : "https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif",
-      "section" : "action-sheet",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Codigami/CFAlertViewController",
+      "preview_url" : "https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif",
+      "section_id" : "action-sheet",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Hokusai",
       "description" : "A Swift library to provide a bouncy action sheet",
-      "source" : "https://github.com/ytakzk/Hokusai",
-      "preview" : "https://raw.githubusercontent.com/wiki/ytakzk/Hokusai/images/demo.gif",
-      "section" : "action-sheet",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ytakzk/Hokusai",
+      "preview_url" : "https://raw.githubusercontent.com/wiki/ytakzk/Hokusai/images/demo.gif",
+      "section_id" : "action-sheet",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TKSwarmAlert",
       "description" : "Animated alert library like Swarm app",
-      "source" : "https://github.com/entotsu/TKSwarmAlert",
-      "preview" : "https://raw.githubusercontent.com/entotsu/TKSwarmAlert/master/ScreenShots/minidemo.gif",
-      "section" : "action-sheet",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/entotsu/TKSwarmAlert",
+      "preview_url" : "https://raw.githubusercontent.com/entotsu/TKSwarmAlert/master/ScreenShots/minidemo.gif",
+      "section_id" : "action-sheet",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "DOAlertController",
       "description" : "Simple Alert View written in Swift, which can be used as a UIAlertController",
-      "source" : "https://github.com/okmr-d/DOAlertController",
-      "preview" : "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif",
-      "section" : "action-sheet",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/okmr-d/DOAlertController",
+      "preview_url" : "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif",
+      "section_id" : "action-sheet",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPAlert",
       "description" : "Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI",
-      "source" : "https://github.com/ivanvorobei/SPAlert",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei",
+      "source_url" : "https://github.com/ivanvorobei/SPAlert",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      },
       "using_apps" : [
          {
             "name" : "Debts - Debt Tracker",
@@ -228,13 +268,15 @@
    {
       "name" : "SPIndicator",
       "description" : "Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts",
-      "source" : "https://github.com/ivanvorobei/SPIndicator",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei",
+      "source_url" : "https://github.com/ivanvorobei/SPIndicator",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      },
       "using_apps" : [
          {
             "name" : "Debts - Debt Tracker",
@@ -245,1132 +287,1260 @@
    {
       "name" : "SCLAlertView-Swift",
       "description" : "Beautiful animated Alert View",
-      "source" : "https://github.com/vikmeup/SCLAlertView-Swift",
-      "preview" : "https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/vikmeup/SCLAlertView-Swift",
+      "preview_url" : "https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Loaf",
       "description" : "A simple framework for easy Toasts",
-      "source" : "https://github.com/schmidyy/Loaf",
-      "preview" : "https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/schmidyy/Loaf",
+      "preview_url" : "https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "HDNotificationView",
       "description" : "Emulates the native Notification Banner UI for any alert",
-      "source" : "https://github.com/nhdang103/HDNotificationView",
-      "preview" : "https://raw.githubusercontent.com/nhdang103/HDNotificationView/master/Assets/Images/iPhoneX_Portrait.png",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/nhdang103/HDNotificationView",
+      "preview_url" : "https://raw.githubusercontent.com/nhdang103/HDNotificationView/master/Assets/Images/iPhoneX_Portrait.png",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "PMAlertController",
       "description" : "PMAlertController is a great and customizable substitute to UIAlertController",
-      "source" : "https://github.com/pmusolino/PMAlertController",
-      "preview" : "https://raw.githubusercontent.com/pmusolino/PMAlertController/master/preview_pmalertacontroller.png",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/pmusolino/PMAlertController",
+      "preview_url" : "https://raw.githubusercontent.com/pmusolino/PMAlertController/master/preview_pmalertacontroller.png",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Dodo",
       "description" : "A message bar",
-      "source" : "https://github.com/evgenyneu/Dodo",
-      "preview" : "https://raw.githubusercontent.com/evgenyneu/Dodo/master/Graphics/presets/info.jpg",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/evgenyneu/Dodo",
+      "preview_url" : "https://raw.githubusercontent.com/evgenyneu/Dodo/master/Graphics/presets/info.jpg",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SwiftMessages",
       "description" : "A very flexible message bar",
-      "source" : "https://github.com/SwiftKickMobile/SwiftMessages",
-      "preview" : "https://raw.githubusercontent.com/SwiftKickMobile/SwiftMessages/master/Demo/demo.png",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/SwiftKickMobile/SwiftMessages",
+      "preview_url" : "https://raw.githubusercontent.com/SwiftKickMobile/SwiftMessages/master/Demo/demo.png",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "NotificationBanner",
       "description" : "The easiest way to display highly customizable in app notification banners",
-      "source" : "https://github.com/Daltron/NotificationBanner",
-      "preview" : "https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Daltron/NotificationBanner",
+      "preview_url" : "https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SwiftEntryKit",
       "description" : "Banner presenter library for iOS",
-      "source" : "https://github.com/huri000/SwiftEntryKit",
-      "preview" : "https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/huri000/SwiftEntryKit",
+      "preview_url" : "https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "QBToast",
       "description" : "Simple way to display Toast message in iOS app with a single line of code",
-      "source" : "https://github.com/sjc-bui/QBToast",
-      "preview" : "https://raw.githubusercontent.com/sjc-bui/QBToast/master/Example/QBToast/screen-record.gif",
-      "section" : "alert",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/sjc-bui/QBToast",
+      "preview_url" : "https://raw.githubusercontent.com/sjc-bui/QBToast/master/Example/QBToast/screen-record.gif",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPPerspective",
       "description" : "Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration",
-      "source" : "https://github.com/ivanvorobei/SPPerspective",
-      "preview" : "https://cdn.ivanvorobei.by/github/spperspective/preview.mov",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ivanvorobei/SPPerspective",
+      "preview_url" : "https://cdn.ivanvorobei.by/github/spperspective/preview.mov",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Lottie",
       "description" : "An iOS library for a real time rendering of native vector animations from Adobe After Effects",
-      "source" : "https://github.com/airbnb/lottie-ios",
-      "preview" : "https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/airbnb/lottie-ios",
+      "preview_url" : "https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "AnimatedCollectionViewLayout",
       "description" : "A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView`",
-      "source" : "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
-      "preview" : "https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
+      "preview_url" : "https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Material",
       "description" : "Material's animation",
-      "source" : "https://github.com/CosmicMind/Material",
-      "preview" : "https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/CosmicMind/Material",
+      "preview_url" : "https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TweenKit",
       "description" : "Animation library for iOS",
-      "source" : "https://github.com/SteveBarnegren/TweenKit",
-      "preview" : "https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/SteveBarnegren/TweenKit",
+      "preview_url" : "https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "IBAnimatable",
       "description" : "Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable",
-      "source" : "https://github.com/IBAnimatable/IBAnimatable",
-      "preview" : "https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/IBAnimatable/IBAnimatable",
+      "preview_url" : "https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "ViewAnimator",
       "description" : "ViewAnimator brings your UI to life with just one line",
-      "source" : "https://github.com/marcosgriselli/ViewAnimator",
-      "preview" : "https://camo.githubusercontent.com/1f76933a70dd39cb3f36f77519d8c163313e316a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6d6172636f7367726973656c6c692f56696577416e696d61746f7240636630363565393661633334633932343731306464383463373138656364336265313739616533372f5265736f75726365732f656e74697265566965772e737667",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/marcosgriselli/ViewAnimator",
+      "preview_url" : "https://camo.githubusercontent.com/1f76933a70dd39cb3f36f77519d8c163313e316a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6d6172636f7367726973656c6c692f56696577416e696d61746f7240636630363565393661633334633932343731306464383463373138656364336265313739616533372f5265736f75726365732f656e74697265566965772e737667",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CKWaveCollectionViewTransition",
       "description" : "Cool wave like transition between two or more `UICollectionView`",
-      "source" : "https://github.com/CezaryKopacz/CKWaveCollectionViewTransition",
-      "preview" : "https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/CezaryKopacz/CKWaveCollectionViewTransition",
+      "preview_url" : "https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Ease",
       "description" : "Animate everything with Ease",
-      "source" : "https://github.com/roberthein/Ease",
-      "preview" : "https://raw.githubusercontent.com/roberthein/Ease/master/Art/header.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/roberthein/Ease",
+      "preview_url" : "https://raw.githubusercontent.com/roberthein/Ease/master/Art/header.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "MotionAnimation",
       "description" : "Lightweight animation library for `UIKit`",
-      "source" : "https://github.com/lkzhao/MotionAnimation",
-      "preview" : "https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/lkzhao/MotionAnimation",
+      "preview_url" : "https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "DKChainableAnimationKit",
       "description" : "Chainable animations",
-      "source" : "https://github.com/Draveness/DKChainableAnimationKit",
-      "preview" : "https://raw.githubusercontent.com/draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Draveness/DKChainableAnimationKit",
+      "preview_url" : "https://raw.githubusercontent.com/draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SAConfettiView",
       "description" : "Confetti",
-      "source" : "https://github.com/sudeepag/SAConfettiView",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/sudeepag/SAConfettiView",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "fluid-interfaces",
       "description" : "Natural gestures and animations inspired by Apple's WWDC18 talk",
-      "source" : "https://github.com/nathangitter/fluid-interfaces",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/nathangitter/fluid-interfaces",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPStorkController",
       "description" : "Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps",
-      "source" : "https://github.com/ivanvorobei/SPStorkController",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
+      "source_url" : "https://github.com/ivanvorobei/SPStorkController",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
       "active" : false,
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Hero",
       "description" : "Building iOS view controller transitions",
-      "source" : "https://github.com/HeroTransitions/Hero",
-      "preview" : "https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/HeroTransitions/Hero",
+      "preview_url" : "https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Motion",
       "description" : "Seamless animations and transitions",
-      "source" : "https://github.com/CosmicMind/Motion",
-      "preview" : "https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/CosmicMind/Motion",
+      "preview_url" : "https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Transition",
       "description" : "Easy interactive interruptible custom ViewController transitions",
-      "source" : "https://github.com/Touchwonders/Transition",
-      "preview" : "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/tabbar.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Touchwonders/Transition",
+      "preview_url" : "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/tabbar.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "StarWars.iOS",
       "description" : "This component implements transition animation to crumble view-controller into tiny pieces",
-      "source" : "https://github.com/Yalantis/StarWars.iOS",
-      "preview" : "https://raw.githubusercontent.com/Yalantis/StarWars.iOS/master/preview.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Yalantis/StarWars.iOS",
+      "preview_url" : "https://raw.githubusercontent.com/Yalantis/StarWars.iOS/master/preview.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "BubbleTransition",
       "description" : "A custom modal transition that presents and dismiss a controller with an expanding bubble effect",
-      "source" : "https://github.com/andreamazz/BubbleTransition",
-      "preview" : "https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/andreamazz/BubbleTransition",
+      "preview_url" : "https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "ElasticTransition",
       "description" : "A `UIKit` custom transition that simulates an elastic drag",
-      "source" : "https://github.com/lkzhao/ElasticTransition",
-      "preview" : "https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/lkzhao/ElasticTransition",
+      "preview_url" : "https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPLarkController",
       "description" : "Settings screen with buttons and switches",
-      "source" : "https://github.com/ivanvorobei/SPLarkController",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ivanvorobei/SPLarkController",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "JTMaterialTransition",
       "description" : "An iOS transition for controllers based on material design",
-      "source" : "https://github.com/jonathantribouharet/JTMaterialTransition",
-      "preview" : "https://raw.githubusercontent.com/jonathantribouharet/JTMaterialTransition/master/Screens/example.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/jonathantribouharet/JTMaterialTransition",
+      "preview_url" : "https://raw.githubusercontent.com/jonathantribouharet/JTMaterialTransition/master/Screens/example.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "FloatingPanel",
       "description" : "A clean and easy-to-use floating panel UI component for iOS",
-      "source" : "https://github.com/SCENEE/FloatingPanel",
-      "preview" : "https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/SCENEE/FloatingPanel",
+      "preview_url" : "https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "liquid-swipe",
       "description" : "Transition simulates liquid when swipe to the side",
-      "source" : "https://github.com/Cuberto/liquid-swipe",
-      "preview" : "https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Cuberto/liquid-swipe",
+      "preview_url" : "https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "DropdownTransition",
       "description" : "Simple and elegant dropdown transition for iOS",
-      "source" : "https://github.com/nugmanoff/DropdownTransition",
-      "preview" : "https://raw.githubusercontent.com/nugmanoff/DropdownTransition/master/Resources/demo-default.gif",
-      "section" : "animation/transition",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "BadgeHub",
-      "description" : "A way to quickly add a notification badge icon to any view. Make any `UIView` a full fledged animated notification center",
-      "source" : "https://github.com/jogendra/BadgeHub",
-      "preview" : "https://camo.githubusercontent.com/88938e803d4a75413002c77f6b02178817a6ac33/68747470733a2f2f692e696d6775722e636f6d2f32333874696b662e676966",
-      "section" : "badge",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "EasyNotificationBadge",
-      "description" : "`UIView` extension that adds a notification badge",
-      "source" : "https://github.com/Minitour/EasyNotificationBadge",
-      "preview" : "https://raw.githubusercontent.com/Minitour/EasyNotificationBadge/master/Screenshots/heading.gif",
-      "section" : "badge",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "FlagKit",
-      "description" : "Beautiful flag icons",
-      "source" : "https://github.com/madebybowtie/FlagKit",
-      "preview" : "https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Header.png",
-      "section" : "badge",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/nugmanoff/DropdownTransition",
+      "preview_url" : "https://raw.githubusercontent.com/nugmanoff/DropdownTransition/master/Resources/demo-default.gif",
+      "section_id" : "animation-transition",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CalendarKit",
       "description" : "Fully customizable calendar day view",
-      "source" : "https://github.com/richardtop/CalendarKit",
-      "preview" : "https://user-images.githubusercontent.com/8013017/30786599-1a05d3b0-a181-11e7-81fa-db6c7044bfa1.jpg",
-      "section" : "calendar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/richardtop/CalendarKit",
+      "preview_url" : "https://user-images.githubusercontent.com/8013017/30786599-1a05d3b0-a181-11e7-81fa-db6c7044bfa1.jpg",
+      "section_id" : "calendar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "JTAppleCalendar",
       "description" : "The Unofficial Swift Apple Calendar Library",
-      "source" : "https://github.com/patchthecode/JTAppleCalendar",
-      "preview" : "https://cloud.githubusercontent.com/assets/2439146/20638185/d708d542-b353-11e6-8119-fa36c11b66cb.gif",
-      "section" : "calendar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/patchthecode/JTAppleCalendar",
+      "preview_url" : "https://cloud.githubusercontent.com/assets/2439146/20638185/d708d542-b353-11e6-8119-fa36c11b66cb.gif",
+      "section_id" : "calendar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Koyomi",
       "description" : "Simple customizable calendar component",
-      "source" : "https://github.com/shoheiyokoyama/Koyomi",
-      "preview" : "https://raw.githubusercontent.com/shoheiyokoyama/Assets/master/Koyomi/demo-example.gif",
-      "section" : "calendar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/shoheiyokoyama/Koyomi",
+      "preview_url" : "https://raw.githubusercontent.com/shoheiyokoyama/Assets/master/Koyomi/demo-example.gif",
+      "section_id" : "calendar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "DateTimePicker",
       "description" : "A nicer iOS UI component for picking date and time",
-      "source" : "https://github.com/itsmeichigo/DateTimePicker",
-      "preview" : "https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png",
-      "section" : "calendar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/itsmeichigo/DateTimePicker",
+      "preview_url" : "https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png",
+      "section_id" : "calendar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CVCalendar",
       "description" : "A custom visual calendar",
-      "source" : "https://github.com/CVCalendar/CVCalendar",
-      "preview" : "https://raw.githubusercontent.com/CVCalendar/CVCalendar/master/Screenshots/Demo_grey.gif",
-      "section" : "calendar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/CVCalendar/CVCalendar",
+      "preview_url" : "https://raw.githubusercontent.com/CVCalendar/CVCalendar/master/Screenshots/Demo_grey.gif",
+      "section_id" : "calendar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Cards",
       "description" : "Awesome iOS 11 AppStore's Card Views",
-      "source" : "https://github.com/PaoloCuscela/Cards",
-      "preview" : "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/PaoloCuscela/Cards",
+      "preview_url" : "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Koloda",
       "description" : "KolodaView is a class designed to simplify the implementation of Tinder like cards",
-      "source" : "https://github.com/Yalantis/Koloda",
-      "preview" : "https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_v2_example_animation.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Yalantis/Koloda",
+      "preview_url" : "https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_v2_example_animation.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TisprCardStack",
       "description" : "Library that allows to have cards UI",
-      "source" : "https://github.com/tispr/tispr-card-stack",
-      "preview" : "https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/tispr/tispr-card-stack",
+      "preview_url" : "https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CardParts",
       "description" : "A reactive, card-based UI framework built on `UIKit`",
-      "source" : "https://github.com/intuit/CardParts",
-      "preview" : "https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/intuit/CardParts",
+      "preview_url" : "https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "MPParallaxView",
       "description" : "Apple TV Parallax effect in Swift. Rotate view using touch or accelerometer",
-      "source" : "https://github.com/DroidsOnRoids/MPParallaxView",
-      "preview" : "https://raw.githubusercontent.com/DroidsOnRoids/MPParallaxView/master/Resources/demo.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/DroidsOnRoids/MPParallaxView",
+      "preview_url" : "https://raw.githubusercontent.com/DroidsOnRoids/MPParallaxView/master/Resources/demo.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "folding-cell",
       "description" : "FoldingCell is an expanding content cell inspired by folding paper material",
-      "source" : "https://github.com/Ramotion/folding-cell",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/folding-cell",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "cardslider",
       "description" : " Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions",
-      "source" : "https://github.com/Ramotion/cardslider",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/cardslider",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "expanding-collection",
       "description" : "ExpandingCollection is a card peek/pop controller",
-      "source" : "https://github.com/Ramotion/expanding-collection",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/expanding-collection",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "VerticalCardSwiper",
       "description" : "A marriage between the Shazam Discover UI and Tinder, built with `UICollectionView`",
-      "source" : "https://github.com/JoniVR/VerticalCardSwiper",
-      "preview" : "https://raw.githubusercontent.com/JoniVR/VerticalCardSwiper/master/example.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/JoniVR/VerticalCardSwiper",
+      "preview_url" : "https://raw.githubusercontent.com/JoniVR/VerticalCardSwiper/master/example.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CardNavigation",
       "description" : "A navigation controller that displays its view controllers as an interactive stack of cards",
-      "source" : "https://github.com/james01/CardNavigation",
-      "preview" : "https://raw.githubusercontent.com/james01/CardNavigation/main/Docs/Images/Screen.gif",
-      "section" : "cards",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/james01/CardNavigation",
+      "preview_url" : "https://raw.githubusercontent.com/james01/CardNavigation/main/Docs/Images/Screen.gif",
+      "section_id" : "cards",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "DOFavoriteButton",
       "description" : "Cute Animated Button",
-      "source" : "https://github.com/okmr-d/DOFavoriteButton",
-      "preview" : "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/okmr-d/DOFavoriteButton",
+      "preview_url" : "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TVButton",
       "description" : "Recreating the cool parallax icons from Apple TV as iOS `UIButton`",
-      "source" : "https://github.com/marmelroy/TVButton",
-      "preview" : "https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/marmelroy/TVButton",
+      "preview_url" : "https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TransitionButton",
       "description" : "`UIButton` sublass for loading and transition animation",
-      "source" : "https://github.com/AladinWay/TransitionButton",
-      "preview" : "https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/AladinWay/TransitionButton",
+      "preview_url" : "https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "WCLShineButton",
       "description" : "This is a UI lib for iOS. Effects like shining",
-      "source" : "https://github.com/imwcl/WCLShineButton",
-      "preview" : "https://raw.githubusercontent.com/imwcl/WCLShineButton/master/DemoGif.gif",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/imwcl/WCLShineButton",
+      "preview_url" : "https://raw.githubusercontent.com/imwcl/WCLShineButton/master/DemoGif.gif",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "ButtonProgressBar-iOS",
       "description" : "A small and flexible `UIButton` subclass with animated loading progress",
-      "source" : "https://github.com/thePsguy/ButtonProgressBar-iOS",
-      "preview" : "https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/thePsguy/ButtonProgressBar-iOS",
+      "preview_url" : "https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "LiquidFloatingActionButton",
       "description" : "Material Design Floating Action Button in liquid state",
-      "source" : "https://github.com/yoavlt/LiquidFloatingActionButton",
-      "preview" : "https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/yoavlt/LiquidFloatingActionButton",
+      "preview_url" : "https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Loady",
       "description" : "A small library to show loading and indicator in `UIButton`, with fully customizable styles",
-      "source" : "https://github.com/farshadjahanmanesh/loady",
-      "preview" : "https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/farshadjahanmanesh/loady",
+      "preview_url" : "https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CocoaButton",
       "description" : "Interactive UIButton with loading capability",
-      "source" : "https://github.com/edgar-zigis/CocoaButton",
-      "preview" : "https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/edgar-zigis/CocoaButton",
+      "preview_url" : "https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "QBIndicatorButton",
       "description" : "Simple way to create beautiful button with fully customisable",
-      "source" : "https://github.com/sjc-bui/QBIndicatorButton",
-      "section" : "control/button",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/sjc-bui/QBIndicatorButton",
+      "section_id" : "control-button",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TKRubberIndicator",
       "description" : "Rubber Indicator",
-      "source" : "https://github.com/TBXark/TKRubberIndicator",
-      "preview" : "https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif",
-      "section" : "control/segmented-control",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/TBXark/TKRubberIndicator",
+      "preview_url" : "https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif",
+      "section_id" : "control-segmented-control",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "PinterestSegment",
       "description" : "A Pinterest-like segment control with masking animation",
-      "source" : "https://github.com/TBXark/PinterestSegment",
-      "preview" : "https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif",
-      "section" : "control/segmented-control",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/TBXark/PinterestSegment",
+      "preview_url" : "https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif",
+      "section_id" : "control-segmented-control",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TwicketSegmentedControl",
       "description" : "Custom `UISegmentedControl` replacement",
-      "source" : "https://github.com/twicketapp/TwicketSegmentedControl",
-      "preview" : "https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif",
-      "section" : "control/segmented-control",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/twicketapp/TwicketSegmentedControl",
+      "preview_url" : "https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif",
+      "section_id" : "control-segmented-control",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SJFluidSegmentedControl",
       "description" : "A segmented control with custom appearance and interactive animations",
-      "source" : "https://github.com/sasojadrovski/SJFluidSegmentedControl",
-      "preview" : "https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif",
-      "section" : "control/segmented-control",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/sasojadrovski/SJFluidSegmentedControl",
+      "preview_url" : "https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif",
+      "section_id" : "control-segmented-control",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "JXSegmentedView",
       "description" : "A powerful and easy to use segmented view",
-      "source" : "https://github.com/pujiaxin33/JXSegmentedView",
-      "preview" : "https://raw.githubusercontent.com/pujiaxin33/JXExampleImages/master/JXSegmentedView/Indicator/LineLengthen.gif",
-      "section" : "control/segmented-control",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/pujiaxin33/JXSegmentedView",
+      "preview_url" : "https://raw.githubusercontent.com/pujiaxin33/JXExampleImages/master/JXSegmentedView/Indicator/LineLengthen.gif",
+      "section_id" : "control-segmented-control",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "HGCircularSlider",
       "description" : "A custom reusable circular slider control",
-      "source" : "https://github.com/HamzaGhazouani/HGCircularSlider",
-      "preview" : "https://raw.githubusercontent.com/HamzaGhazouani/HGCircularSlider/master/Screenshots/Bedtime.gif",
-      "section" : "control/slider",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/HamzaGhazouani/HGCircularSlider",
+      "preview_url" : "https://raw.githubusercontent.com/HamzaGhazouani/HGCircularSlider/master/Screenshots/Bedtime.gif",
+      "section_id" : "control-slider",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "AGCircularPicker",
       "description" : "AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter",
-      "source" : "https://github.com/agilie/AGCircularPicker",
-      "preview" : "https://camo.githubusercontent.com/36324d7e99482ec072b76b81923a6aae46fc26c6/68747470733a2f2f6a2e676966732e636f6d2f35384e444e4b2e676966",
-      "section" : "control/slider",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/agilie/AGCircularPicker",
+      "preview_url" : "https://camo.githubusercontent.com/36324d7e99482ec072b76b81923a6aae46fc26c6/68747470733a2f2f6a2e676966732e636f6d2f35384e444e4b2e676966",
+      "section_id" : "control-slider",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Fluid Slider",
       "description" : "A slider widget with a popup bubble displaying the precise value selected",
-      "source" : "https://github.com/Ramotion/fluid-slider",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/fluid-slider/master/fluid-slider.gif",
-      "section" : "control/slider",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/fluid-slider",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/fluid-slider/master/fluid-slider.gif",
+      "section_id" : "control-slider",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SectionedSlider",
       "description" : "Control Center Slider",
-      "source" : "https://github.com/LeonardoCardoso/SectionedSlider",
-      "preview" : "https://raw.githubusercontent.com/LeonardoCardoso/SectionedSlider/master/Images/static2.gif",
-      "section" : "control/slider",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/LeonardoCardoso/SectionedSlider",
+      "preview_url" : "https://raw.githubusercontent.com/LeonardoCardoso/SectionedSlider/master/Images/static2.gif",
+      "section_id" : "control-slider",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "balloon-picker",
       "description" : "Custom picker view with floating balloon animation",
-      "source" : "https://github.com/Cuberto/balloon-picker",
-      "preview" : "https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif",
-      "section" : "control/slider",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Cuberto/balloon-picker",
+      "preview_url" : "https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif",
+      "section_id" : "control-slider",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "GMStepper",
       "description" : "A stepper with a sliding label in the middle",
-      "source" : "https://github.com/gmertk/GMStepper",
-      "preview" : "https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif",
-      "section" : "control/slider",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/gmertk/GMStepper",
+      "preview_url" : "https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif",
+      "section_id" : "control-slider",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "GaugeSlider",
       "description" : "Highly customizable GaugeSlider primarily designed for a Smart Home app",
-      "source" : "https://github.com/edgar-zigis/GaugeSlider",
-      "preview" : "https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif",
-      "section" : "control/slider",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/edgar-zigis/GaugeSlider",
+      "preview_url" : "https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif",
+      "section_id" : "control-slider",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TKSwitcherCollection",
       "description" : "An animate switch collection",
-      "source" : "https://github.com/TBXark/TKSwitcherCollection",
-      "preview" : "https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/liquid.gif",
-      "section" : "control/switch",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/TBXark/TKSwitcherCollection",
+      "preview_url" : "https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/liquid.gif",
+      "section_id" : "control-switch",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "RAMPaperSwitch",
       "description" : "RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on",
-      "source" : "https://github.com/Ramotion/paper-switch",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/paper-switch/master/paper-switch.gif",
-      "section" : "control/switch",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/paper-switch",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/paper-switch/master/paper-switch.gif",
+      "section_id" : "control-switch",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "AIFlatSwitch",
       "description" : "A flat component alternative to UISwitch",
-      "source" : "https://github.com/cocoatoucher/AIFlatSwitch",
-      "preview" : "https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif",
-      "section" : "control/switch",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/cocoatoucher/AIFlatSwitch",
+      "preview_url" : "https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif",
+      "section_id" : "control-switch",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "MJMaterialSwitch",
       "description" : "A Customizable Switch UI for iOS, Inspired from Google's Material Design",
-      "source" : "https://github.com/JaleelNazir/MJMaterialSwitch",
-      "preview" : "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png",
-      "section" : "control/switch",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/JaleelNazir/MJMaterialSwitch",
+      "preview_url" : "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png",
+      "section_id" : "control-switch",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Reel Search",
       "description" : "RAMReel is a controller that allows you to choose options from a list",
-      "source" : "https://github.com/Ramotion/reel-search",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif",
-      "section" : "control/textfield",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/reel-search",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif",
+      "section_id" : "control-text-field",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SkyFloatingLabelTextField",
       "description" : "A beautiful and flexible text field control implementation of",
-      "source" : "https://github.com/Skyscanner/SkyFloatingLabelTextField",
-      "section" : "control/textfield",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Skyscanner/SkyFloatingLabelTextField",
+      "section_id" : "control-text-field",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TextFieldEffects",
       "description" : "Custom `UITextField` effects inspired by Codrops",
-      "source" : "https://github.com/raulriera/TextFieldEffects",
-      "preview" : "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif",
-      "section" : "control/textfield",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/raulriera/TextFieldEffects",
+      "preview_url" : "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif",
+      "section_id" : "control-text-field",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "AutoCompleteTextField",
       "description" : "Auto complete with suggestion textfield",
-      "source" : "https://github.com/nferocious76/AutoCompleteTextField",
-      "preview" : "https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif",
-      "section" : "control/textfield",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/nferocious76/AutoCompleteTextField",
+      "preview_url" : "https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif",
+      "section_id" : "control-text-field",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SearchTextField",
       "description" : "`UITextField` subclass with autocompletion suggestions lis",
-      "source" : "https://github.com/apasccon/SearchTextField",
-      "preview" : "https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif",
-      "section" : "control/textfield",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/apasccon/SearchTextField",
+      "preview_url" : "https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif",
+      "section_id" : "control-text-field",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "AnimatedTextInput",
       "description" : "Animated `UITextField` and `UITextView` replacement",
-      "source" : "https://github.com/jobandtalent/AnimatedTextInput",
-      "preview" : "https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif",
-      "section" : "control/textfield",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/jobandtalent/AnimatedTextInput",
+      "preview_url" : "https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif",
+      "section_id" : "control-text-field",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CocoaTextField",
       "description" : "Highly customizable text field created according to Material.IO guidelines",
-      "source" : "https://github.com/edgar-zigis/CocoaTextField",
-      "preview" : "https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif",
-      "section" : "control/textfield",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/edgar-zigis/CocoaTextField",
+      "preview_url" : "https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif",
+      "section_id" : "control-text-field",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "RSKGrowingTextView",
       "description" : "A light-weight UITextView subclass that automatically grows and shrinks",
-      "source" : "https://github.com/ruslanskorb/RSKGrowingTextView",
-      "preview" : "https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif",
-      "section" : "control/text-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ruslanskorb/RSKGrowingTextView",
+      "preview_url" : "https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif",
+      "section_id" : "control-text-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SelectableTextView",
       "description" : "A text view that supports selection and expansion",
-      "source" : "https://github.com/jhurray/SelectableTextView",
-      "preview" : "https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif",
-      "section" : "control/text-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/jhurray/SelectableTextView",
+      "preview_url" : "https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif",
+      "section_id" : "control-text-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "STTextView",
       "description" : "An easy and clean framework that adds a custom UITextView subclass with a needed placeholder property",
-      "source" : "https://github.com/onl1ner/STTextView",
-      "preview" : "https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif",
-      "section" : "control/text-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "CHIPageControl",
-      "description" : "A set of cool animated page controls to replace boring UIPageControl",
-      "source" : "https://github.com/ChiliLabs/CHIPageControl",
-      "preview" : "https://raw.githubusercontent.com/ChiliLabs/CHIPageControl/master/Images/demo.gif",
-      "section" : "control/pagecontrol",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "PageControls",
-      "description" : "This is a selection of custom page controls to replace UIPageControl",
-      "source" : "https://github.com/popwarsweet/PageControls",
-      "preview" : "https://raw.githubusercontent.com/popwarsweet/PageControls/master/demo.gif",
-      "section" : "control/pagecontrol",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/onl1ner/STTextView",
+      "preview_url" : "https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif",
+      "section_id" : "control-text-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "expanding-collection",
       "description" : "ExpandingCollection is a card peek/pop controller",
-      "source" : "https://github.com/Ramotion/expanding-collection",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/expanding-collection",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "AnimatedCollectionViewLayout",
       "description" : "A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView`",
-      "source" : "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
-      "preview" : "https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
+      "preview_url" : "https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CollectionViewSlantedLayout",
       "description" : "`UICollectionViewLayout` with slanted content",
-      "source" : "https://github.com/yacir/CollectionViewSlantedLayout",
-      "preview" : "https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/yacir/CollectionViewSlantedLayout",
+      "preview_url" : "https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "gliding-collection",
       "description" : "Smooth, flowing, customizable decision for a `UICollectionView` Swift Controller",
-      "source" : "https://github.com/Ramotion/gliding-collection",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/gliding-collection/master/assets/gliding-collection.gif",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/gliding-collection",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/gliding-collection/master/assets/gliding-collection.gif",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "BouncyLayout",
       "description" : "BouncyLayout is a collection view layout that makes your cells bounce",
-      "source" : "https://github.com/roberthein/BouncyLayout",
-      "preview" : "https://raw.githubusercontent.com/roberthein/BouncyLayout/master/art/gifs/02.gif",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/roberthein/BouncyLayout",
+      "preview_url" : "https://raw.githubusercontent.com/roberthein/BouncyLayout/master/art/gifs/02.gif",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "cardslider",
       "description" : " Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions",
-      "source" : "https://github.com/Ramotion/cardslider",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/cardslider",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SFFocusViewLayout",
       "description" : "`UICollectionViewLayout` with focused content",
-      "source" : "https://github.com/fdzsergio/SFFocusViewLayout",
-      "preview" : "https://raw.githubusercontent.com/fdzsergio/SFFocusViewLayout/master/Screenshots/SFFocusViewLayout.gif",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/fdzsergio/SFFocusViewLayout",
+      "preview_url" : "https://raw.githubusercontent.com/fdzsergio/SFFocusViewLayout/master/Screenshots/SFFocusViewLayout.gif",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CarLensCollectionViewLayout",
       "description" : "An easy-to-use Collection View Layout for card-like animation",
-      "source" : "https://github.com/netguru/CarLensCollectionViewLayout",
-      "preview" : "https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/netguru/CarLensCollectionViewLayout",
+      "preview_url" : "https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "IBPCollectionViewCompositionalLayout",
       "description" : "Backport of UICollectionViewCompositionalLayout to earlier iOS 12",
-      "source" : "https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout",
-      "preview" : "https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif",
-      "section" : "collection-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "Hue",
-      "description" : "All-in-one coloring utility",
-      "source" : "https://github.com/zenangst/Hue",
-      "preview" : "https://raw.githubusercontent.com/zenangst/Hue/master/Images/cover.png",
-      "section" : "color",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout",
+      "preview_url" : "https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif",
+      "section_id" : "collection-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "liquid-swipe",
       "description" : "Transition simulates liquid when swipe to the side",
-      "source" : "https://github.com/Cuberto/liquid-swipe",
-      "preview" : "https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Cuberto/liquid-swipe",
+      "preview_url" : "https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "FloatingPanel",
       "description" : "A clean and easy-to-use floating panel UI component",
-      "source" : "https://github.com/SCENEE/FloatingPanel",
-      "preview" : "https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/SCENEE/FloatingPanel",
+      "preview_url" : "https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPLarkController",
       "description" : "Settings screen with buttons and switches",
-      "source" : "https://github.com/ivanvorobei/SPLarkController",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ivanvorobei/SPLarkController",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPPermissions",
       "description" : "Request permissions with dialog. For customise implement DataSource protocol",
-      "source" : "https://github.com/ivanvorobei/SPPermissions",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei",
+      "source_url" : "https://github.com/ivanvorobei/SPPermissions",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      },
       "using_apps" : [
          {
             "name" : "Debts - Debt Tracker",
@@ -1381,659 +1551,572 @@
    {
       "name" : "MessageKit",
       "description" : "A community-driven replacement for JSQMessagesViewController",
-      "source" : "https://github.com/MessageKit/MessageKit",
-      "preview" : "https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/MessageKit/MessageKit",
+      "preview_url" : "https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "MessageViewController",
       "description" : "A SlackTextViewController replacement",
-      "source" : "https://github.com/GitHawkApp/MessageViewController",
-      "preview" : "https://raw.githubusercontent.com/GitHawkApp/MessageViewController/master/animation.gif",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/GitHawkApp/MessageViewController",
+      "preview_url" : "https://raw.githubusercontent.com/GitHawkApp/MessageViewController/master/animation.gif",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "MessengerKit",
       "description" : "A UI framework for building messenger interfaces on iOS",
-      "source" : "https://github.com/steve228uk/MessengerKit",
-      "preview" : "https://raw.githubusercontent.com/steve228uk/MessengerKit/master/readme-resources/screenshots/examples.png",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/steve228uk/MessengerKit",
+      "preview_url" : "https://raw.githubusercontent.com/steve228uk/MessengerKit/master/readme-resources/screenshots/examples.png",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPStorkController",
       "description" : "Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps",
-      "source" : "https://github.com/ivanvorobei/SPStorkController",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ivanvorobei/SPStorkController",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "paper-onboarding",
       "description" : "PaperOnboarding is a material design UI slider",
-      "source" : "https://github.com/Ramotion/paper-onboarding",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif",
-      "section" : "controller",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "Eureka",
-      "description" : "Elegant iOS form builder",
-      "source" : "https://github.com/xmartlabs/Eureka",
-      "preview" : "https://raw.githubusercontent.com/xmartlabs/Eureka/master/Example/Media/EurekaExample1.gif",
-      "section" : "form-and-settings",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "Former",
-      "description" : "Former is a fully customizable Swift2 library for easy creating `UITableView` based form",
-      "source" : "https://github.com/ra1028/Former",
-      "preview" : "https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966",
-      "section" : "form-and-settings",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "GenericPasswordRow",
-      "description" : "A row for Eureka to implement password validations",
-      "source" : "https://github.com/EurekaCommunity/GenericPasswordRow",
-      "preview" : "https://raw.githubusercontent.com/EurekaCommunity/GenericPasswordRow/master/Media/GenericPasswordRow.gif",
-      "section" : "form-and-settings",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "LoginCritter",
-      "description" : "An animated avatar that responds to text field interactions",
-      "source" : "https://github.com/cgoldsby/LoginCritter",
-      "preview" : "https://raw.githubusercontent.com/cgoldsby/LoginCritter/master/assets/demo.gif",
-      "section" : "form-and-settings",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "FormUI",
-      "description" : "Powerfully simple form builder for UIKit",
-      "source" : "https://github.com/james01/FormUI",
-      "preview" : "https://raw.githubusercontent.com/james01/FormUI/main/Docs/Images/Event.gif",
-      "section" : "form-and-settings",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/paper-onboarding",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "LTMorphingLabel",
       "description" : "Graceful morphing effects for `UILabel`",
-      "source" : "https://github.com/lexrus/LTMorphingLabel",
-      "preview" : "https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif",
-      "section" : "label",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/lexrus/LTMorphingLabel",
+      "preview_url" : "https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif",
+      "section_id" : "label",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "GlitchLabel",
       "description" : "Glitching `UILabel`",
-      "source" : "https://github.com/kciter/GlitchLabel",
-      "preview" : "https://raw.githubusercontent.com/kciter/GlitchLabel/master/Images/preview.gif",
-      "section" : "label",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/kciter/GlitchLabel",
+      "preview_url" : "https://raw.githubusercontent.com/kciter/GlitchLabel/master/Images/preview.gif",
+      "section_id" : "label",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CountdownLabel",
       "description" : "Simple countdown `UILabel` with morphing animation, and some useful function",
-      "source" : "https://github.com/suzuki-0000/CountdownLabel",
-      "preview" : "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example01.gif",
-      "section" : "label",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/suzuki-0000/CountdownLabel",
+      "preview_url" : "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example01.gif",
+      "section_id" : "label",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "MarqueeLabel",
       "description" : "A drop-in replacement for `UILabel`, which automatically adds a scrolling marquee effect",
-      "source" : "https://github.com/cbpowell/MarqueeLabel",
-      "preview" : "https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif",
-      "section" : "label",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/cbpowell/MarqueeLabel",
+      "preview_url" : "https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif",
+      "section_id" : "label",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CoreML-in-ARKit",
       "description" : "Simple project to detect objects and display 3D labels above them in AR",
-      "source" : "https://github.com/hanleyweng/CoreML-in-ARKit",
-      "preview" : "https://raw.githubusercontent.com/hanleyweng/CoreML-in-ARKit/master/post-media/giphy.gif",
-      "section" : "label",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/hanleyweng/CoreML-in-ARKit",
+      "preview_url" : "https://raw.githubusercontent.com/hanleyweng/CoreML-in-ARKit/master/post-media/giphy.gif",
+      "section_id" : "label",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "NumberMorphView",
       "description" : "A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing",
-      "source" : "https://github.com/me-abhinav/NumberMorphView",
-      "preview" : "https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif",
-      "section" : "label",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/me-abhinav/NumberMorphView",
+      "preview_url" : "https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif",
+      "section_id" : "label",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "ActiveLabel.swift",
       "description" : "`UILabel` drop-in replacement supporting Hashtags",
-      "source" : "https://github.com/optonaut/ActiveLabel.swift",
-      "section" : "label",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/optonaut/ActiveLabel.swift",
+      "section_id" : "label",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "GuillotineMenu",
       "description" : "Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine",
-      "source" : "https://github.com/Yalantis/GuillotineMenu",
-      "preview" : "https://raw.githubusercontent.com/Yalantis/GuillotineMenu/master/example.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Yalantis/GuillotineMenu",
+      "preview_url" : "https://raw.githubusercontent.com/Yalantis/GuillotineMenu/master/example.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "circle-menu",
       "description" : "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations",
-      "source" : "https://github.com/Ramotion/circle-menu",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/circle-menu/master/circle-menu.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/circle-menu",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/circle-menu/master/circle-menu.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "AirBar",
       "description" : "`UIScrollView` driven expandable menu",
-      "source" : "https://github.com/uptechteam/AirBar",
-      "preview" : "https://raw.githubusercontent.com/uptechteam/AirBar/master/Logo/Demo.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/uptechteam/AirBar",
+      "preview_url" : "https://raw.githubusercontent.com/uptechteam/AirBar/master/Logo/Demo.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SPLarkController",
       "description" : "Settings screen with buttons and switches",
-      "source" : "https://github.com/ivanvorobei/SPLarkController",
-      "preview" : "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/ivanvorobei/SPLarkController",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "PopMenu",
       "description" : "A cool and customizable popup style action sheet",
-      "source" : "https://github.com/CaliCastle/PopMenu",
-      "preview" : "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/CaliCastle/PopMenu",
+      "preview_url" : "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "ContextMenu",
       "description" : "An iOS context menu UI inspired by Things 3",
-      "source" : "https://github.com/GitHawkApp/ContextMenu",
-      "preview" : "https://raw.githubusercontent.com/GitHawkApp/ContextMenu/master/images/animation.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/GitHawkApp/ContextMenu",
+      "preview_url" : "https://raw.githubusercontent.com/GitHawkApp/ContextMenu/master/images/animation.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Menu",
       "description" : "The iOS Menu",
-      "source" : "https://github.com/TwoLivesLeft/Menu",
-      "preview" : "https://camo.githubusercontent.com/2b472d44a26b03ca566a822ff6e0f5636edadcd1/68747470733a2f2f636f6465612e696f2f6d656469612f6d656e752e706e67",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/TwoLivesLeft/Menu",
+      "preview_url" : "https://camo.githubusercontent.com/2b472d44a26b03ca566a822ff6e0f5636edadcd1/68747470733a2f2f636f6465612e696f2f6d656469612f6d656e752e706e67",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Segmentio",
       "description" : "Animated top/bottom segmented control",
-      "source" : "https://github.com/Yalantis/Segmentio",
-      "preview" : "https://raw.githubusercontent.com/Yalantis/Segmentio/master/Assets/animation.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Yalantis/Segmentio",
+      "preview_url" : "https://raw.githubusercontent.com/Yalantis/Segmentio/master/Assets/animation.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Persei",
       "description" : "Animated top menu for `UITableView`, `UICollectionView`, `UIScrollView`",
-      "source" : "https://github.com/Yalantis/Persei",
-      "preview" : "https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Yalantis/Persei",
+      "preview_url" : "https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "BTNavigationDropdownMenu",
       "description" : "The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title",
-      "source" : "https://github.com/PhamBaTho/BTNavigationDropdownMenu",
-      "preview" : "https://raw.githubusercontent.com/PhamBaTho/BTNavigationDropdownMenu/master/Assets/Demo.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/PhamBaTho/BTNavigationDropdownMenu",
+      "preview_url" : "https://raw.githubusercontent.com/PhamBaTho/BTNavigationDropdownMenu/master/Assets/Demo.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "FlowingMenu",
       "description" : "Interactive view transition to display menus with flowing and bouncing effects",
-      "source" : "https://github.com/yannickl/FlowingMenu",
-      "preview" : "https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/yannickl/FlowingMenu",
+      "preview_url" : "https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "fan-menu",
       "description" : "Menu with a circular layout based on Macaw",
-      "source" : "https://github.com/exyte/fan-menu",
-      "preview" : "https://camo.githubusercontent.com/2b8539b723cd7c9135fa5e549c13ad5a1873622f/687474703a2f2f692e696d6775722e636f6d2f6f3674424b57362e676966",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/exyte/fan-menu",
+      "preview_url" : "https://camo.githubusercontent.com/2b8539b723cd7c9135fa5e549c13ad5a1873622f/687474703a2f2f692e696d6775722e636f6d2f6f3674424b57362e676966",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "GooeyTabbar",
       "description" : "A gooey effect tabbar",
-      "source" : "https://github.com/KittenYang/GooeyTabbar",
-      "preview" : "https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/KittenYang/GooeyTabbar",
+      "preview_url" : "https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SideMenu",
       "description" : "Simple side/slide menu control, no code necessary",
-      "source" : "https://github.com/jonkykong/SideMenu",
-      "preview" : "https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideOut.gif",
-      "section" : "menu",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "BusyNavigationBar",
-      "description" : "A UINavigationBar extension to show loading effects",
-      "source" : "https://github.com/gmertk/BusyNavigationBar",
-      "preview" : "https://raw.githubusercontent.com/gmertk/BusyNavigationBar/master/Screenshots/gray_stripe.gif",
-      "section" : "navigation-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "AMScrollingNavbar",
-      "description" : "Scrollable UINavigationBar that follows the scrolling of a `UIScrollView`",
-      "source" : "https://github.com/andreamazz/AMScrollingNavbar",
-      "preview" : "https://raw.githubusercontent.com/andreamazz/AMScrollingNavbar/master/assets/screenshot.gif",
-      "section" : "navigation-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "SPFakeBar",
-      "description" : "Very similar to original Navigation Bar. Full customisable - height, buttons and other",
-      "source" : "https://github.com/ivanvorobei/SPFakeBar",
-      "section" : "navigation-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "DGElasticPullToRefresh",
-      "description" : "Elastic pull to refresh for iOS",
-      "source" : "https://github.com/gontovnik/DGElasticPullToRefresh",
-      "preview" : "https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif",
-      "section" : "pull-to-refresh",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "PullToBounce",
-      "description" : "Animated Pull To Refresh Library for `UIScrollView`",
-      "source" : "https://github.com/entotsu/PullToBounce",
-      "preview" : "https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif",
-      "section" : "pull-to-refresh",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "RainyRefreshControl",
-      "description" : "Simple refresh control for iOS",
-      "source" : "https://github.com/Onix-Systems/RainyRefreshControl",
-      "preview" : "https://raw.githubusercontent.com/Onix-Systems/RainyRefreshControl/develop/gif/umbrella_refresh.gif",
-      "section" : "pull-to-refresh",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "ADChromePullToRefresh",
-      "description" : "Chrome iOS app style pull to refresh with multiple actions",
-      "source" : "https://github.com/Antondomashnev/ADChromePullToRefresh",
-      "preview" : "https://camo.githubusercontent.com/88412633783b20de69ae9d047ec03f3b51169a7b/68747470733a2f2f6170692e6d6f6e6f736e61702e636f6d2f7270632f66696c652f646f776e6c6f61643f69643d72615136435468374b564a31657843756b524f5948356d6a696267774e70",
-      "section" : "pull-to-refresh",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "CRRefresh",
-      "description" : "An easy way to use pull-to-refresh",
-      "source" : "https://github.com/CRAnimation/CRRefresh",
-      "preview" : "https://raw.githubusercontent.com/CRAnimation/CRRefresh/master/CRRefresh2.gif",
-      "section" : "pull-to-refresh",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "PullToMakeSoup",
-      "description" : "Custom animated pull-to-refresh that can be easily added to `UIScrollView`",
-      "source" : "https://github.com/Yalantis/PullToMakeSoup",
-      "preview" : "https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif",
-      "section" : "pull-to-refresh",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "GIFRefreshControl",
-      "description" : "GIFRefreshControl is a pull to refresh that supports GIF images as track animations",
-      "source" : "https://github.com/delannoyk/GIFRefreshControl",
-      "preview" : "https://raw.githubusercontent.com/delannoyk/GIFRefreshControl/master/example2.gif",
-      "section" : "pull-to-refresh",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
-   },
-   {
-      "name" : "ReplaceAnimation",
-      "description" : "Pull-to-refresh animation in `UICollectionView` with a sticky header flow layout",
-      "source" : "https://github.com/fruitcoder/ReplaceAnimation",
-      "preview" : "https://raw.githubusercontent.com/fruitcoder/ReplaceAnimation/master/RefreshSuccess.gif",
-      "section" : "pull-to-refresh",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/jonkykong/SideMenu",
+      "preview_url" : "https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideOut.gif",
+      "section_id" : "menu",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "GooeyTabbar",
       "description" : "A gooey effect tabbar",
-      "source" : "https://github.com/KittenYang/GooeyTabbar",
-      "preview" : "https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/KittenYang/GooeyTabbar",
+      "preview_url" : "https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "animated-tab-bar",
       "description" : "RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items",
-      "source" : "https://github.com/Ramotion/animated-tab-bar",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/animatedTabBar.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/animated-tab-bar",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/animatedTabBar.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CircleBar",
       "description" : "Fun, easy-to-use tab bar navigation controller",
-      "source" : "https://github.com/softhausHQ/CircleBar",
-      "preview" : "https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/softhausHQ/CircleBar",
+      "preview_url" : "https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Segmentio",
       "description" : "Animated top/bottom segmented control",
-      "source" : "https://github.com/Yalantis/Segmentio",
-      "preview" : "https://raw.githubusercontent.com/Yalantis/Segmentio/master/Assets/animation.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Yalantis/Segmentio",
+      "preview_url" : "https://raw.githubusercontent.com/Yalantis/Segmentio/master/Assets/animation.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "adaptive-tab-bar",
       "description" : "AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements",
-      "source" : "https://github.com/Ramotion/adaptive-tab-bar",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/adaptive-tab-bar/master/adaptive_tab_bar.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/adaptive-tab-bar",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/adaptive-tab-bar/master/adaptive_tab_bar.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "ColorMatchTabs",
       "description" : "Interesting way to display tabs",
-      "source" : "https://github.com/Yalantis/ColorMatchTabs",
-      "preview" : "https://raw.githubusercontent.com/Yalantis/ColorMatchTabs/master/Resources/preview.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Yalantis/ColorMatchTabs",
+      "preview_url" : "https://raw.githubusercontent.com/Yalantis/ColorMatchTabs/master/Resources/preview.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "XLPagerTabStrip",
       "description" : "Android PagerTabStrip for iOS",
-      "source" : "https://github.com/xmartlabs/XLPagerTabStrip",
-      "preview" : "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/youtube.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/xmartlabs/XLPagerTabStrip",
+      "preview_url" : "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/youtube.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "Tabman",
       "description" : "A powerful paging view controller with indicator bar for iOS",
-      "source" : "https://github.com/uias/Tabman",
-      "preview" : "https://raw.githubusercontent.com/uias/Tabman/master/Docs/img/tm_header.png",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/uias/Tabman",
+      "preview_url" : "https://raw.githubusercontent.com/uias/Tabman/master/Docs/img/tm_header.png",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "AZTabBarController",
       "description" : "A custom tab bar controller",
-      "source" : "https://github.com/Minitour/AZTabBarController",
-      "preview" : "https://raw.githubusercontent.com/Minitour/AZTabBarController/master/Screenshots/aztabbar.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Minitour/AZTabBarController",
+      "preview_url" : "https://raw.githubusercontent.com/Minitour/AZTabBarController/master/Screenshots/aztabbar.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SwipeableTabBarController",
       "description" : "`UITabBarController` with swipe interaction between its tabs",
-      "source" : "https://github.com/marcosgriselli/SwipeableTabBarController",
-      "preview" : "https://raw.githubusercontent.com/marcosgriselli/SwipeableTabBarController/master/./Resources/GIFs/SwipeableTabBarController_new.gif",
-      "section" : "tab-bar",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/marcosgriselli/SwipeableTabBarController",
+      "preview_url" : "https://raw.githubusercontent.com/marcosgriselli/SwipeableTabBarController/master/./Resources/GIFs/SwipeableTabBarController_new.gif",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "preview-transition",
       "description" : "Simple preview gallery UI controller with animated tranisitions",
-      "source" : "https://github.com/Ramotion/preview-transition",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview-transition.gif",
-      "section" : "table-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/preview-transition",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview-transition.gif",
+      "section_id" : "table-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "folding-cell",
       "description" : "FoldingCell is an expanding content cell inspired by folding paper material",
-      "source" : "https://github.com/Ramotion/folding-cell",
-      "preview" : "https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif",
-      "section" : "table-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/Ramotion/folding-cell",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif",
+      "section_id" : "table-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "MYTableViewIndex",
       "description" : "A pixel perfect replacement for `UITableView` section index",
-      "source" : "https://github.com/mindz-eye/MYTableViewIndex",
-      "preview" : "https://camo.githubusercontent.com/3c789faf45e094fca7cb665567f80112350a3981/68747470733a2f2f7261772e6769746875622e636f6d2f6d696e647a2d6579652f4d595461626c6556696577496e6465782f6d61737465722f53637265656e73686f74732f686967686c69676874696e672e676966",
-      "section" : "table-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/mindz-eye/MYTableViewIndex",
+      "preview_url" : "https://camo.githubusercontent.com/3c789faf45e094fca7cb665567f80112350a3981/68747470733a2f2f7261772e6769746875622e636f6d2f6d696e647a2d6579652f4d595461626c6556696577496e6465782f6d61737465722f53637265656e73686f74732f686967686c69676874696e672e676966",
+      "section_id" : "table-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "SwipeCellKit",
       "description" : "Swipeable `UITableViewCell` based on the stock Mail app",
-      "source" : "https://github.com/SwipeCellKit/SwipeCellKit",
-      "preview" : "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif",
-      "section" : "table-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/SwipeCellKit/SwipeCellKit",
+      "preview_url" : "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif",
+      "section_id" : "table-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "RHPreviewCell",
       "description" : "I envied so much Spotify iOS app this great playlist preview cell. Now you can give your users ability to quick check 'what content is hidden under your `UITableViewCell`'",
-      "source" : "https://github.com/robertherdzik/RHPreviewCell",
-      "preview" : "https://raw.githubusercontent.com/robertherdzik/RHPreviewCell/master/ReadmeAssets/demo.gif",
-      "section" : "table-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/robertherdzik/RHPreviewCell",
+      "preview_url" : "https://raw.githubusercontent.com/robertherdzik/RHPreviewCell/master/ReadmeAssets/demo.gif",
+      "section_id" : "table-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "CascadingTableDelegate",
       "description" : "A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource",
-      "source" : "https://github.com/edopelawi/CascadingTableDelegate",
-      "preview" : "https://raw.githubusercontent.com/edopelawi/CascadingTableDelegate/master/ReadmeImages/sample-page-screenshot.jpg",
-      "section" : "table-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/edopelawi/CascadingTableDelegate",
+      "preview_url" : "https://raw.githubusercontent.com/edopelawi/CascadingTableDelegate/master/ReadmeImages/sample-page-screenshot.jpg",
+      "section_id" : "table-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "TableViewDragger",
       "description" : "A cells of `UITableView` can be rearranged by drag and drop",
-      "source" : "https://github.com/KyoheiG3/TableViewDragger",
-      "preview" : "https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif",
-      "section" : "table-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/KyoheiG3/TableViewDragger",
+      "preview_url" : "https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif",
+      "section_id" : "table-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    },
    {
       "name" : "HGPlaceholders",
       "description" : "Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project",
-      "source" : "https://github.com/HamzaGhazouani/HGPlaceholders",
-      "preview" : "https://raw.githubusercontent.com/HamzaGhazouani/HGPlaceholders/master/Screenshots/default.gif",
-      "section" : "table-view",
-      "category" : "ui",
-      "adding date" : "18.06.2021",
-      "who_added" : "Ivan Vorobei",
-      "who_added_url" : "https://github.com/ivanvorobei"
+      "source_url" : "https://github.com/HamzaGhazouani/HGPlaceholders",
+      "preview_url" : "https://raw.githubusercontent.com/HamzaGhazouani/HGPlaceholders/master/Screenshots/default.gif",
+      "section_id" : "table-view",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+          "name" : "Ivan Vorobei",
+          "url" : "https://github.com/ivanvorobei"
+      }
    }
 ]
