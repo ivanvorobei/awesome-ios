@@ -1,137 +1,155 @@
 [
     {
         "id" : "ui",
-        "title" : "UI",
+        "name" : "UI",
         "sections" : [
             {
                 "id" : "activity-indicator",
-                "title" : "Activity Indicator",
-                "description" : "List of activity indicators."
+                "path" : "activity-indicator",
+                "name" : "Activity Indicator",
+                "related_uikit_classes" : ["UIActivityIndicatorView"],
+                "description" : "A view that shows that a task is in progress."
             },
             {
                 "id" : "action-sheet",
-                "title" : "Action Sheet",
-                "description" : "List of action sheet."
+                "path" : "action-sheet",
+                "name" : "Action Sheet",
+                "related_uikit_classes" : ["UIAlertController"],
+                "description" : "An action sheet is a specific style of alert that presents two or more choices related to the current context."
             },
             {
                 "id" : "alert",
-                "title" : "Alert",
-                "description" : "List of alerts."
+                "path" : "alert",
+                "name" : "Alert",
+                "related_uikit_classes" : ["UIAlertController"],
+                "description" : "Alerts convey important information related to the state of your app or the device, and often request feedback."
             },
             {
                 "id" : "animation",
-                "title" : "Animation",
+                "path" : "animation",
+                "name" : "Animation",
+                "related_uikit_classes" : ["UIView"],
                 "description" : "List of animations."
             },
             {
-                "id" : "animation/transition",
-                "title" : "Transition",
-                "description" : "List of transitions."
-            },
-            {
-                "id" : "badge",
-                "title" : "Badge",
-                "description" : "List of badges."
+                "id" : "animation-transition",
+                "path" : "animation/transition",
+                "name" : "Transition",
+                "related_uikit_classes" : ["UIView", "UIViewController"],
+                "description" : "List of animation transitions."
             },
             {
                 "id" : "calendar",
-                "title" : "Calendar",
-                "description" : "List of calendars."
+                "path" : "calendar",
+                "name" : "Calendar",
+                "related_uikit_classes" : ["UIViewController"],
+                "description" : "List of components and ready-use calendars."
             },
             {
                 "id" : "cards",
-                "title" : "Cards",
+                "path" : "cards",
+                "name" : "Cards",
+                "related_uikit_classes" : [],
                 "description" : "List of cards."
             },
             {
                 "id" : "control",
-                "title" : "Control",
-                "description" : "List of controls."
+                "path" : "control",
+                "name" : "Control",
+                "related_uikit_classes" : ["UIControl"],
+                "description" : "Visual elements that convey a specific action or intention in response to user interactions."
             },
             {
-                "id" : "control/button",
-                "title" : "Button",
-                "description" : "List of buttons."
+                "id" : "control-button",
+                "path" : "control/button",
+                "name" : "Button",
+                "related_uikit_classes" : ["UIButton", "UIControl"],
+                "description" : "A control that executes your custom code in response to user interactions."
             },
             {
-                "id" : "control/segmented-control",
-                "title" : "Segmented Control",
-                "description" : "List of segments."
+                "id" : "control-segmented-control",
+                "path" : "control/segmented-control",
+                "name" : "Segment Control",
+                "related_uikit_classes" : ["UISegmentedControl", "UIControl"],
+                "description" : "A control that consists of multiple segments, each segment functioning as a discrete button."
             },
             {
-                "id" : "control/slider",
-                "title" : "Slider",
-                "description" : "List of slider."
+                "id" : "control-slider",
+                "path" : "control/slider",
+                "name" : "Slider",
+                "related_uikit_classes" : ["UISlider", "UIControl"],
+                "description" : "A control for selecting a single value from a continuous range of values."
             },
             {
-                "id" : "control/switch",
-                "title" : "Switch",
-                "description" : "List of switches."
+                "id" : "control-switch",
+                "path" : "control/switch",
+                "name" : "Switch",
+                "related_uikit_classes" : ["UISwitch", "UIControl"],
+                "description" : "A control that offers a binary choice, such as on/off."
             },
             {
-                "id" : "control/text-field",
-                "title" : "TextField",
-                "description" : "List of text fields."
+                "id" : "textview",
+                "path" : "control/text-field",
+                "name" : "Text Field",
+                "related_uikit_classes" : ["UITextField", "UIControl"],
+                "description" : "An object that displays an editable text area in your interface."
             },
             {
-                "id" : "control/textview",
-                "title" : "TextView",
-                "description" : "List of text views."
-            },
-            {
-                "id" : "control/page-control",
-                "title" : "PageControl",
-                "description" : "List of page controls."
+                "id" : "control-text-view",
+                "path" : "control/text-view",
+                "name" : "Text View",
+                "related_uikit_classes" : ["UITextView", "UIControl"],
+                "description" : "A scrollable, multiline text region."
             },
             {
                 "id" : "collection-view",
-                "title" : "Collection View",
-                "description" : "List of collection views."
+                "path" : "collection-view",
+                "name" : "Collection View",
+                "related_uikit_classes" : ["UICollectionView", "UIScrollView"],
+                "description" : "An object that manages an ordered collection of data items and presents them using customizable layouts."
             },
             {
-                "id" : "color",
-                "title" : "Color",
-                "description" : "List of colors."
+                "id" : "collection-view-layout",
+                "path" : "collection-view/layout",
+                "name" : "Layout",
+                "related_uikit_classes" : ["UICollectionViewFlowLayout", "UICollectionView"],
+                "description" : "An object that manages an ordered collection of data items and presents them using customizable layouts."
             },
             {
                 "id" : "controller",
-                "title" : "Controller",
-                "description" : "List of controllers."
-            },
-            {
-                "id" : "form-and-settings",
-                "title" : "Form & Settings",
-                "description" : "List of form and settings."
+                "path" : "controller",
+                "name" : "Controller",
+                "related_uikit_classes" : ["UIViewController"],
+                "description" : "An object that manages a view hierarchy for your UIKit app."
             },
             {
                 "id" : "label",
-                "title" : "Label",
-                "description" : "List of labels."
+                "path" : "label",
+                "label" : "label",
+                "name" : "Label",
+                "related_uikit_classes" : ["UILabel"],
+                "description" : "A view that displays one or more lines of informational text."
             },
             {
                 "id" : "menu",
-                "title" : "Menu",
+                "path" : "menu",
+                "name" : "Menu",
+                "related_uikit_classes" : [],
                 "description" : "List of menus."
             },
             {
-                "id" : "navigation-bar",
-                "title" : "Navigation Bar",
-                "description" : "List of navigation bars."
-            },
-            {
-                "id" : "pull-to-refresh",
-                "title" : "Pull to Refresh",
-                "description" : "List of pull to refresh."
-            },
-            {
                 "id" : "tab-bar",
-                "title" : "Tab Bar",
-                "description" : "List of tab bars."
+                "path" : "tab-bar",
+                "name" : "Tab Bar",
+                "related_uikit_classes" : ["UITabBar"],
+                "description" : "A control that displays one or more buttons in a tab bar for selecting between different subtasks, views, or modes in an app."
             },
             {
                 "id" : "table-view",
-                "title" : "Table View",
-                "description" : "List of table views."
+                "path" : "table-view",
+                "name" : "Table View",
+                "related_uikit_classes" : ["UITableView"],
+                "description" : "A view that presents data using rows in a single column."
             }
         ]
     }
