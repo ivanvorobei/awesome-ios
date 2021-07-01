@@ -88,7 +88,7 @@
                 "description" : "A control that offers a binary choice, such as on/off."
             },
             {
-                "id" : "textview",
+                "id" : "control-text-field",
                 "path" : "control/text-field",
                 "name" : "Text Field",
                 "related_uikit_classes" : ["UITextField", "UIControl"],
