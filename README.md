@@ -1,6 +1,7 @@
 # Awesome iOS
 
-A collaborative list of awesome **UI & Animation** in Swift. If you know a good library or library author, feel free to add it to this project. All added libraries appear on the site [awesome-ios.com](https://awesome-ios.com). To add your library, see [the instructions](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/CONTRIBUTING.md)
+A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
+Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•` or open section inside `/Sections/Alert.md` for see all libraries in this section with preview.
 
 If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
@@ -12,18 +13,18 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - [Action Sheet](#action-sheet)
 - [Alert](#alert)
 - [Animation](#animation)
-      - [Transition](#transition)
+	- [Transition](#transition)
 - [Calendar](#calendar)
 - [Cards](#cards)
 - [Control](#control)
-      - [Button](#button)
-      - [Segment Control](#segmented-control)
-      - [Slider](#slider)
-      - [Switch](#switch)
-      - [Text Field](#text-field)
-      - [Text View](#text-view)
+	- [Button](#button)
+	- [Segment Control](#segmented-control)
+	- [Slider](#slider)
+	- [Switch](#switch)
+	- [Text Field](#text-field)
+	- [Text View](#text-view)
 - [Collection View](#collection-view)
-      - [Layout](#layout)
+	- [Layout](#layout)
 - [Controller](#controller)
 - [Label](#label)
 - [Menu](#menu)
