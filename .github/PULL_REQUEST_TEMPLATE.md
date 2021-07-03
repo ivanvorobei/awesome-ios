@@ -6,7 +6,7 @@
 - [ ] Has clean `Readme`
 - [ ] Added Preview as dot if available
 - [ ] Preview link added via `raw.githubusercontent.com`
-- [ ] Added to `Sources/content.json` file
+- [ ] Added to `Sources/frameworks.json` file
 - [ ] Added to bottom
 - [ ] Agree to add special page for this library to [awesome-ios.com](https://awesome-ios.com)
 
