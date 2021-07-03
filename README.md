@@ -1,7 +1,5 @@
 # Awesome iOS
 
-Tap dot • for open preview. Each section has dot also for open all frameworks with previews.
-If you know a good framework or you author of framework, feel free to add it to this project.
 All added libraries appear on the site [awesome-ios.com](https://awesome-ios.com).
 To add library, see [instructions](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/CONTRIBUTING.md).
 
