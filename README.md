@@ -1,6 +1,8 @@
 # Awesome iOS
 
-A collaborative list of awesome **UI & Animation** in Swift. If you know a good library or library author, feel free to add it to this project. All added libraries appear on the site [awesome-ios.com](https://awesome-ios.com). To add your library, see [the instructions](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/CONTRIBUTING.md)
+A collaborative list of awesome **UI & Animation** in Swift. 
+
+If you know a good library or library author, feel free to add it to this project. All added libraries appear on the site [awesome-ios.com](https://awesome-ios.com). To add library, see [instructions](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/CONTRIBUTING.md).
 
 If you like the project, don't forget to `put star ★` and follow me on GitHub:
 

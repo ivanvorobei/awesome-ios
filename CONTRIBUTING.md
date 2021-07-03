@@ -1,7 +1,7 @@
 # Contributing
 
-For add you library, make changes in `Sources/content.json` and create pull request.
+For add library, make changes in [`Sources/content.json`](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sources/content.json) and create pull request. You shoudn't change any other file.
 
-You shoud complete all fields and choose category. Category list and its `id` you can fine in `Sources/database.json`. 
+Complete all fields and choose category and section. Category and sections ids you can find in [`Sources/database.json`](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sources/database.json). If you can't find relative section or category, please, contact with me or make pull request with new.
 
-Don't change other files, readme and [website](https://awesome-ios.com)  updated automatically in time.
+Don't change readme file. Website [awesome-ios.com](https://awesome-ios.com) update automatically in time.
