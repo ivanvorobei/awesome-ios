@@ -11,6 +11,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 ## Navigate
 
 - [Activity Indicator](#activity-indicator)
+	- [Skeleton](#skeleton)
 - [Action Sheet](#action-sheet)
 - [Alert](#alert)
 - [Animation](#animation)
@@ -29,6 +30,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - [Controller](#controller)
 - [Label](#label)
 - [Menu](#menu)
+- [Progress Indicator](#progress-indicator)
 - [Tab Bar](#tab-bar)
 - [Table View](#table-view)
 
@@ -37,17 +39,19 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 ### Activity Indicator [•](https://awesome-ios.com/activity-indicator)
 A view that shows that a task is in progress.
 
-* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
-* [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert using blur effects, translucency, flat and bold design [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
-* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar [•](https://raw.githubusercontent.com/fxm90/GradientLoadingBar/master/Assets/screen.gif)
-* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting [•](https://raw.githubusercontent.com/Juanpe/SkeletonView/main/Assets/solid.png)
+* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
+* [LoaderUI](https://github.com/ninjaprox/LoaderUI) - Collection of nice loading animations, implemented in SwiftUI. [•](https://github.com/ninjaprox/LoaderUI/blob/master/Demo.gif)
+* [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert written in Swift (originally developed for my app DoodleDoodle) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest. [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
+* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - A customizable animated gradient loading bar. [•](https://raw.githubusercontent.com/fxm90/GradientLoadingBar/master/Assets/screen.gif)
+* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation. [•](https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-circle.gif)
+* [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view. [•](https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966)
+* [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - Simple and customizable animated progress bar written in Swift. [•](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
+
+### Skeleton [•](https://awesome-ios.com/activity-indicator/skeleton)
+While the processes are working, usually developers place a loading view to show users that something is going on and prepare them for which contents are waiting.
+
+* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents they are awaiting. [•](https://raw.githubusercontent.com/Juanpe/SkeletonView/main/Assets/solid.png)
 * [LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator [•](https://raw.githubusercontent.com/jogendra/LoadingShimmer/master/Screenshots/demo.gif)
-* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation [•](https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-circle.gif)
-* [STLoadingGroup](https://github.com/saitjr/STLoadingGroup) - loading views [•](https://raw.githubusercontent.com/saitjr/STLoadingGroup/master/resources/loading.gif)
-* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - A circular progress view with gradients [•](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif)
-* [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view [•](https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966)
-* [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom `CGPaths` [•](https://raw.githubusercontent.com/polqf/FillableLoaders/master/Images/waves.gif)
-* [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and customizable animated progress bar [•](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
 
 ### Action Sheet [•](https://awesome-ios.com/action-sheet)
 An action sheet is a specific style of alert that presents two or more choices related to the current context.
@@ -241,6 +245,12 @@ List of menus.
 * [fan-menu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw [•](https://camo.githubusercontent.com/2b8539b723cd7c9135fa5e549c13ad5a1873622f/687474703a2f2f692e696d6775722e636f6d2f6f3674424b57362e676966)
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif)
 * [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side/slide menu control, no code necessary [•](https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideOut.gif)
+
+### Progress Indicator [•](https://awesome-ios.com/progress-indicator)
+A view that depicts the progress of a task over time.
+
+* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - A circular progress view with gradients written in Swift. [•](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif)
+* [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom `CGPaths` written in Swift. [•](https://raw.githubusercontent.com/polqf/FillableLoaders/master/Images/waves.gif)
 
 ### Tab Bar [•](https://awesome-ios.com/tab-bar)
 A control that displays one or more buttons in a tab bar for selecting between different subtasks, views, or modes in an app.
