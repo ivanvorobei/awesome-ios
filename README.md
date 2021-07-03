@@ -1,6 +1,6 @@
 # Awesome iOS
 
-A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more. 
+A collaborative list of awesome **UI & Animation** in Swift. If you know a good library or library author, feel free to add it to this project. All added libraries appear on the site [awesome-ios.com](https://awesome-ios.com). To add your library, see [the instructions](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/CONTRIBUTING.md)
 
 If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
@@ -12,32 +12,27 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - [Action Sheet](#action-sheet)
 - [Alert](#alert)
 - [Animation](#animation)
-	- [Transition](#transition)
-- [Badge](#badge)
+      - [Transition](#transition)
 - [Calendar](#calendar)
 - [Cards](#cards)
 - [Control](#control)
-	- [Button](#button)
-	- [Segment Control](#segmented-control)
-	- [Slider](#slider)
-	- [Switch](#switch)
-	- [Text Field](#text-field)
-	- [Text View](#text-view)
-	- [Page Control](#page-control)
+      - [Button](#button)
+      - [Segment Control](#segmented-control)
+      - [Slider](#slider)
+      - [Switch](#switch)
+      - [Text Field](#text-field)
+      - [Text View](#text-view)
 - [Collection View](#collection-view)
-- [Color](#color)
+      - [Layout](#layout)
 - [Controller](#controller)
-- [Form and Settings](#form-and-settings)
 - [Label](#label)
 - [Menu](#menu)
-- [Navigation Bar](#navigation-bar)
-- [Pull to Refresh](#pull-to-refresh)
 - [Tab Bar](#tab-bar)
 - [Table View](#table-view)
 
 ## Content
 
-### [Activity Indicator](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Activity%20Indicator.md)
+### Activity Indicator
 
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert using blur effects, translucency, flat and bold design [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
@@ -51,7 +46,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom `CGPaths` [•](https://raw.githubusercontent.com/polqf/FillableLoaders/master/Images/waves.gif)
 * [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and customizable animated progress bar [•](https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif)
 
-### [Action Sheet](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Action%20Sheet.md)
+### Action Sheet
 
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
 * [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission [•](https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg)
@@ -62,7 +57,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) - Animated alert library like Swarm app [•](https://raw.githubusercontent.com/entotsu/TKSwarmAlert/master/ScreenShots/minidemo.gif)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController) - Simple Alert View written in Swift, which can be used as a UIAlertController [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif)
 
-### [Alert](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Alert.md)
+### Alert
 
 * [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif)
 * [SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts [•](https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg)
@@ -76,7 +71,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS [•](https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif)
 * [QBToast](https://github.com/sjc-bui/QBToast) - Simple way to display Toast message in iOS app with a single line of code [•](https://raw.githubusercontent.com/sjc-bui/QBToast/master/Example/QBToast/screen-record.gif)
 
-### [Transition](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Transition.md)
+### Transition
 
 * [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif)
@@ -89,8 +84,8 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease [•](https://raw.githubusercontent.com/roberthein/Ease/master/Art/header.gif)
 * [MotionAnimation](https://github.com/lkzhao/MotionAnimation) - Lightweight animation library for `UIKit` [•](https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif)
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Chainable animations [•](https://raw.githubusercontent.com/draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif)
-* [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti
-* [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk
+* [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti 
+* [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk 
 * [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
 * [Hero](https://github.com/HeroTransitions/Hero) - Building iOS view controller transitions [•](https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667)
 * [Motion](https://github.com/CosmicMind/Motion) - Seamless animations and transitions [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
@@ -104,13 +99,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
 * [DropdownTransition](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant dropdown transition for iOS [•](https://raw.githubusercontent.com/nugmanoff/DropdownTransition/master/Resources/demo-default.gif)
 
-### [Badge](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Badge.md)
-
-* [BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any `UIView` a full fledged animated notification center [•](https://camo.githubusercontent.com/88938e803d4a75413002c77f6b02178817a6ac33/68747470733a2f2f692e696d6775722e636f6d2f32333874696b662e676966)
-* [EasyNotificationBadge](https://github.com/Minitour/EasyNotificationBadge) - `UIView` extension that adds a notification badge [•](https://raw.githubusercontent.com/Minitour/EasyNotificationBadge/master/Screenshots/heading.gif)
-* [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons [•](https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Header.png)
-
-### [Calendar](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Calendar.md)
+### Calendar
 
 * [CalendarKit](https://github.com/richardtop/CalendarKit) - Fully customizable calendar day view [•](https://user-images.githubusercontent.com/8013017/30786599-1a05d3b0-a181-11e7-81fa-db6c7044bfa1.jpg)
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Swift Apple Calendar Library [•](https://cloud.githubusercontent.com/assets/2439146/20638185/d708d542-b353-11e6-8119-fa36c11b66cb.gif)
@@ -118,7 +107,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time [•](https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png)
 * [CVCalendar](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar [•](https://raw.githubusercontent.com/CVCalendar/CVCalendar/master/Screenshots/Demo_grey.gif)
 
-### [Cards](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Cards.md)
+### Cards
 
 * [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views [•](https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png)
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards [•](https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_v2_example_animation.gif)
@@ -131,7 +120,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with `UICollectionView` [•](https://raw.githubusercontent.com/JoniVR/VerticalCardSwiper/master/example.gif)
 * [CardNavigation](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards [•](https://raw.githubusercontent.com/james01/CardNavigation/main/Docs/Images/Screen.gif)
 
-### [Button](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Button.md)
+### Button
 
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif)
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS `UIButton` [•](https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966)
@@ -141,9 +130,9 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 * [Loady](https://github.com/farshadjahanmanesh/loady) - A small library to show loading and indicator in `UIButton`, with fully customizable styles [•](https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif)
 * [CocoaButton](https://github.com/edgar-zigis/CocoaButton) - Interactive UIButton with loading capability [•](https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif)
-* [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton) - Simple way to create beautiful button with fully customisable
+* [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton) - Simple way to create beautiful button with fully customisable 
 
-### [Segment Control](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Segment%20Control.md)
+### Segment Control
 
 * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator [•](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation [•](https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif)
@@ -151,7 +140,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations [•](https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif)
 * [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) - A powerful and easy to use segmented view [•](https://raw.githubusercontent.com/pujiaxin33/JXExampleImages/master/JXSegmentedView/Indicator/LineLengthen.gif)
 
-### [Slider](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Slider.md)
+### Slider
 
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control [•](https://raw.githubusercontent.com/HamzaGhazouani/HGCircularSlider/master/Screenshots/Bedtime.gif)
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter [•](https://camo.githubusercontent.com/36324d7e99482ec072b76b81923a6aae46fc26c6/68747470733a2f2f6a2e676966732e636f6d2f35384e444e4b2e676966)
@@ -161,35 +150,30 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle [•](https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif)
 * [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - Highly customizable GaugeSlider primarily designed for a Smart Home app [•](https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif)
 
-### [Switch](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Switch.md)
+### Switch
 
 * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection [•](https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/liquid.gif)
 * [RAMPaperSwitch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on [•](https://raw.githubusercontent.com/Ramotion/paper-switch/master/paper-switch.gif)
 * [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch [•](https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif)
 * [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design [•](https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png)
 
-### [Control](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Control.md)
+### Text Field
 
 * [Reel Search](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list [•](https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif)
-* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of
+* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of 
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom `UITextField` effects inspired by Codrops [•](https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif)
 * [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield [•](https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif)
 * [SearchTextField](https://github.com/apasccon/SearchTextField) - `UITextField` subclass with autocompletion suggestions lis [•](https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif)
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated `UITextField` and `UITextView` replacement [•](https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif)
 * [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) - Highly customizable text field created according to Material.IO guidelines [•](https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif)
 
-### [Control](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Control.md)
+### Text View
 
 * [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks [•](https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif)
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion [•](https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif)
 * [STTextView](https://github.com/onl1ner/STTextView) - An easy and clean framework that adds a custom UITextView subclass with a needed placeholder property [•](https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif)
 
-### [Control](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Control.md)
-
-* [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl [•](https://raw.githubusercontent.com/ChiliLabs/CHIPageControl/master/Images/demo.gif)
-* [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl [•](https://raw.githubusercontent.com/popwarsweet/PageControls/master/demo.gif)
-
-### [Collection View](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Collection%20View.md)
+### Collection View
 
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif)
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
@@ -201,11 +185,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation [•](https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif)
 * [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) - Backport of UICollectionViewCompositionalLayout to earlier iOS 12 [•](https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif)
 
-### [Color](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Color.md)
-
-* [Hue](https://github.com/zenangst/Hue) - All-in-one coloring utility [•](https://raw.githubusercontent.com/zenangst/Hue/master/Images/cover.png)
-
-### [Controller](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Controller.md)
+### Controller
 
 * [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component [•](https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif)
@@ -217,15 +197,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider [•](https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif)
 
-### [Form and Settings](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Form%20and%20Settings.md)
-
-* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder [•](https://raw.githubusercontent.com/xmartlabs/Eureka/master/Example/Media/EurekaExample1.gif)
-* [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating `UITableView` based form [•](https://camo.githubusercontent.com/6cfe1727fe6fd9e748c0f4bdcd4fc0f87a118cdb/687474703a2f2f692e696d6775722e636f6d2f673979655474562e676966)
-* [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow) - A row for Eureka to implement password validations [•](https://raw.githubusercontent.com/EurekaCommunity/GenericPasswordRow/master/Media/GenericPasswordRow.gif)
-* [LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions [•](https://raw.githubusercontent.com/cgoldsby/LoginCritter/master/assets/demo.gif)
-* [FormUI](https://github.com/james01/FormUI) - Powerfully simple form builder for UIKit [•](https://raw.githubusercontent.com/james01/FormUI/main/Docs/Images/Event.gif)
-
-### [Label](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Label.md)
+### Label
 
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for `UILabel` [•](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching `UILabel` [•](https://raw.githubusercontent.com/kciter/GlitchLabel/master/Images/preview.gif)
@@ -233,9 +205,9 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for `UILabel`, which automatically adds a scrolling marquee effect [•](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif)
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR [•](https://raw.githubusercontent.com/hanleyweng/CoreML-in-ARKit/master/post-media/giphy.gif)
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing [•](https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif)
-* [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - `UILabel` drop-in replacement supporting Hashtags
+* [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - `UILabel` drop-in replacement supporting Hashtags 
 
-### [Menu](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Menu.md)
+### Menu
 
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine [•](https://raw.githubusercontent.com/Yalantis/GuillotineMenu/master/example.gif)
 * [circle-menu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations [•](https://raw.githubusercontent.com/Ramotion/circle-menu/master/circle-menu.gif)
@@ -252,24 +224,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif)
 * [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side/slide menu control, no code necessary [•](https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideOut.gif)
 
-### [Navigation Bar](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Navigation%20Bar.md)
-
-* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - A UINavigationBar extension to show loading effects [•](https://raw.githubusercontent.com/gmertk/BusyNavigationBar/master/Screenshots/gray_stripe.gif)
-* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a `UIScrollView` [•](https://raw.githubusercontent.com/andreamazz/AMScrollingNavbar/master/assets/screenshot.gif)
-* [SPFakeBar](https://github.com/ivanvorobei/SPFakeBar) - Very similar to original Navigation Bar. Full customisable - height, buttons and other
-
-### [Pull to Refresh](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Pull%20to%20Refresh.md)
-
-* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS [•](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
-* [PullToBounce](https://github.com/entotsu/PullToBounce) - Animated Pull To Refresh Library for `UIScrollView` [•](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)
-* [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS [•](https://raw.githubusercontent.com/Onix-Systems/RainyRefreshControl/develop/gif/umbrella_refresh.gif)
-* [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh) - Chrome iOS app style pull to refresh with multiple actions [•](https://camo.githubusercontent.com/88412633783b20de69ae9d047ec03f3b51169a7b/68747470733a2f2f6170692e6d6f6e6f736e61702e636f6d2f7270632f66696c652f646f776e6c6f61643f69643d72615136435468374b564a31657843756b524f5948356d6a696267774e70)
-* [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh [•](https://raw.githubusercontent.com/CRAnimation/CRRefresh/master/CRRefresh2.gif)
-* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - Custom animated pull-to-refresh that can be easily added to `UIScrollView` [•](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
-* [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) - GIFRefreshControl is a pull to refresh that supports GIF images as track animations [•](https://raw.githubusercontent.com/delannoyk/GIFRefreshControl/master/example2.gif)
-* [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in `UICollectionView` with a sticky header flow layout [•](https://raw.githubusercontent.com/fruitcoder/ReplaceAnimation/master/RefreshSuccess.gif)
-
-### [Tab Bar](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Tab%20Bar.md)
+### Tab Bar
 
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar [•](https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif)
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items [•](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/animatedTabBar.gif)
@@ -282,7 +237,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - A custom tab bar controller [•](https://raw.githubusercontent.com/Minitour/AZTabBarController/master/Screenshots/aztabbar.gif)
 * [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - `UITabBarController` with swipe interaction between its tabs [•](https://raw.githubusercontent.com/marcosgriselli/SwipeableTabBarController/master/./Resources/GIFs/SwipeableTabBarController_new.gif)
 
-### [Table View](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Sections/Table%20View.md)
+### Table View
 
 * [preview-transition](https://github.com/Ramotion/preview-transition) - Simple preview gallery UI controller with animated tranisitions [•](https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview-transition.gif)
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif)
@@ -292,3 +247,31 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource [•](https://raw.githubusercontent.com/edopelawi/CascadingTableDelegate/master/ReadmeImages/sample-page-screenshot.jpg)
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of `UITableView` can be rearranged by drag and drop [•](https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project [•](https://raw.githubusercontent.com/HamzaGhazouani/HGPlaceholders/master/Screenshots/default.gif)
+
+
+## Other Projects
+
+#### [SPAlert](https://github.com/ivanvorobei/SPAlert)
+You can find this alerts in AppStore after feedback or after added song to library in Apple Music. Contains popular Done, Heart presets and many other. Done preset present with draw path animation like original. Also available simple present message without icon. Usage in one line code.
+
+#### [SPPerspective](https://github.com/ivanvorobei/SPPerspective)
+Animation of widgets from iOS 14. 3D transform with dynamic shadow. Look [video preview](https://ivanvorobei.by/github/spperspective/video-preview). Available deep customisation 3D and shadow. Also you can use static transform without animation.
+
+#### [SPPermissions](https://github.com/ivanvorobei/SPPermissions)
+Using for request and check state of permissions. Available native UI for request multiple permissions at the same time. Simple integration and usage like 2 lines code.
+
+#### [SPDiffable](https://github.com/ivanvorobei/SPDiffable)
+Simplifies working with animated changes in table and collections. Apple's diffable API required models for each object type. If you want use it in many place, you pass time to implement it and get over duplicates codes. This project help do it elegant with shared models and special cell providers. Support side bar iOS14 and already has native cell providers and views.
+
+#### [SparrowKit](https://github.com/ivanvorobei/SparrowKit)
+Collection of native Swift extensions to boost your development. Support tvOS and watchOS.
+
+#### [SPIndicator](https://github.com/ivanvorobei/SPIndicator)
+Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts and has ready-use animatable icons like `done` and `error`.
+
+## Russian Community
+
+В телеграм-канале [Код Воробья](https://sparrowcode.by/telegram) пишу о iOS разработке. Помощь можно найти в [нашем чате](https://sparrowcode.by/telegram/chat).
+Видео-туториалы выклыдываю на [YouTube](https://sparrowcode.by/youtube):
+
+[![Tutorials on YouTube](https://cdn.ivanvorobei.by/github/readme/youtube-preview.jpg)](https://sparrowcode.by/youtube)
