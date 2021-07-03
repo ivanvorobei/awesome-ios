@@ -11,6 +11,13 @@
                 "description" : "A view that shows that a task is in progress."
             },
             {
+                "id" : "activity-indicator-skeleton",
+                "path" : "activity-indicator/skeleton",
+                "name" : "Skeleton",
+                "related_uikit_classes" : [],
+                "description" : "While the processes are working, usually developers place a loading view to show users that something is going on and prepare them for which contents are waiting."
+            },
+            {
                 "id" : "action-sheet",
                 "path" : "action-sheet",
                 "name" : "Action Sheet",
@@ -136,6 +143,13 @@
                 "name" : "Menu",
                 "related_uikit_classes" : [],
                 "description" : "List of menus."
+            },
+            {
+                "id" : "progress-indicator",
+                "path" : "progress-indicator",
+                "name" : "Progress Indicator",
+                "related_uikit_classes" : ["UIProgressView"],
+                "description" : "A view that depicts the progress of a task over time."
             },
             {
                 "id" : "tab-bar",
