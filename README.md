@@ -56,14 +56,14 @@ While the processes are working, usually developers place a loading view to show
 ### Action Sheet
 An action sheet is a specific style of alert that presents two or more choices related to the current context. [Open Previews](https://awesome-ios.com/action-sheet)
 
-* [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
-* [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission [•](https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg)
-* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces [•](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
-* [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of native UIAlertController with `UITextField`, `UIDatePicker`, `UIPickerView`, `UITableView` and `UICollectionView` [•](https://raw.githubusercontent.com/dillidon/alerts-and-pickers/new/Assets/gifs/actionSheet-.gif)
-* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -  A library that helps you display and customise alerts and action sheets on iPad and iPhone [•](https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif)
-* [Hokusai](https://github.com/ytakzk/Hokusai) - A Swift library to provide a bouncy action sheet [•](https://raw.githubusercontent.com/wiki/ytakzk/Hokusai/images/demo.gif)
-* [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) - Animated alert library like Swarm app [•](https://raw.githubusercontent.com/entotsu/TKSwarmAlert/master/ScreenShots/minidemo.gif)
-* [DOAlertController](https://github.com/okmr-d/DOAlertController) - Simple Alert View written in Swift, which can be used as a UIAlertController [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif)
+* [PopMenu](https://github.com/CaliCastle/PopMenu) - A fully customizable popup style menu for iOS. [•](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
+* [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission. [•](https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg)
+* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - BulletinBoard is an iOS library that generates and manages contextual cards displayed at the bottom of the screen. It is especially well suited for quick user interactions such as onboarding screens or configuration. [•](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
+* [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of `UIAlertController` and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date. [•](https://raw.githubusercontent.com/dillidon/alerts-and-pickers/new/Assets/gifs/actionSheet-.gif)
+* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets. [•](https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif)
+* [Hokusai](https://github.com/ytakzk/Hokusai) - A Swift library to provide a bouncy action sheet. [•](https://raw.githubusercontent.com/wiki/ytakzk/Hokusai/images/demo.gif)
+* [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) - Animated alert library like Swarm app. [•](https://raw.githubusercontent.com/entotsu/TKSwarmAlert/master/ScreenShots/minidemo.gif)
+* [DOAlertController](https://github.com/okmr-d/DOAlertController) - Simple Alert View written in Swift, which can be used as a `UIAlertController`. [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif)
 
 ### Alert
 Alerts convey important information related to the state of your app or the device, and often request feedback. [Open Previews](https://awesome-ios.com/alert)
@@ -79,6 +79,8 @@ Alerts convey important information related to the state of your app or the devi
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners [•](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS [•](https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif)
 * [QBToast](https://github.com/sjc-bui/QBToast) - Simple way to display Toast message in iOS app with a single line of code [•](https://raw.githubusercontent.com/sjc-bui/QBToast/master/Example/QBToast/screen-record.gif)
+* [DOAlertController](https://github.com/okmr-d/DOAlertController) - Simple Alert View written in Swift, which can be used as a `UIAlertController`. [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif)
+* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets. [•](https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif)
 
 ### Transition
 List of animation transitions. [Open Previews](https://awesome-ios.com/animation/transition)
