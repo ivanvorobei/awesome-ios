@@ -15,6 +15,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - [Action Sheet](#action-sheet)
 - [Alert](#alert)
 - [Animation](#animation)
+	- [Effects](#effects)
 	- [Transition](#transition)
 - [Calendar](#calendar)
 - [Cards](#cards)
@@ -40,7 +41,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 A view that shows that a task is in progress. [Open Previews](https://awesome-ios.com/activity-indicator)
 
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. [•](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
-* [LoaderUI](https://github.com/ninjaprox/LoaderUI) - Collection of nice loading animations, implemented in SwiftUI. [•](https://github.com/ninjaprox/LoaderUI/blob/master/Demo.gif)
+* [LoaderUI](https://github.com/ninjaprox/LoaderUI) - Collection of nice loading animations, implemented in SwiftUI. [•](https://raw.githubusercontent.com/ninjaprox/LoaderUI/master/Demo.gif)
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert written in Swift (originally developed for my app DoodleDoodle) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest. [•](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
 * [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - A customizable animated gradient loading bar. [•](https://raw.githubusercontent.com/fxm90/GradientLoadingBar/master/Assets/screen.gif)
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation. [•](https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-circle.gif)
@@ -68,48 +69,51 @@ An action sheet is a specific style of alert that presents two or more choices r
 ### Alert
 Alerts convey important information related to the state of your app or the device, and often request feedback. [Open Previews](https://awesome-ios.com/alert)
 
-* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif)
-* [SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts [•](https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg)
-* [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
-* [Loaf](https://github.com/schmidyy/Loaf) - A simple framework for easy Toasts [•](https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png)
-* [HDNotificationView](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert [•](https://raw.githubusercontent.com/nhdang103/HDNotificationView/master/Assets/Images/iPhoneX_Portrait.png)
-* [PMAlertController](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController [•](https://raw.githubusercontent.com/pmusolino/PMAlertController/master/preview_pmalertacontroller.png)
-* [Dodo](https://github.com/evgenyneu/Dodo) - A message bar [•](https://raw.githubusercontent.com/evgenyneu/Dodo/master/Graphics/presets/info.jpg)
-* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar [•](https://raw.githubusercontent.com/SwiftKickMobile/SwiftMessages/master/Demo/demo.png)
-* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners [•](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
-* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS [•](https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif)
-* [QBToast](https://github.com/sjc-bui/QBToast) - Simple way to display Toast message in iOS app with a single line of code [•](https://raw.githubusercontent.com/sjc-bui/QBToast/master/Example/QBToast/screen-record.gif)
+* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI. [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif)
+* [SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts. [•](https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg)
+* [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert View written in Swift, which can be used as a `UIAlertView` or `UIAlertController` replacement. [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
+* [Loaf](https://github.com/schmidyy/Loaf) - A Swifty Framework for Easy iOS Toasts. [•](https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png)
+* [PMAlertController](https://github.com/pmusolino/PMAlertController) - Great and customizable alert that can substitute `UIAlertController`. [•](https://raw.githubusercontent.com/pmusolino/PMAlertController/master/preview_pmalertacontroller.png)
+* [Dodo](https://github.com/evgenyneu/Dodo) - A message bar for iOS written in Swift. [•](https://raw.githubusercontent.com/evgenyneu/Dodo/master/Graphics/presets/info.jpg)
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift. [•](https://raw.githubusercontent.com/SwiftKickMobile/SwiftMessages/master/Demo/demo.png)
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS. [•](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
+* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps. [•](https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController) - Simple Alert View written in Swift, which can be used as a `UIAlertController`. [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets. [•](https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif)
+
+### Animation
+List of animations. [Open Previews](https://awesome-ios.com/animation)
+
+* [Lottie](https://github.com/airbnb/lottie-ios) - Lottie is a mobile library for Android and iOS that natively renders vector based animations and art in realtime with minimal code. [•](https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif)
+* [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS in Swift. [•](https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif)
+* [Ease](https://github.com/roberthein/Ease) - Ease is an event driven animation system that combines the observer pattern with custom spring animations as observers. [•](https://raw.githubusercontent.com/roberthein/Ease/master/Art/header.gif)
+* [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces". [•](https://raw.githubusercontent.com/nathangitter/fluid-interfaces/master/Resources/calcdemo.gif)
+
+### Effects
+List of ready-use effects. [Open Previews](https://awesome-ios.com/animation/effects)
+
+* [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti [•](https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif)
+* [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Animatable widgets from iOS 14. Same animation for transform and shadow. Customisable duration, perspective and shadow also. [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
 
 ### Transition
 List of animation transitions. [Open Previews](https://awesome-ios.com/animation/transition)
 
-* [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Widgets iOS 14 animation with 3D and dynamic shadow. Customisable transform and duration [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
-* [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects [•](https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif)
-* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
-* [Material](https://github.com/CosmicMind/Material) - Material's animation [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
-* [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS [•](https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif)
-* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable [•](https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif)
-* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line [•](https://camo.githubusercontent.com/1f76933a70dd39cb3f36f77519d8c163313e316a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6d6172636f7367726973656c6c692f56696577416e696d61746f7240636630363565393661633334633932343731306464383463373138656364336265313739616533372f5265736f75726365732f656e74697265566965772e737667)
-* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more `UICollectionView` [•](https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif)
-* [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease [•](https://raw.githubusercontent.com/roberthein/Ease/master/Art/header.gif)
-* [MotionAnimation](https://github.com/lkzhao/MotionAnimation) - Lightweight animation library for `UIKit` [•](https://raw.githubusercontent.com/lkzhao/MotionAnimation/master/imgs/demo.gif)
-* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Chainable animations [•](https://raw.githubusercontent.com/draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif)
-* [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti 
-* [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk 
-* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
-* [Hero](https://github.com/HeroTransitions/Hero) - Building iOS view controller transitions [•](https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667)
+* [Material](https://github.com/CosmicMind/Material) - Material's animation. [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
+* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. [•](https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif)
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line. [•](https://camo.githubusercontent.com/1f76933a70dd39cb3f36f77519d8c163313e316a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6d6172636f7367726973656c6c692f56696577416e696d61746f7240636630363565393661633334633932343731306464383463373138656364336265313739616533372f5265736f75726365732f656e74697265566965772e737667)
+* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more `UICollectionView`. [•](https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif)
+* [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music, Mail & Podcasts Apple's apps. [•](https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif)
+* [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS. [•](https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667)
 * [Motion](https://github.com/CosmicMind/Motion) - Seamless animations and transitions [•](https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966)
-* [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions [•](https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/tabbar.gif)
-* [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - This component implements transition animation to crumble view-controller into tiny pieces [•](https://raw.githubusercontent.com/Yalantis/StarWars.iOS/master/preview.gif)
-* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - A custom modal transition that presents and dismiss a controller with an expanding bubble effect [•](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
-* [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A `UIKit` custom transition that simulates an elastic drag [•](https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif)
-* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Settings screen with buttons and switches [•](https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif)
-* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design [•](https://raw.githubusercontent.com/jonathantribouharet/JTMaterialTransition/master/Screens/example.gif)
-* [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS [•](https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif)
-* [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
-* [DropdownTransition](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant dropdown transition for iOS [•](https://raw.githubusercontent.com/nugmanoff/DropdownTransition/master/Resources/demo-default.gif)
+* [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions. [•](https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/tabbar.gif)
+* [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - This component implements transition animation to crumble view-controller into tiny pieces. [•](https://raw.githubusercontent.com/Yalantis/StarWars.iOS/master/preview.gif)
+* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - A custom modal transition that presents and dismiss a controller with an expanding bubble effect. [•](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
+* [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A `UIKit` custom transition that simulates an elastic drag. Written in Swift. [•](https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif)
+* [SPLarkController](https://github.com/ivanvorobei/SPLarkController) - Custom transition between controllers. Settings controller for your iOS app. [•](https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif)
+* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design. [•](https://raw.githubusercontent.com/jonathantribouharet/JTMaterialTransition/master/Screens/example.gif)
+* [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS. [•](https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif)
+* [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Transition simulates liquid when swipe to the side. [•](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
+* [DropdownTransition](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant dropdown transition for iOS. [•](https://raw.githubusercontent.com/nugmanoff/DropdownTransition/master/Resources/demo-default.gif)
 
 ### Calendar
 List of components and ready-use calendars. [Open Previews](https://awesome-ios.com/calendar)
@@ -204,7 +208,12 @@ An object that manages an ordered collection of data items and presents them usi
 * [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif)
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - `UICollectionViewLayout` with focused content [•](https://raw.githubusercontent.com/fdzsergio/SFFocusViewLayout/master/Screenshots/SFFocusViewLayout.gif)
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation [•](https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif)
+
+### Layout
+An object that manages an ordered collection of data items and presents them using customizable layouts. [Open Previews](https://awesome-ios.com/collection-view/layout)
+
 * [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout) - Backport of UICollectionViewCompositionalLayout to earlier iOS 12 [•](https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif)
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` [•](https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966)
 
 ### Controller
 An object that manages a view hierarchy for your UIKit app. [Open Previews](https://awesome-ios.com/controller)
