@@ -94,6 +94,7 @@ List of ready-use effects. [Open Previews](https://awesome-ios.com/animation/eff
 
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti [•](https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif)
 * [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Animatable widgets from iOS 14. Same animation for transform and shadow. Customisable duration, perspective and shadow also. [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
+* [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift. Rotate view using touch or accelerometer. [•](https://raw.githubusercontent.com/DroidsOnRoids/MPParallaxView/master/Resources/demo.gif)
 
 ### Transition
 List of animation transitions. [Open Previews](https://awesome-ios.com/animation/transition)
@@ -118,38 +119,35 @@ List of animation transitions. [Open Previews](https://awesome-ios.com/animation
 ### Calendar
 List of components and ready-use calendars. [Open Previews](https://awesome-ios.com/calendar)
 
-* [CalendarKit](https://github.com/richardtop/CalendarKit) - Fully customizable calendar day view [•](https://user-images.githubusercontent.com/8013017/30786599-1a05d3b0-a181-11e7-81fa-db6c7044bfa1.jpg)
-* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Swift Apple Calendar Library [•](https://cloud.githubusercontent.com/assets/2439146/20638185/d708d542-b353-11e6-8119-fa36c11b66cb.gif)
-* [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Simple customizable calendar component [•](https://raw.githubusercontent.com/shoheiyokoyama/Assets/master/Koyomi/demo-example.gif)
-* [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time [•](https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png)
-* [CVCalendar](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar [•](https://raw.githubusercontent.com/CVCalendar/CVCalendar/master/Screenshots/Demo_grey.gif)
+* [CalendarKit](https://github.com/richardtop/CalendarKit) - Swift calendar UI library for iOS, iPadOS and Mac Catalyst. It looks similar to the Apple Calendar app out-of-the-box, while allowing customization when needed. [•](https://user-images.githubusercontent.com/8013017/30786599-1a05d3b0-a181-11e7-81fa-db6c7044bfa1.jpg)
+* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable. [•](https://cloud.githubusercontent.com/assets/2439146/20638185/d708d542-b353-11e6-8119-fa36c11b66cb.gif)
+* [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time. [•](https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png)
+* [CVCalendar](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift. [•](https://raw.githubusercontent.com/CVCalendar/CVCalendar/master/Screenshots/Demo_grey.gif)
 
 ### Cards
 List of cards. [Open Previews](https://awesome-ios.com/cards)
 
-* [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views [•](https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png)
-* [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards [•](https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_v2_example_animation.gif)
-* [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI [•](https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif)
-* [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on `UIKit` [•](https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif)
-* [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift. Rotate view using touch or accelerometer [•](https://raw.githubusercontent.com/DroidsOnRoids/MPParallaxView/master/Resources/demo.gif)
-* [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material [•](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif)
-* [cardslider](https://github.com/Ramotion/cardslider) -  Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions [•](https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif)
-* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller [•](https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif)
-* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with `UICollectionView` [•](https://raw.githubusercontent.com/JoniVR/VerticalCardSwiper/master/example.gif)
-* [CardNavigation](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards [•](https://raw.githubusercontent.com/james01/CardNavigation/main/Docs/Images/Screen.gif)
+* [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 appstore cards in swift 5. [•](https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png)
+* [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. [•](https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_v2_example_animation.gif)
+* [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI. [•](https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif)
+* [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on `UIKit` for iOS developers. [•](https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif)
+* [folding-cell](https://github.com/Ramotion/folding-cell) - Expanding content cell with animation inspired by folding paper card material design. [•](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif)
+* [cardslider](https://github.com/Ramotion/cardslider) - Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions. [•](https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif)
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is an animated material design UI card peek/pop controller. [•](https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif)
+* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with `UICollectionView` in Swift. [•](https://raw.githubusercontent.com/JoniVR/VerticalCardSwiper/master/example.gif)
 
 ### Button
 A control that executes your custom code in response to user interactions. [Open Previews](https://awesome-ios.com/control/button)
 
-* [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif)
-* [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS `UIButton` [•](https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966)
-* [TransitionButton](https://github.com/AladinWay/TransitionButton) - `UIButton` sublass for loading and transition animation [•](https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966)
-* [WCLShineButton](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining [•](https://raw.githubusercontent.com/imwcl/WCLShineButton/master/DemoGif.gif)
-* [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible `UIButton` subclass with animated loading progress [•](https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif)
-* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
-* [Loady](https://github.com/farshadjahanmanesh/loady) - A small library to show loading and indicator in `UIButton`, with fully customizable styles [•](https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif)
-* [CocoaButton](https://github.com/edgar-zigis/CocoaButton) - Interactive UIButton with loading capability [•](https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif)
-* [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton) - Simple way to create beautiful button with fully customisable 
+* [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift. It could be just right for favorite buttons. [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif)
+* [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS `UIButton` in Swift. [•](https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966)
+* [TransitionButton](https://github.com/AladinWay/TransitionButton) - `UIButton` sublass for loading and transition animation. [•](https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966)
+* [WCLShineButton](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining. [•](https://raw.githubusercontent.com/imwcl/WCLShineButton/master/DemoGif.gif)
+* [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible (well documented) UIButton subclass with animated loading progress, and completion animation. [•](https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif)
+* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state. [•](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
+* [Loady](https://github.com/farshadjahanmanesh/loady) - This is a small library to show loading and indicator in `UIButton`, with fully customizable styles. there are 6 different styles, you can set the colors from interface builder or programmatically. [•](https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif)
+* [CocoaButton](https://github.com/edgar-zigis/CocoaButton) - Interactive UIButton with loading capability. [•](https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif)
+* [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton) - Simple way to display activity indicator inside the button. 
 
 ### Segment Control
 A control that consists of multiple segments, each segment functioning as a discrete button. [Open Previews](https://awesome-ios.com/control/segmented-control)

@@ -39,10 +39,17 @@
                 "description" : "List of animations."
             },
             {
+                "id" : "animation-effects",
+                "path" : "animation/effects",
+                "name" : "Effects",
+                "related_uikit_classes" : ["UIView", "CGAffineTransform"],
+                "description" : "List of ready-use effects."
+            },
+            {
                 "id" : "animation-transition",
                 "path" : "animation/transition",
                 "name" : "Transition",
-                "related_uikit_classes" : ["UIView", "UIViewController"],
+                "related_uikit_classes" : ["UIView", "CGAffineTransform"],
                 "description" : "List of animation transitions."
             },
             {
