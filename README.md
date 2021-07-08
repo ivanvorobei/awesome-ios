@@ -152,48 +152,46 @@ A control that executes your custom code in response to user interactions. [Open
 ### Segment Control
 A control that consists of multiple segments, each segment functioning as a discrete button. [Open Previews](https://awesome-ios.com/control/segmented-control)
 
-* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator [•](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
-* [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation [•](https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif)
-* [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom `UISegmentedControl` replacement [•](https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif)
-* [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations [•](https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif)
-* [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) - A powerful and easy to use segmented view [•](https://raw.githubusercontent.com/pujiaxin33/JXExampleImages/master/JXSegmentedView/Indicator/LineLengthen.gif)
+* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - A rubber animation page control. [•](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
+* [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation. [•](https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif)
+* [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - Custom `UISegmentedControl` replacement for iOS, written in Swift. [•](https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif)
+* [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations. Written in Swift 3.0. [•](https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif)
+* [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) - A powerful and easy to use segmented view: segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview. [•](https://raw.githubusercontent.com/pujiaxin33/JXExampleImages/master/JXSegmentedView/Indicator/LineLengthen.gif)
 
 ### Slider
 A control for selecting a single value from a continuous range of values. [Open Previews](https://awesome-ios.com/control/slider)
 
-* [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control [•](https://raw.githubusercontent.com/HamzaGhazouani/HGCircularSlider/master/Screenshots/Bedtime.gif)
-* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter [•](https://camo.githubusercontent.com/36324d7e99482ec072b76b81923a6aae46fc26c6/68747470733a2f2f6a2e676966732e636f6d2f35384e444e4b2e676966)
-* [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected [•](https://raw.githubusercontent.com/Ramotion/fluid-slider/master/fluid-slider.gif)
-* [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider [•](https://raw.githubusercontent.com/LeonardoCardoso/SectionedSlider/master/Images/static2.gif)
-* [balloon-picker](https://github.com/Cuberto/balloon-picker) - Custom picker view with floating balloon animation [•](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
-* [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle [•](https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif)
-* [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - Highly customizable GaugeSlider primarily designed for a Smart Home app [•](https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif)
+* [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular / progress slider control for iOS application. [•](https://raw.githubusercontent.com/HamzaGhazouani/HGCircularSlider/master/Screenshots/Bedtime.gif)
+* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter. [•](https://camo.githubusercontent.com/36324d7e99482ec072b76b81923a6aae46fc26c6/68747470733a2f2f6a2e676966732e636f6d2f35384e444e4b2e676966)
+* [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected. Swift UI library. [•](https://raw.githubusercontent.com/Ramotion/fluid-slider/master/fluid-slider.gif)
+* [balloon-picker](https://github.com/Cuberto/balloon-picker) - Custom picker view with floating balloon animation. [•](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
+* [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle. [•](https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif)
+* [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - Highly customizable GaugeSlider designed for a Smart Home app. Featured at Medium. [•](https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif)
 
 ### Switch
 A control that offers a binary choice, such as on/off. [Open Previews](https://awesome-ios.com/control/switch)
 
-* [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection [•](https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/liquid.gif)
-* [RAMPaperSwitch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on [•](https://raw.githubusercontent.com/Ramotion/paper-switch/master/paper-switch.gif)
-* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch [•](https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif)
-* [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design [•](https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png)
+* [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animation switch collection. [•](https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/liquid.gif)
+* [RAMPaperSwitch](https://github.com/Ramotion/paper-switch) - Swift material design UI module which paints over the parent view when the switch is turned on. iOS library. [•](https://raw.githubusercontent.com/Ramotion/paper-switch/master/paper-switch.gif)
+* [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - Nicely animated flat design switch alternative to `UISwitch`. [•](https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif)
+* [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift. [•](https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png)
 
 ### Text Field
 An object that displays an editable text area in your interface. [Open Previews](https://awesome-ios.com/control/text-field)
 
-* [Reel Search](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list [•](https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif)
-* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of 
-* [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom `UITextField` effects inspired by Codrops [•](https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif)
-* [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield [•](https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif)
-* [SearchTextField](https://github.com/apasccon/SearchTextField) - `UITextField` subclass with autocompletion suggestions lis [•](https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif)
-* [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated `UITextField` and `UITextView` replacement [•](https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif)
-* [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) - Highly customizable text field created according to Material.IO guidelines [•](https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif)
+* [Reel Search](https://github.com/Ramotion/reel-search) - UI controller that allows you to choose options from a list. Swift UI library. [•](https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif)
+* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of Float Label Pattern. Written in Swift. 
+* [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom `UITextFields` effects inspired by Codrops, built using Swift. [•](https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif)
+* [SearchTextField](https://github.com/apasccon/SearchTextField) - `UITextField` subclass with autocompletion suggestions list. [•](https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif)
+* [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated `UITextField` and UITextView replacement for iOS. [•](https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif)
+* [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) - Apple `UITextField` created according to the Material.IO guidelines of 2019. Featured at Medium. [•](https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif)
 
 ### Text View
 A scrollable, multiline text region. [Open Previews](https://awesome-ios.com/control/text-view)
 
-* [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks [•](https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif)
-* [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion [•](https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif)
-* [STTextView](https://github.com/onl1ner/STTextView) - An easy and clean framework that adds a custom UITextView subclass with a needed placeholder property [•](https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif)
+* [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight `UITextView` subclass that automatically grows and shrinks. [•](https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif)
+* [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion. [•](https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif)
+* [STTextView](https://github.com/onl1ner/STTextView) - Light-weight library that adds a placeholder to the `UITextView`. [•](https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif)
 
 ### Collection View
 An object that manages an ordered collection of data items and presents them using customizable layouts. [Open Previews](https://awesome-ios.com/collection-view)
