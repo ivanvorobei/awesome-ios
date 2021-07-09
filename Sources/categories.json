@@ -137,6 +137,13 @@
                 "description" : "An object that manages a view hierarchy for your UIKit app."
             },
             {
+                "id" : "controller-messages",
+                "path" : "controller/messages",
+                "name" : "Messages",
+                "related_uikit_classes" : ["UIViewController"],
+                "description" : "Replicate messages controller with message views."
+            },
+            {
                 "id" : "label",
                 "path" : "label",
                 "label" : "label",
