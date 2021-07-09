@@ -949,7 +949,7 @@
    },
    {
       "name" : "TKRubberIndicator",
-      "description" : "Rubber Indicator",
+      "description" : "A rubber animation page control.",
       "source_url" : "https://github.com/TBXark/TKRubberIndicator",
       "preview_url" : "https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif",
       "section_id" : "control-segmented-control",
@@ -962,7 +962,7 @@
    },
    {
       "name" : "PinterestSegment",
-      "description" : "A Pinterest-like segment control with masking animation",
+      "description" : "A Pinterest-like segment control with masking animation.",
       "source_url" : "https://github.com/TBXark/PinterestSegment",
       "preview_url" : "https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif",
       "section_id" : "control-segmented-control",
@@ -975,7 +975,7 @@
    },
    {
       "name" : "TwicketSegmentedControl",
-      "description" : "Custom `UISegmentedControl` replacement",
+      "description" : "Custom `UISegmentedControl` replacement for iOS, written in Swift.",
       "source_url" : "https://github.com/twicketapp/TwicketSegmentedControl",
       "preview_url" : "https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif",
       "section_id" : "control-segmented-control",
@@ -988,7 +988,7 @@
    },
    {
       "name" : "SJFluidSegmentedControl",
-      "description" : "A segmented control with custom appearance and interactive animations",
+      "description" : "A segmented control with custom appearance and interactive animations. Written in Swift 3.0.",
       "source_url" : "https://github.com/sasojadrovski/SJFluidSegmentedControl",
       "preview_url" : "https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif",
       "section_id" : "control-segmented-control",
@@ -1001,7 +1001,7 @@
    },
    {
       "name" : "JXSegmentedView",
-      "description" : "A powerful and easy to use segmented view",
+      "description" : "A powerful and easy to use segmented view: segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview.",
       "source_url" : "https://github.com/pujiaxin33/JXSegmentedView",
       "preview_url" : "https://raw.githubusercontent.com/pujiaxin33/JXExampleImages/master/JXSegmentedView/Indicator/LineLengthen.gif",
       "section_id" : "control-segmented-control",
@@ -1014,7 +1014,7 @@
    },
    {
       "name" : "HGCircularSlider",
-      "description" : "A custom reusable circular slider control",
+      "description" : "A custom reusable circular / progress slider control for iOS application.",
       "source_url" : "https://github.com/HamzaGhazouani/HGCircularSlider",
       "preview_url" : "https://raw.githubusercontent.com/HamzaGhazouani/HGCircularSlider/master/Screenshots/Bedtime.gif",
       "section_id" : "control-slider",
@@ -1027,7 +1027,7 @@
    },
    {
       "name" : "AGCircularPicker",
-      "description" : "AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter",
+      "description" : "Helpful component for creating a controller aimed to manage any calculated parameter.",
       "source_url" : "https://github.com/agilie/AGCircularPicker",
       "preview_url" : "https://camo.githubusercontent.com/36324d7e99482ec072b76b81923a6aae46fc26c6/68747470733a2f2f6a2e676966732e636f6d2f35384e444e4b2e676966",
       "section_id" : "control-slider",
@@ -1040,7 +1040,7 @@
    },
    {
       "name" : "Fluid Slider",
-      "description" : "A slider widget with a popup bubble displaying the precise value selected",
+      "description" : "A slider widget with a popup bubble displaying the precise value selected. Swift UI library.",
       "source_url" : "https://github.com/Ramotion/fluid-slider",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/fluid-slider/master/fluid-slider.gif",
       "section_id" : "control-slider",
@@ -1052,21 +1052,8 @@
       }
    },
    {
-      "name" : "SectionedSlider",
-      "description" : "Control Center Slider",
-      "source_url" : "https://github.com/LeonardoCardoso/SectionedSlider",
-      "preview_url" : "https://raw.githubusercontent.com/LeonardoCardoso/SectionedSlider/master/Images/static2.gif",
-      "section_id" : "control-slider",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
       "name" : "balloon-picker",
-      "description" : "Custom picker view with floating balloon animation",
+      "description" : "Custom picker view with floating balloon animation.",
       "source_url" : "https://github.com/Cuberto/balloon-picker",
       "preview_url" : "https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif",
       "section_id" : "control-slider",
@@ -1079,7 +1066,7 @@
    },
    {
       "name" : "GMStepper",
-      "description" : "A stepper with a sliding label in the middle",
+      "description" : "A stepper with a sliding label in the middle.",
       "source_url" : "https://github.com/gmertk/GMStepper",
       "preview_url" : "https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif",
       "section_id" : "control-slider",
@@ -1092,7 +1079,7 @@
    },
    {
       "name" : "GaugeSlider",
-      "description" : "Highly customizable GaugeSlider primarily designed for a Smart Home app",
+      "description" : "Highly customizable GaugeSlider designed for a Smart Home app. Featured at Medium.",
       "source_url" : "https://github.com/edgar-zigis/GaugeSlider",
       "preview_url" : "https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif",
       "section_id" : "control-slider",
@@ -1105,7 +1092,7 @@
    },
    {
       "name" : "TKSwitcherCollection",
-      "description" : "An animate switch collection",
+      "description" : "An animation switch collection.",
       "source_url" : "https://github.com/TBXark/TKSwitcherCollection",
       "preview_url" : "https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/liquid.gif",
       "section_id" : "control-switch",
@@ -1118,7 +1105,7 @@
    },
    {
       "name" : "RAMPaperSwitch",
-      "description" : "RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on",
+      "description" : "Swift material design UI module which paints over the parent view when the switch is turned on. iOS library.",
       "source_url" : "https://github.com/Ramotion/paper-switch",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/paper-switch/master/paper-switch.gif",
       "section_id" : "control-switch",
@@ -1131,7 +1118,7 @@
    },
    {
       "name" : "AIFlatSwitch",
-      "description" : "A flat component alternative to UISwitch",
+      "description" : "Nicely animated flat design switch alternative to `UISwitch`.",
       "source_url" : "https://github.com/cocoatoucher/AIFlatSwitch",
       "preview_url" : "https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif",
       "section_id" : "control-switch",
@@ -1144,7 +1131,7 @@
    },
    {
       "name" : "MJMaterialSwitch",
-      "description" : "A Customizable Switch UI for iOS, Inspired from Google's Material Design",
+      "description" : "A Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift.",
       "source_url" : "https://github.com/JaleelNazir/MJMaterialSwitch",
       "preview_url" : "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png",
       "section_id" : "control-switch",
@@ -1157,7 +1144,7 @@
    },
    {
       "name" : "Reel Search",
-      "description" : "RAMReel is a controller that allows you to choose options from a list",
+      "description" : "UI controller that allows you to choose options from a list. Swift UI library.",
       "source_url" : "https://github.com/Ramotion/reel-search",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif",
       "section_id" : "control-text-field",
@@ -1170,7 +1157,7 @@
    },
    {
       "name" : "SkyFloatingLabelTextField",
-      "description" : "A beautiful and flexible text field control implementation of",
+      "description" : "A beautiful and flexible text field control implementation of Float Label Pattern. Written in Swift.",
       "source_url" : "https://github.com/Skyscanner/SkyFloatingLabelTextField",
       "section_id" : "control-text-field",
       "category_id" : "ui",
@@ -1182,7 +1169,7 @@
    },
    {
       "name" : "TextFieldEffects",
-      "description" : "Custom `UITextField` effects inspired by Codrops",
+      "description" : "Custom `UITextFields` effects inspired by Codrops, built using Swift.",
       "source_url" : "https://github.com/raulriera/TextFieldEffects",
       "preview_url" : "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif",
       "section_id" : "control-text-field",
@@ -1194,21 +1181,8 @@
       }
    },
    {
-      "name" : "AutoCompleteTextField",
-      "description" : "Auto complete with suggestion textfield",
-      "source_url" : "https://github.com/nferocious76/AutoCompleteTextField",
-      "preview_url" : "https://cloud.githubusercontent.com/assets/6511079/16903266/0f2c58e2-4c50-11e6-827c-57b47992c9b2.gif",
-      "section_id" : "control-text-field",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
       "name" : "SearchTextField",
-      "description" : "`UITextField` subclass with autocompletion suggestions lis",
+      "description" : "`UITextField` subclass with autocompletion suggestions list.",
       "source_url" : "https://github.com/apasccon/SearchTextField",
       "preview_url" : "https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif",
       "section_id" : "control-text-field",
@@ -1221,7 +1195,7 @@
    },
    {
       "name" : "AnimatedTextInput",
-      "description" : "Animated `UITextField` and `UITextView` replacement",
+      "description" : "Animated `UITextField` and UITextView replacement for iOS.",
       "source_url" : "https://github.com/jobandtalent/AnimatedTextInput",
       "preview_url" : "https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif",
       "section_id" : "control-text-field",
@@ -1234,7 +1208,7 @@
    },
    {
       "name" : "CocoaTextField",
-      "description" : "Highly customizable text field created according to Material.IO guidelines",
+      "description" : "Apple `UITextField` created according to the Material.IO guidelines of 2019. Featured at Medium.",
       "source_url" : "https://github.com/edgar-zigis/CocoaTextField",
       "preview_url" : "https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif",
       "section_id" : "control-text-field",
@@ -1247,7 +1221,7 @@
    },
    {
       "name" : "RSKGrowingTextView",
-      "description" : "A light-weight UITextView subclass that automatically grows and shrinks",
+      "description" : "A light-weight `UITextView` subclass that automatically grows and shrinks.",
       "source_url" : "https://github.com/ruslanskorb/RSKGrowingTextView",
       "preview_url" : "https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif",
       "section_id" : "control-text-view",
@@ -1260,7 +1234,7 @@
    },
    {
       "name" : "SelectableTextView",
-      "description" : "A text view that supports selection and expansion",
+      "description" : "A text view that supports selection and expansion.",
       "source_url" : "https://github.com/jhurray/SelectableTextView",
       "preview_url" : "https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif",
       "section_id" : "control-text-view",
@@ -1273,7 +1247,7 @@
    },
    {
       "name" : "STTextView",
-      "description" : "An easy and clean framework that adds a custom UITextView subclass with a needed placeholder property",
+      "description" : "Light-weight library that adds a placeholder to the `UITextView`.",
       "source_url" : "https://github.com/onl1ner/STTextView",
       "preview_url" : "https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif",
       "section_id" : "control-text-view",
@@ -1286,7 +1260,7 @@
    },
    {
       "name" : "expanding-collection",
-      "description" : "ExpandingCollection is a card peek/pop controller",
+      "description" : "ExpandingCollection is an animated material design UI card peek/pop controller. iOS library.",
       "source_url" : "https://github.com/Ramotion/expanding-collection",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif",
       "section_id" : "collection-view",
@@ -1298,34 +1272,8 @@
       }
    },
    {
-      "name" : "AnimatedCollectionViewLayout",
-      "description" : "A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView`",
-      "source_url" : "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
-      "preview_url" : "https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966",
-      "section_id" : "collection-view",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
-      "name" : "CollectionViewSlantedLayout",
-      "description" : "`UICollectionViewLayout` with slanted content",
-      "source_url" : "https://github.com/yacir/CollectionViewSlantedLayout",
-      "preview_url" : "https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif",
-      "section_id" : "collection-view",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
       "name" : "gliding-collection",
-      "description" : "Smooth, flowing, customizable decision for a `UICollectionView` Swift Controller",
+      "description" : "Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller. iOS library.",
       "source_url" : "https://github.com/Ramotion/gliding-collection",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/gliding-collection/master/assets/gliding-collection.gif",
       "section_id" : "collection-view",
@@ -1337,21 +1285,8 @@
       }
    },
    {
-      "name" : "BouncyLayout",
-      "description" : "BouncyLayout is a collection view layout that makes your cells bounce",
-      "source_url" : "https://github.com/roberthein/BouncyLayout",
-      "preview_url" : "https://raw.githubusercontent.com/roberthein/BouncyLayout/master/art/gifs/02.gif",
-      "section_id" : "collection-view",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
       "name" : "cardslider",
-      "description" : " Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions",
+      "description" : "Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.",
       "source_url" : "https://github.com/Ramotion/cardslider",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif",
       "section_id" : "collection-view",
@@ -1363,34 +1298,73 @@
       }
    },
    {
+      "name" : "AnimatedCollectionViewLayout",
+      "description" : "A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` without effecting your existing code.",
+      "source_url" : "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
+      "preview_url" : "https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966",
+      "section_id" : "collection-view-layout",
+      "category_id" : "ui",
+      "adding_date" : "09.07.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
+   },
+   {
+      "name" : "CollectionViewSlantedLayout",
+      "description" : "A CollectionView Layout displaying a slanted cells.",
+      "source_url" : "https://github.com/yacir/CollectionViewSlantedLayout",
+      "preview_url" : "https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif",
+      "section_id" : "collection-view-layout",
+      "category_id" : "ui",
+      "adding_date" : "09.07.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
+   },
+   {
+      "name" : "BouncyLayout",
+      "description" : "BouncyLayout is a collection view layout that makes your cells bounce",
+      "source_url" : "https://github.com/roberthein/BouncyLayout",
+      "preview_url" : "https://raw.githubusercontent.com/roberthein/BouncyLayout/master/art/gifs/02.gif",
+      "section_id" : "collection-view-layout",
+      "category_id" : "ui",
+      "adding_date" : "09.07.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
+   },
+   {
       "name" : "SFFocusViewLayout",
-      "description" : "`UICollectionViewLayout` with focused content",
+      "description" : "`UICollectionViewLayout` with focused content.",
       "source_url" : "https://github.com/fdzsergio/SFFocusViewLayout",
       "preview_url" : "https://raw.githubusercontent.com/fdzsergio/SFFocusViewLayout/master/Screenshots/SFFocusViewLayout.gif",
-      "section_id" : "collection-view",
+      "section_id" : "collection-view-layout",
       "category_id" : "ui",
-      "adding_date" : "18.06.2021",
+      "adding_date" : "09.07.2021",
       "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
       }
    },
    {
       "name" : "CarLensCollectionViewLayout",
-      "description" : "An easy-to-use Collection View Layout for card-like animation",
+      "description" : "An easy-to-use Collection View Layout for card-like animation.",
       "source_url" : "https://github.com/netguru/CarLensCollectionViewLayout",
       "preview_url" : "https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif",
-      "section_id" : "collection-view",
+      "section_id" : "collection-view-layout",
       "category_id" : "ui",
-      "adding_date" : "18.06.2021",
+      "adding_date" : "09.07.2021",
       "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
       }
    },
    {
       "name" : "IBPCollectionViewCompositionalLayout",
-      "description" : "Backport of UICollectionViewCompositionalLayout to earlier iOS 12",
+      "description" : "Backport of `UICollectionViewCompositionalLayout` to earlier iOS 12.",
       "source_url" : "https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout",
       "preview_url" : "https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif",
       "section_id" : "collection-view-layout",
@@ -1399,19 +1373,6 @@
       "who_added" : {
           "name" : "Ivan Vorobei",
           "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
-      "name" : "AnimatedCollectionViewLayout",
-      "description" : "A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView`",
-      "source_url" : "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
-      "preview_url" : "https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966",
-      "section_id" : "collection-view-layout",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-         "name" : "Ivan Vorobei",
-         "url" : "https://github.com/ivanvorobei"
       }
    },
    {
@@ -1429,7 +1390,7 @@
    },
    {
       "name" : "FloatingPanel",
-      "description" : "A clean and easy-to-use floating panel UI component",
+      "description" : "A clean and easy-to-use floating panel UI component for iOS.",
       "source_url" : "https://github.com/SCENEE/FloatingPanel",
       "preview_url" : "https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif",
       "section_id" : "controller",
@@ -1455,7 +1416,7 @@
    },
    {
       "name" : "SPPermissions",
-      "description" : "Request permissions with dialog. For customise implement DataSource protocol",
+      "description" : "Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.",
       "source_url" : "https://github.com/ivanvorobei/SPPermissions",
       "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg",
       "section_id" : "controller",
@@ -1473,47 +1434,8 @@
       ]
    },
    {
-      "name" : "MessageKit",
-      "description" : "A community-driven replacement for JSQMessagesViewController",
-      "source_url" : "https://github.com/MessageKit/MessageKit",
-      "preview_url" : "https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png",
-      "section_id" : "controller",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
-      "name" : "MessageViewController",
-      "description" : "A SlackTextViewController replacement",
-      "source_url" : "https://github.com/GitHawkApp/MessageViewController",
-      "preview_url" : "https://raw.githubusercontent.com/GitHawkApp/MessageViewController/master/animation.gif",
-      "section_id" : "controller",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
-      "name" : "MessengerKit",
-      "description" : "A UI framework for building messenger interfaces on iOS",
-      "source_url" : "https://github.com/steve228uk/MessengerKit",
-      "preview_url" : "https://raw.githubusercontent.com/steve228uk/MessengerKit/master/readme-resources/screenshots/examples.png",
-      "section_id" : "controller",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
       "name" : "SPStorkController",
-      "description" : "Now playing controller from Apple Music. Also as Mail & Podcasts Apple's apps",
+      "description" : "Now playing controller from Apple Music, Mail & Podcasts Apple's apps.",
       "source_url" : "https://github.com/ivanvorobei/SPStorkController",
       "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif",
       "section_id" : "controller",
@@ -1526,7 +1448,7 @@
    },
    {
       "name" : "paper-onboarding",
-      "description" : "PaperOnboarding is a material design UI slider",
+      "description" : "PaperOnboarding is a material design UI slider. Swift UI library.",
       "source_url" : "https://github.com/Ramotion/paper-onboarding",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif",
       "section_id" : "controller",
@@ -1538,8 +1460,73 @@
       }
    },
    {
+      "name" : "preview-transition",
+      "description" : "SPreviewTransition is a simple preview gallery UI controller with animated tranisitions. Swift UI library.",
+      "source_url" : "https://github.com/Ramotion/preview-transition",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview-transition.gif",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
+   },
+   {
+      "name" : "folding-cell",
+      "description" : "FoldingCell is an expanding content cell inspired by folding paper material",
+      "source_url" : "https://github.com/Ramotion/folding-cell",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif",
+      "section_id" : "controller",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
+   },
+   {
+      "name" : "MessageKit",
+      "description" : "A community-driven replacement for `JSQMessagesViewController`.",
+      "source_url" : "https://github.com/MessageKit/MessageKit",
+      "preview_url" : "https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png",
+      "section_id" : "controller-messages",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
+   },
+   {
+      "name" : "MessageViewController",
+      "description" : "A SlackTextViewController replacement written in Swift for the iPhone X.",
+      "source_url" : "https://github.com/GitHawkApp/MessageViewController",
+      "preview_url" : "https://raw.githubusercontent.com/GitHawkApp/MessageViewController/master/animation.gif",
+      "section_id" : "controller-messages",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
+   },
+   {
+      "name" : "MessengerKit",
+      "description" : "A UI framework for building messenger interfaces on iOS.",
+      "source_url" : "https://github.com/steve228uk/MessengerKit",
+      "preview_url" : "https://raw.githubusercontent.com/steve228uk/MessengerKit/master/readme-resources/screenshots/examples.png",
+      "section_id" : "controller-messages",
+      "category_id" : "ui",
+      "adding_date" : "18.06.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
+   },
+   {
       "name" : "LTMorphingLabel",
-      "description" : "Graceful morphing effects for `UILabel`",
+      "description" : "Graceful morphing effects for `UILabel` written in Swift.",
       "source_url" : "https://github.com/lexrus/LTMorphingLabel",
       "preview_url" : "https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif",
       "section_id" : "label",
@@ -1552,7 +1539,7 @@
    },
    {
       "name" : "GlitchLabel",
-      "description" : "Glitching `UILabel`",
+      "description" : "Glitching `UILabel` for iOS.",
       "source_url" : "https://github.com/kciter/GlitchLabel",
       "preview_url" : "https://raw.githubusercontent.com/kciter/GlitchLabel/master/Images/preview.gif",
       "section_id" : "label",
@@ -1565,7 +1552,7 @@
    },
    {
       "name" : "CountdownLabel",
-      "description" : "Simple countdown `UILabel` with morphing animation, and some useful function",
+      "description" : "Simple countdown `UILabel` with morphing animation, and some useful function.",
       "source_url" : "https://github.com/suzuki-0000/CountdownLabel",
       "preview_url" : "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example01.gif",
       "section_id" : "label",
@@ -1578,7 +1565,7 @@
    },
    {
       "name" : "MarqueeLabel",
-      "description" : "A drop-in replacement for `UILabel`, which automatically adds a scrolling marquee effect",
+      "description" : "A drop-in replacement for `UILabel`, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.",
       "source_url" : "https://github.com/cbpowell/MarqueeLabel",
       "preview_url" : "https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif",
       "section_id" : "label",
@@ -1591,7 +1578,7 @@
    },
    {
       "name" : "CoreML-in-ARKit",
-      "description" : "Simple project to detect objects and display 3D labels above them in AR",
+      "description" : "Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.",
       "source_url" : "https://github.com/hanleyweng/CoreML-in-ARKit",
       "preview_url" : "https://raw.githubusercontent.com/hanleyweng/CoreML-in-ARKit/master/post-media/giphy.gif",
       "section_id" : "label",
@@ -1604,7 +1591,7 @@
    },
    {
       "name" : "NumberMorphView",
-      "description" : "A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing",
+      "description" : "A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.",
       "source_url" : "https://github.com/me-abhinav/NumberMorphView",
       "preview_url" : "https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif",
       "section_id" : "label",
@@ -1617,7 +1604,7 @@
    },
    {
       "name" : "ActiveLabel.swift",
-      "description" : "`UILabel` drop-in replacement supporting Hashtags",
+      "description" : "`UILabel` drop-in replacement supporting Hashtags.",
       "source_url" : "https://github.com/optonaut/ActiveLabel.swift",
       "section_id" : "label",
       "category_id" : "ui",
@@ -1642,7 +1629,7 @@
    },
    {
       "name" : "circle-menu",
-      "description" : "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations",
+      "description" : "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Swift UI library.",
       "source_url" : "https://github.com/Ramotion/circle-menu",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/circle-menu/master/circle-menu.gif",
       "section_id" : "menu",
@@ -1655,7 +1642,7 @@
    },
    {
       "name" : "AirBar",
-      "description" : "`UIScrollView` driven expandable menu",
+      "description" : "`UIScrollView` driven expandable menu.",
       "source_url" : "https://github.com/uptechteam/AirBar",
       "preview_url" : "https://raw.githubusercontent.com/uptechteam/AirBar/master/Logo/Demo.gif",
       "section_id" : "menu",
@@ -1668,7 +1655,7 @@
    },
    {
       "name" : "SPLarkController",
-      "description" : "Settings screen with buttons and switches",
+      "description" : "Custom transition between controllers. Settings controller for your iOS app.",
       "source_url" : "https://github.com/ivanvorobei/SPLarkController",
       "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
       "section_id" : "menu",
@@ -1681,7 +1668,7 @@
    },
    {
       "name" : "PopMenu",
-      "description" : "A cool and customizable popup style action sheet",
+      "description" : "A fully customizable popup style menu for iOS.",
       "source_url" : "https://github.com/CaliCastle/PopMenu",
       "preview_url" : "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif",
       "section_id" : "menu",
@@ -1694,7 +1681,7 @@
    },
    {
       "name" : "ContextMenu",
-      "description" : "An iOS context menu UI inspired by Things 3",
+      "description" : "An iOS context menu UI inspired by Things 3.",
       "source_url" : "https://github.com/GitHawkApp/ContextMenu",
       "preview_url" : "https://raw.githubusercontent.com/GitHawkApp/ContextMenu/master/images/animation.gif",
       "section_id" : "menu",
@@ -1707,7 +1694,7 @@
    },
    {
       "name" : "Menu",
-      "description" : "The iOS Menu",
+      "description" : "The iOS Menu.",
       "source_url" : "https://github.com/TwoLivesLeft/Menu",
       "preview_url" : "https://camo.githubusercontent.com/2b472d44a26b03ca566a822ff6e0f5636edadcd1/68747470733a2f2f636f6465612e696f2f6d656469612f6d656e752e706e67",
       "section_id" : "menu",
@@ -1720,7 +1707,7 @@
    },
    {
       "name" : "Segmentio",
-      "description" : "Animated top/bottom segmented control",
+      "description" : "Animated top/bottom segmented control written in Swift.",
       "source_url" : "https://github.com/Yalantis/Segmentio",
       "preview_url" : "https://raw.githubusercontent.com/Yalantis/Segmentio/master/Assets/animation.gif",
       "section_id" : "menu",
@@ -1733,7 +1720,7 @@
    },
    {
       "name" : "Persei",
-      "description" : "Animated top menu for `UITableView`, `UICollectionView`, `UIScrollView`",
+      "description" : "Animated top menu for `UITableView`, `UICollectionView`, `UIScrollView` written in Swift",
       "source_url" : "https://github.com/Yalantis/Persei",
       "preview_url" : "https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif",
       "section_id" : "menu",
@@ -1746,7 +1733,7 @@
    },
    {
       "name" : "BTNavigationDropdownMenu",
-      "description" : "The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title",
+      "description" : "The elegant yet functional dropdown menu, written in Swift, appears underneath the navigation bar to display a list of defined items when a user clicks on the navigation title.",
       "source_url" : "https://github.com/PhamBaTho/BTNavigationDropdownMenu",
       "preview_url" : "https://raw.githubusercontent.com/PhamBaTho/BTNavigationDropdownMenu/master/Assets/Demo.gif",
       "section_id" : "menu",
@@ -1759,7 +1746,7 @@
    },
    {
       "name" : "FlowingMenu",
-      "description" : "Interactive view transition to display menus with flowing and bouncing effects",
+      "description" : "Interactive view transition to display menus with flowing and bouncing effects in Swift.",
       "source_url" : "https://github.com/yannickl/FlowingMenu",
       "preview_url" : "https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966",
       "section_id" : "menu",
@@ -1772,7 +1759,7 @@
    },
    {
       "name" : "fan-menu",
-      "description" : "Menu with a circular layout based on Macaw",
+      "description" : "Menu with a circular layout based on Macaw.",
       "source_url" : "https://github.com/exyte/fan-menu",
       "preview_url" : "https://camo.githubusercontent.com/2b8539b723cd7c9135fa5e549c13ad5a1873622f/687474703a2f2f692e696d6775722e636f6d2f6f3674424b57362e676966",
       "section_id" : "menu",
@@ -1785,7 +1772,7 @@
    },
    {
       "name" : "GooeyTabbar",
-      "description" : "A gooey effect tabbar",
+      "description" : "A gooey effect tabbar.",
       "source_url" : "https://github.com/KittenYang/GooeyTabbar",
       "preview_url" : "https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif",
       "section_id" : "menu",
@@ -1798,7 +1785,7 @@
    },
    {
       "name" : "SideMenu",
-      "description" : "Simple side/slide menu control, no code necessary",
+      "description" : "Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.",
       "source_url" : "https://github.com/jonkykong/SideMenu",
       "preview_url" : "https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideOut.gif",
       "section_id" : "menu",
@@ -1836,21 +1823,8 @@
       }
    },
    {
-      "name" : "GooeyTabbar",
-      "description" : "A gooey effect tabbar",
-      "source_url" : "https://github.com/KittenYang/GooeyTabbar",
-      "preview_url" : "https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif",
-      "section_id" : "tab-bar",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
       "name" : "animated-tab-bar",
-      "description" : "RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items",
+      "description" : "RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library.",
       "source_url" : "https://github.com/Ramotion/animated-tab-bar",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/animatedTabBar.gif",
       "section_id" : "tab-bar",
@@ -1863,7 +1837,7 @@
    },
    {
       "name" : "CircleBar",
-      "description" : "Fun, easy-to-use tab bar navigation controller",
+      "description" : "A fun, easy-to-use tab bar navigation controller for iOS.",
       "source_url" : "https://github.com/softhausHQ/CircleBar",
       "preview_url" : "https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif",
       "section_id" : "tab-bar",
@@ -1876,7 +1850,7 @@
    },
    {
       "name" : "Segmentio",
-      "description" : "Animated top/bottom segmented control",
+      "description" : "Animated top/bottom segmented control written in Swift.",
       "source_url" : "https://github.com/Yalantis/Segmentio",
       "preview_url" : "https://raw.githubusercontent.com/Yalantis/Segmentio/master/Assets/animation.gif",
       "section_id" : "tab-bar",
@@ -1889,7 +1863,7 @@
    },
    {
       "name" : "adaptive-tab-bar",
-      "description" : "AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements",
+      "description" : "AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements. Swift UI component.",
       "source_url" : "https://github.com/Ramotion/adaptive-tab-bar",
       "preview_url" : "https://raw.githubusercontent.com/Ramotion/adaptive-tab-bar/master/adaptive_tab_bar.gif",
       "section_id" : "tab-bar",
@@ -1902,7 +1876,7 @@
    },
    {
       "name" : "ColorMatchTabs",
-      "description" : "Interesting way to display tabs",
+      "description" : "This is a Review posting app that let user find interesting places near them.",
       "source_url" : "https://github.com/Yalantis/ColorMatchTabs",
       "preview_url" : "https://raw.githubusercontent.com/Yalantis/ColorMatchTabs/master/Resources/preview.gif",
       "section_id" : "tab-bar",
@@ -1915,7 +1889,7 @@
    },
    {
       "name" : "XLPagerTabStrip",
-      "description" : "Android PagerTabStrip for iOS",
+      "description" : "Android PagerTabStrip for iOS.",
       "source_url" : "https://github.com/xmartlabs/XLPagerTabStrip",
       "preview_url" : "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/youtube.gif",
       "section_id" : "tab-bar",
@@ -1928,7 +1902,7 @@
    },
    {
       "name" : "Tabman",
-      "description" : "A powerful paging view controller with indicator bar for iOS",
+      "description" : "A powerful paging view controller with interactive indicator bars.",
       "source_url" : "https://github.com/uias/Tabman",
       "preview_url" : "https://raw.githubusercontent.com/uias/Tabman/master/Docs/img/tm_header.png",
       "section_id" : "tab-bar",
@@ -1940,21 +1914,8 @@
       }
    },
    {
-      "name" : "AZTabBarController",
-      "description" : "A custom tab bar controller",
-      "source_url" : "https://github.com/Minitour/AZTabBarController",
-      "preview_url" : "https://raw.githubusercontent.com/Minitour/AZTabBarController/master/Screenshots/aztabbar.gif",
-      "section_id" : "tab-bar",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
       "name" : "SwipeableTabBarController",
-      "description" : "`UITabBarController` with swipe interaction between its tabs",
+      "description" : "`UITabBarController` with swipe interaction between its tabs.",
       "source_url" : "https://github.com/marcosgriselli/SwipeableTabBarController",
       "preview_url" : "https://raw.githubusercontent.com/marcosgriselli/SwipeableTabBarController/master/./Resources/GIFs/SwipeableTabBarController_new.gif",
       "section_id" : "tab-bar",
@@ -1966,16 +1927,16 @@
       }
    },
    {
-      "name" : "preview-transition",
-      "description" : "Simple preview gallery UI controller with animated tranisitions",
-      "source_url" : "https://github.com/Ramotion/preview-transition",
-      "preview_url" : "https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview-transition.gif",
+      "name" : "paper-onboarding",
+      "description" : "PaperOnboarding is a material design UI slider. Swift UI library.",
+      "source_url" : "https://github.com/Ramotion/paper-onboarding",
+      "preview_url" : "https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif",
       "section_id" : "table-view",
       "category_id" : "ui",
       "adding_date" : "18.06.2021",
       "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
       }
    },
    {
@@ -1993,7 +1954,7 @@
    },
    {
       "name" : "MYTableViewIndex",
-      "description" : "A pixel perfect replacement for `UITableView` section index",
+      "description" : "A pixel perfect replacement for `UITableView` section index, written in Swift.",
       "source_url" : "https://github.com/mindz-eye/MYTableViewIndex",
       "preview_url" : "https://camo.githubusercontent.com/3c789faf45e094fca7cb665567f80112350a3981/68747470733a2f2f7261772e6769746875622e636f6d2f6d696e647a2d6579652f4d595461626c6556696577496e6465782f6d61737465722f53637265656e73686f74732f686967686c69676874696e672e676966",
       "section_id" : "table-view",
@@ -2006,7 +1967,7 @@
    },
    {
       "name" : "SwipeCellKit",
-      "description" : "Swipeable `UITableViewCell` based on the stock Mail app",
+      "description" : "Swipeable `UITableViewCell` and `UICollectionViewCell` based on the stock Mail.app, implemented in Swift.",
       "source_url" : "https://github.com/SwipeCellKit/SwipeCellKit",
       "preview_url" : "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif",
       "section_id" : "table-view",
@@ -2019,7 +1980,7 @@
    },
    {
       "name" : "RHPreviewCell",
-      "description" : "I envied so much Spotify iOS app this great playlist preview cell. Now you can give your users ability to quick check 'what content is hidden under your `UITableViewCell`'",
+      "description" : "I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own one. Now you can give your users ability to quick check \"what content is hidden under your UITableViewCell\". Great think is that this Library not requires 3D Touch support from user device",
       "source_url" : "https://github.com/robertherdzik/RHPreviewCell",
       "preview_url" : "https://raw.githubusercontent.com/robertherdzik/RHPreviewCell/master/ReadmeAssets/demo.gif",
       "section_id" : "table-view",
@@ -2031,34 +1992,8 @@
       }
    },
    {
-      "name" : "CascadingTableDelegate",
-      "description" : "A no-nonsense way to write cleaner UITableViewDelegate and UITableViewDataSource",
-      "source_url" : "https://github.com/edopelawi/CascadingTableDelegate",
-      "preview_url" : "https://raw.githubusercontent.com/edopelawi/CascadingTableDelegate/master/ReadmeImages/sample-page-screenshot.jpg",
-      "section_id" : "table-view",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
-      "name" : "TableViewDragger",
-      "description" : "A cells of `UITableView` can be rearranged by drag and drop",
-      "source_url" : "https://github.com/KyoheiG3/TableViewDragger",
-      "preview_url" : "https://user-images.githubusercontent.com/5707132/33757706-a5b5cf6c-dc3e-11e7-9275-b54b7897da59.gif",
-      "section_id" : "table-view",
-      "category_id" : "ui",
-      "adding_date" : "18.06.2021",
-      "who_added" : {
-          "name" : "Ivan Vorobei",
-          "url" : "https://github.com/ivanvorobei"
-      }
-   },
-   {
       "name" : "HGPlaceholders",
-      "description" : "Nice library to show and create placeholders and Empty States for any `UITableView`, `UICollectionView` in your project",
+      "description" : "Nice library to show placeholders and Empty States for any `UITableView` or `UICollectionView` in your project.",
       "source_url" : "https://github.com/HamzaGhazouani/HGPlaceholders",
       "preview_url" : "https://raw.githubusercontent.com/HamzaGhazouani/HGPlaceholders/master/Screenshots/default.gif",
       "section_id" : "table-view",
