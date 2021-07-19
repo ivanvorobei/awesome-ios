@@ -2016,5 +2016,18 @@
           "name" : "Gokul R Nair",
           "url" : "https://github.com/gokulnair2001"
       }
+   },
+   {
+      "name" : "SPConfetti",
+      "description" : "Show the confetti only when the user is having fun, and if not having fun, don't show it.",
+      "source_url" : "https://github.com/ivanvorobei/SPConfetti",
+      "preview_url" : "https://raw.githubusercontent.com/ivanvorobei/SPConfetti/main/Assets/Readme/latest-preview.jpg",
+      "section_id" : "animation-effects",
+      "category_id" : "ui",
+      "adding_date" : "19.07.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
    }
 ]

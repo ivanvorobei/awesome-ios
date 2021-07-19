@@ -104,6 +104,7 @@ List of ready-use effects. [Open Previews](https://awesome-ios.com/animation/eff
 * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti [•](https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif)
 * [SPPerspective](https://github.com/ivanvorobei/SPPerspective) - Animatable widgets from iOS 14. Same animation for transform and shadow. Customisable duration, perspective and shadow also. [•](https://cdn.ivanvorobei.by/github/spperspective/preview.mov)
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift. Rotate view using touch or accelerometer. [•](https://raw.githubusercontent.com/DroidsOnRoids/MPParallaxView/master/Resources/demo.gif)
+* [SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it. [•](https://raw.githubusercontent.com/ivanvorobei/SPConfetti/main/Assets/Readme/latest-preview.jpg)
 
 ### Transition
 List of animation transitions. [Open Previews](https://awesome-ios.com/animation/transition)
