@@ -88,6 +88,7 @@ Alerts convey important information related to the state of your app or the devi
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps. [•](https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif)
 * [DOAlertController](https://github.com/okmr-d/DOAlertController) - Simple Alert View written in Swift, which can be used as a `UIAlertController`. [•](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets. [•](https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif)
+* [Loafjet](https://github.com/Loafjet/Loafjet) - Loafjet is a lightweight custom framework used to add Loafs, Dash Board, Popup Card, and Loading indicator in your Swift project. [•](https://user-images.githubusercontent.com/56252259/126109733-abb5be9d-c6cb-40c5-900e-07405e4852f7.gif)
 
 ### Animation
 List of animations. [Open Previews](https://awesome-ios.com/animation)
