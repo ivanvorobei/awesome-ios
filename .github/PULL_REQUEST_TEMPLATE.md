@@ -4,7 +4,6 @@
 - [ ] Only one library for pull request
 - [ ] Installed correct via Swift Package Manager or Cocoapods
 - [ ] Has clean `Readme`
-- [ ] Added Preview as dot if available
 - [ ] Preview link added via `raw.githubusercontent.com`
 - [ ] Added to `Sources/frameworks.json` file
 - [ ] Added to bottom
