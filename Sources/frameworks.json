@@ -2003,5 +2003,18 @@
           "name" : "Ivan Vorobei",
           "url" : "https://github.com/ivanvorobei"
       }
+   },
+   {
+      "name" : "Loafjet",
+      "description" : "Loafjet is a lightweight custom framework used to add Loafs, Dash Board, Popup Card, and Loading indicator in your Swift project.",
+      "source_url" : "https://github.com/Loafjet/Loafjet",
+      "preview_url" : "https://user-images.githubusercontent.com/56252259/126109733-abb5be9d-c6cb-40c5-900e-07405e4852f7.gif",
+      "section_id" : "alert",
+      "category_id" : "ui",
+      "adding_date" : "19.07.2021",
+      "who_added" : {
+          "name" : "Gokul R Nair",
+          "url" : "https://github.com/gokulnair2001"
+      }
    }
 ]
