@@ -2029,5 +2029,18 @@
          "name" : "Ivan Vorobei",
          "url" : "https://github.com/ivanvorobei"
       }
+   },
+   {
+      "name" : "ConfettiKit",
+      "description" : "A custom framework to add Confetti on iOS/iPadOS projects.",
+      "source_url" : "https://github.com/gokulnair2001/ConfettiKit",
+      "preview_url" : "https://user-images.githubusercontent.com/56252259/126186797-01dd53e1-8861-4f4d-a44d-69b8f0bbfc1e.gif",
+      "section_id" : "animation-effects",
+      "category_id" : "ui",
+      "adding_date" : "19.07.2021",
+      "who_added" : {
+          "name" : "Gokul R Nair",
+          "url" : "https://github.com/gokulnair2001"
+      }
    }
 ]
