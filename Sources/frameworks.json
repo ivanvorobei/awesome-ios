@@ -2042,5 +2042,18 @@
           "name" : "Gokul R Nair",
           "url" : "https://github.com/gokulnair2001"
       }
+   },
+   {
+      "name" : "MKRingProgressView",
+      "description" : "Ring progress view similar to Activity app on Apple Watch.",
+      "source_url" : "https://github.com/maxkonovalov/MKRingProgressView",
+      "preview_url" : "https://raw.githubusercontent.com/maxkonovalov/MKRingProgressView/master/MKRingProgressView.png",
+      "section_id" : "progress-indicator",
+      "category_id" : "ui",
+      "adding_date" : "08.08.2021",
+      "who_added" : {
+         "name" : "Ivan Vorobei",
+         "url" : "https://github.com/ivanvorobei"
+      }
    }
 ]
