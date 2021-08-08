@@ -274,6 +274,7 @@ A view that depicts the progress of a task over time. [Open Previews](https://aw
 
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - A circular progress view with gradients written in Swift. [•](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif)
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom `CGPaths` written in Swift. [•](https://raw.githubusercontent.com/polqf/FillableLoaders/master/Images/waves.gif)
+* [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch. [•](https://raw.githubusercontent.com/maxkonovalov/MKRingProgressView/master/MKRingProgressView.png)
 
 ### Tab Bar
 A control that displays one or more buttons in a tab bar for selecting between different subtasks, views, or modes in an app. [Open Previews](https://awesome-ios.com/tab-bar)
