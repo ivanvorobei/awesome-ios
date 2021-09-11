@@ -2055,5 +2055,18 @@
          "name" : "Ivan Vorobei",
          "url" : "https://github.com/ivanvorobei"
       }
+   },
+   {
+      "name" : "STDiscreteSlider",
+      "description" : "Slider which allows user to choose value only from predefined set of data.",
+      "source_url" : "https://github.com/onl1ner/STDiscreteSlider",
+      "preview_url" : "https://github.com/onl1ner/onl1ner/blob/master/Resources/STDiscreteSlider/Examples.png?raw=true",
+      "section_id" : "control-slider",
+      "category_id" : "ui",
+      "adding_date" : "27.07.2021",
+      "who_added" : {
+          "name" : "Tamerlan Satualdypov",
+          "url" : "https://github.com/onl1ner"
+      }
    }
 ]
