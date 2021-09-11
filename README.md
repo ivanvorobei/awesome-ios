@@ -178,6 +178,7 @@ A control for selecting a single value from a continuous range of values. [Open 
 * [balloon-picker](https://github.com/Cuberto/balloon-picker) - Custom picker view with floating balloon animation. [•](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
 * [GMStepper](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle. [•](https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif)
 * [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - Highly customizable GaugeSlider designed for a Smart Home app. Featured at Medium. [•](https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif)
+* [STDiscreteSlider](https://github.com/onl1ner/STDiscreteSlider) - Slider which allows user to choose value only from predefined set of data. [•](https://github.com/onl1ner/onl1ner/blob/master/Resources/STDiscreteSlider/Examples.png?raw=true)
 
 ### Switch
 A control that offers a binary choice, such as on/off. [Open Previews](https://awesome-ios.com/control/switch)
@@ -312,21 +313,21 @@ I have libraries with native interface and managing permissions. Also available 
 
 ## Russian Community
 
-Веду каналы об iOS разработке. Один с туториалами и новостями, другой с обзором библиотек.<br>
-Со сложной задачей помогут в чате.
+Подписывайся в телеграмм-канал, если хочешь получать уведомления о новых туториалах.<br>
+Со сложными и непонятными задачами помогут в чате.
 
 <p float="left">
-    <a href="https://sparrowcode.by/telegram/channel">
+    <a href="https://tutorials.ivanvorobei.by/telegram/channel">
         <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/russian-community-tutorials.svg">
     </a>
-    <a href="https://sparrowcode.by/telegram/libs">
+    <a href="https://tutorials.ivanvorobei.by/telegram/libs">
         <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/russian-community-libraries.svg">
     </a>
-    <a href="https://sparrowcode.by/telegram/chat">
+    <a href="https://tutorials.ivanvorobei.by/telegram/chat">
         <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/russian-community-chat.svg">
     </a>
 </p>
 
-Видео-туториалы выклыдываю на [YouTube](https://sparrowcode.by/youtube):
+Видео-туториалы выклыдываю на [YouTube](https://tutorials.ivanvorobei.by/youtube):
 
-[![Tutorials on YouTube](https://cdn.ivanvorobei.by/github/readme/youtube-preview.jpg)](https://sparrowcode.by/youtube)
+[![Tutorials on YouTube](https://cdn.ivanvorobei.by/github/readme/youtube-preview.jpg)](https://tutorials.ivanvorobei.by/youtube)
