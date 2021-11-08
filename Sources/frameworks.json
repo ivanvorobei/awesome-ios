@@ -440,19 +440,6 @@
          "url" : "https://github.com/ivanvorobei"
       }
    },
-     {
-      "name" : "ConfettiSwiftUI",
-      "description" : "A SwiftUI library to configure confetti animations.",
-      "source_url" : "https://github.com/simibac/ConfettiSwiftUI",
-      "preview_url" : "https://raw.githubusercontent.com/simibac/ConfettiSwiftUI/master/Gifs/default.gif",
-      "section_id" : "animation-effects",
-      "category_id" : "ui",
-      "adding_date" : "08.11.2021",
-      "who_added" : {
-          "name" : "Simon Bachmann",
-          "url" : "https://github.com/simibac"
-      }
-   },
    {
       "name" : "SPPerspective",
       "description" : "Animatable widgets from iOS 14. Same animation for transform and shadow. Customisable duration, perspective and shadow also.",
@@ -2080,6 +2067,19 @@
       "who_added" : {
           "name" : "Tamerlan Satualdypov",
           "url" : "https://github.com/onl1ner"
+      }
+   },
+   {
+      "name" : "ConfettiSwiftUI",
+      "description" : "A SwiftUI library to configure confetti animations.",
+      "source_url" : "https://github.com/simibac/ConfettiSwiftUI",
+      "preview_url" : "https://raw.githubusercontent.com/simibac/ConfettiSwiftUI/master/Gifs/default.gif",
+      "section_id" : "animation-effects",
+      "category_id" : "ui",
+      "adding_date" : "08.11.2021",
+      "who_added" : {
+          "name" : "Simon Bachmann",
+          "url" : "https://github.com/simibac"
       }
    }
 ]
