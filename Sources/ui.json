@@ -1,0 +1,1914 @@
+[
+    {
+        "name": "NVActivityIndicatorView",
+        "description": "Collection of nice loading animations.",
+        "source_url": "https://github.com/ninjaprox/NVActivityIndicatorView",
+        "preview_url": "https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif",
+        "section": "activity-indicator",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "LoaderUI",
+        "description": "Collection of nice loading animations, implemented in SwiftUI.",
+        "source_url": "https://github.com/ninjaprox/LoaderUI",
+        "preview_url": "https://raw.githubusercontent.com/ninjaprox/LoaderUI/master/Demo.gif",
+        "section": "activity-indicator",
+        "adding_date": "03.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SwiftSpinner",
+        "description": "A beautiful activity indicator and modal alert written in Swift (originally developed for my app DoodleDoodle) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest.",
+        "source_url": "https://github.com/icanzilb/SwiftSpinner",
+        "preview_url": "https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif",
+        "section": "activity-indicator",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "GradientLoadingBar",
+        "description": "A customizable animated gradient loading bar.",
+        "source_url": "https://github.com/fxm90/GradientLoadingBar",
+        "preview_url": "https://raw.githubusercontent.com/fxm90/GradientLoadingBar/master/Assets/screen.gif",
+        "section": "activity-indicator",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "LiquidLoader",
+        "description": "Spinner loader components with liquid animation.",
+        "source_url": "https://github.com/yoavlt/LiquidLoader",
+        "preview_url": "https://raw.githubusercontent.com/yoavlt/LiquidLoader/master/Demo/grow-circle.gif",
+        "section": "activity-indicator",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "ParticlesLoadingView",
+        "description": "A customizable SpriteKit particles animation on the border of a view.",
+        "source_url": "https://github.com/BalestraPatrick/ParticlesLoadingView",
+        "preview_url": "https://camo.githubusercontent.com/f10117be4e3508a0418b3932d68249106cf4e5b4/687474703a2f2f692e67697068792e636f6d2f336f456a48573963777042376c6a51474f632e676966",
+        "section": "activity-indicator",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "DSGradientProgressView",
+        "description": "Simple and customizable animated progress bar written in Swift.",
+        "source_url": "https://github.com/DholStudio/DSGradientProgressView",
+        "preview_url": "https://raw.githubusercontent.com/DholStudio/DSGradientProgressView/master/animation.gif",
+        "section": "activity-indicator",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SkeletonView",
+        "description": "An elegant way to show users that something is happening and also prepare them to which contents they are awaiting.",
+        "source_url": "https://github.com/Juanpe/SkeletonView",
+        "preview_url": "https://raw.githubusercontent.com/Juanpe/SkeletonView/main/Assets/solid.png",
+        "section": "activity-indicator/skeleton",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "LoadingShimmer",
+        "description": "An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator",
+        "source_url": "https://github.com/jogendra/LoadingShimmer",
+        "preview_url": "https://raw.githubusercontent.com/jogendra/LoadingShimmer/master/Screenshots/demo.gif",
+        "section": "activity-indicator/skeleton",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "PopMenu",
+        "description": "A fully customizable popup style menu for iOS.",
+        "source_url": "https://github.com/CaliCastle/PopMenu",
+        "preview_url": "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif",
+        "section": "action-sheet",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SPPermissions",
+        "description": "Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.",
+        "source_url": "https://github.com/ivanvorobei/SPPermissions",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg",
+        "section": "action-sheet",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "BulletinBoard",
+        "description": "BulletinBoard is an iOS library that generates and manages contextual cards displayed at the bottom of the screen. It is especially well suited for quick user interactions such as onboarding screens or configuration.",
+        "source_url": "https://github.com/alexaubry/BulletinBoard",
+        "preview_url": "https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png",
+        "section": "action-sheet",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "alerts-and-pickers",
+        "description": "Advanced usage of `UIAlertController` and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date.",
+        "source_url": "https://github.com/dillidon/alerts-and-pickers",
+        "preview_url": "https://raw.githubusercontent.com/dillidon/alerts-and-pickers/new/Assets/gifs/actionSheet-.gif",
+        "section": "action-sheet",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CFAlertViewController",
+        "description": "It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.",
+        "source_url": "https://github.com/Codigami/CFAlertViewController",
+        "preview_url": "https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif",
+        "section": "action-sheet",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Hokusai",
+        "description": "A Swift library to provide a bouncy action sheet.",
+        "source_url": "https://github.com/ytakzk/Hokusai",
+        "preview_url": "https://raw.githubusercontent.com/wiki/ytakzk/Hokusai/images/demo.gif",
+        "section": "action-sheet",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TKSwarmAlert",
+        "description": "Animated alert library like Swarm app.",
+        "source_url": "https://github.com/entotsu/TKSwarmAlert",
+        "preview_url": "https://raw.githubusercontent.com/entotsu/TKSwarmAlert/master/ScreenShots/minidemo.gif",
+        "section": "action-sheet",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "DOAlertController",
+        "description": "Simple Alert View written in Swift, which can be used as a `UIAlertController`.",
+        "source_url": "https://github.com/okmr-d/DOAlertController",
+        "preview_url": "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif",
+        "section": "action-sheet",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SPAlert",
+        "description": "Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.",
+        "source_url": "https://github.com/ivanvorobei/SPAlert",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        },
+        "using_apps": [
+            {
+                "name": "Debts - Debt Tracker",
+                "url": "https://apps.apple.com/app/id1570676244"
+            }
+        ]
+    },
+    {
+        "name": "SPIndicator",
+        "description": "Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts.",
+        "source_url": "https://github.com/ivanvorobei/SPIndicator",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        },
+        "using_apps": [
+            {
+                "name": "Debts - Debt Tracker",
+                "url": "https://apps.apple.com/app/id1570676244"
+            }
+        ]
+    },
+    {
+        "name": "SCLAlertView-Swift",
+        "description": "Animated Alert View written in Swift, which can be used as a `UIAlertView` or `UIAlertController` replacement.",
+        "source_url": "https://github.com/vikmeup/SCLAlertView-Swift",
+        "preview_url": "https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Loaf",
+        "description": "A Swifty Framework for Easy iOS Toasts.",
+        "source_url": "https://github.com/schmidyy/Loaf",
+        "preview_url": "https://user-images.githubusercontent.com/22358682/53522566-a2b1f880-3aa8-11e9-8451-f555811f85ed.png",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "PMAlertController",
+        "description": "Great and customizable alert that can substitute `UIAlertController`.",
+        "source_url": "https://github.com/pmusolino/PMAlertController",
+        "preview_url": "https://raw.githubusercontent.com/pmusolino/PMAlertController/master/preview_pmalertacontroller.png",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Dodo",
+        "description": "A message bar for iOS written in Swift.",
+        "source_url": "https://github.com/evgenyneu/Dodo",
+        "preview_url": "https://raw.githubusercontent.com/evgenyneu/Dodo/master/Graphics/presets/info.jpg",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SwiftMessages",
+        "description": "A very flexible message bar for iOS written in Swift.",
+        "source_url": "https://github.com/SwiftKickMobile/SwiftMessages",
+        "preview_url": "https://raw.githubusercontent.com/SwiftKickMobile/SwiftMessages/master/Demo/demo.png",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "NotificationBanner",
+        "description": "The easiest way to display highly customizable in app notification banners in iOS.",
+        "source_url": "https://github.com/Daltron/NotificationBanner",
+        "preview_url": "https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SwiftEntryKit",
+        "description": "SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.",
+        "source_url": "https://github.com/huri000/SwiftEntryKit",
+        "preview_url": "https://raw.githubusercontent.com/huri000/assets/master/swift-entrykit/alerts.gif",
+        "section": "alert",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "DOAlertController",
+        "description": "Simple Alert View written in Swift, which can be used as a `UIAlertController`.",
+        "source_url": "https://github.com/okmr-d/DOAlertController",
+        "preview_url": "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOAlertController/ActionSheet.gif",
+        "section": "alert",
+        "adding_date": "04.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CFAlertViewController",
+        "description": "It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.",
+        "source_url": "https://github.com/Codigami/CFAlertViewController",
+        "preview_url": "https://raw.githubusercontent.com/Codigami/CFAlertViewController/master/Images/Demo_1.gif",
+        "section": "alert",
+        "adding_date": "04.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Lottie",
+        "description": "Lottie is a mobile library for Android and iOS that natively renders vector based animations and art in realtime with minimal code.",
+        "source_url": "https://github.com/airbnb/lottie-ios",
+        "preview_url": "https://raw.githubusercontent.com/airbnb/lottie-ios/master/_Gifs/Examples2.gif",
+        "section": "animation",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TweenKit",
+        "description": "Animation library for iOS in Swift.",
+        "source_url": "https://github.com/SteveBarnegren/TweenKit",
+        "preview_url": "https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif",
+        "section": "animation",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Ease",
+        "description": "Ease is an event driven animation system that combines the observer pattern with custom spring animations as observers.",
+        "source_url": "https://github.com/roberthein/Ease",
+        "preview_url": "https://raw.githubusercontent.com/roberthein/Ease/master/Art/header.gif",
+        "section": "animation",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "fluid-interfaces",
+        "description": "Natural gestures and animations inspired by Apple's WWDC18 talk \"Designing Fluid Interfaces\".",
+        "source_url": "https://github.com/nathangitter/fluid-interfaces",
+        "preview_url": "https://raw.githubusercontent.com/nathangitter/fluid-interfaces/master/Resources/calcdemo.gif",
+        "section": "animation",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SAConfettiView",
+        "description": "Confetti",
+        "source_url": "https://github.com/sudeepag/SAConfettiView",
+        "preview_url": "https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif",
+        "section": "animation/effects",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SPPerspective",
+        "description": "Animatable widgets from iOS 14. Same animation for transform and shadow. Customisable duration, perspective and shadow also.",
+        "source_url": "https://github.com/ivanvorobei/SPPerspective",
+        "preview_url": "https://cdn.ivanvorobei.by/github/spperspective/preview.mov",
+        "section": "animation/effects",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "MPParallaxView",
+        "description": "Apple TV Parallax effect in Swift. Rotate view using touch or accelerometer.",
+        "source_url": "https://github.com/DroidsOnRoids/MPParallaxView",
+        "preview_url": "https://raw.githubusercontent.com/DroidsOnRoids/MPParallaxView/master/Resources/demo.gif",
+        "section": "animation/effects",
+        "adding_date": "07.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Material",
+        "description": "Material's animation.",
+        "source_url": "https://github.com/CosmicMind/Material",
+        "preview_url": "https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "IBAnimatable",
+        "description": "Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.",
+        "source_url": "https://github.com/IBAnimatable/IBAnimatable",
+        "preview_url": "https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "ViewAnimator",
+        "description": "ViewAnimator brings your UI to life with just one line.",
+        "source_url": "https://github.com/marcosgriselli/ViewAnimator",
+        "preview_url": "https://camo.githubusercontent.com/1f76933a70dd39cb3f36f77519d8c163313e316a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6d6172636f7367726973656c6c692f56696577416e696d61746f7240636630363565393661633334633932343731306464383463373138656364336265313739616533372f5265736f75726365732f656e74697265566965772e737667",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CKWaveCollectionViewTransition",
+        "description": "Cool wave like transition between two or more `UICollectionView`.",
+        "source_url": "https://github.com/CezaryKopacz/CKWaveCollectionViewTransition",
+        "preview_url": "https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SPStorkController",
+        "description": "Now playing controller from Apple Music, Mail & Podcasts Apple's apps.",
+        "source_url": "https://github.com/ivanvorobei/SPStorkController",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif",
+        "section": "animation/transition",
+        "active": false,
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Hero",
+        "description": "Elegant transition library for iOS & tvOS.",
+        "source_url": "https://github.com/HeroTransitions/Hero",
+        "preview_url": "https://camo.githubusercontent.com/ad3b44a1f8c9ad51ba120b6281b03335bd78bb22/68747470733a2f2f63646e2e7261776769742e636f6d2f6c6b7a68616f2f4865726f2f656262336632632f5265736f75726365732f66656174757265732e737667",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Motion",
+        "description": "Seamless animations and transitions",
+        "source_url": "https://github.com/CosmicMind/Motion",
+        "preview_url": "https://camo.githubusercontent.com/050636f4d1d1ce90fd68a20a098573af3be0ff53/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f70726f6a656374732f70686f746f732e676966",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Transition",
+        "description": "Easy interactive interruptible custom ViewController transitions.",
+        "source_url": "https://github.com/Touchwonders/Transition",
+        "preview_url": "https://raw.githubusercontent.com/Touchwonders/Transition/master/Documentation/artwork/tabbar.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "StarWars.iOS",
+        "description": "This component implements transition animation to crumble view-controller into tiny pieces.",
+        "source_url": "https://github.com/Yalantis/StarWars.iOS",
+        "preview_url": "https://raw.githubusercontent.com/Yalantis/StarWars.iOS/master/preview.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "BubbleTransition",
+        "description": "A custom modal transition that presents and dismiss a controller with an expanding bubble effect.",
+        "source_url": "https://github.com/andreamazz/BubbleTransition",
+        "preview_url": "https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "ElasticTransition",
+        "description": "A `UIKit` custom transition that simulates an elastic drag. Written in Swift.",
+        "source_url": "https://github.com/lkzhao/ElasticTransition",
+        "preview_url": "https://raw.githubusercontent.com/lkzhao/ElasticTransition/master/imgs/demo.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SPLarkController",
+        "description": "Custom transition between controllers. Settings controller for your iOS app.",
+        "source_url": "https://github.com/ivanvorobei/SPLarkController",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "JTMaterialTransition",
+        "description": "An iOS transition for controllers based on material design.",
+        "source_url": "https://github.com/jonathantribouharet/JTMaterialTransition",
+        "preview_url": "https://raw.githubusercontent.com/jonathantribouharet/JTMaterialTransition/master/Screens/example.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "FloatingPanel",
+        "description": "A clean and easy-to-use floating panel UI component for iOS.",
+        "source_url": "https://github.com/SCENEE/FloatingPanel",
+        "preview_url": "https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "liquid-swipe",
+        "description": "Transition simulates liquid when swipe to the side.",
+        "source_url": "https://github.com/Cuberto/liquid-swipe",
+        "preview_url": "https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "DropdownTransition",
+        "description": "Simple and elegant dropdown transition for iOS.",
+        "source_url": "https://github.com/nugmanoff/DropdownTransition",
+        "preview_url": "https://raw.githubusercontent.com/nugmanoff/DropdownTransition/master/Resources/demo-default.gif",
+        "section": "animation/transition",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CalendarKit",
+        "description": "Swift calendar UI library for iOS, iPadOS and Mac Catalyst. It looks similar to the Apple Calendar app out-of-the-box, while allowing customization when needed.",
+        "source_url": "https://github.com/richardtop/CalendarKit",
+        "preview_url": "https://user-images.githubusercontent.com/8013017/30786599-1a05d3b0-a181-11e7-81fa-db6c7044bfa1.jpg",
+        "section": "calendar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "JTAppleCalendar",
+        "description": "The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable.",
+        "source_url": "https://github.com/patchthecode/JTAppleCalendar",
+        "preview_url": "https://cloud.githubusercontent.com/assets/2439146/20638185/d708d542-b353-11e6-8119-fa36c11b66cb.gif",
+        "section": "calendar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "DateTimePicker",
+        "description": "A nicer iOS UI component for picking date and time.",
+        "source_url": "https://github.com/itsmeichigo/DateTimePicker",
+        "preview_url": "https://raw.githubusercontent.com/itsmeichigo/DateTimePicker/master/screenshot.png",
+        "section": "calendar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CVCalendar",
+        "description": "A custom visual calendar for iOS 8+ written in Swift.",
+        "source_url": "https://github.com/CVCalendar/CVCalendar",
+        "preview_url": "https://raw.githubusercontent.com/CVCalendar/CVCalendar/master/Screenshots/Demo_grey.gif",
+        "section": "calendar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Cards",
+        "description": "Awesome iOS 11 appstore cards in swift 5.",
+        "source_url": "https://github.com/PaoloCuscela/Cards",
+        "preview_url": "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png",
+        "section": "cards",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Koloda",
+        "description": "KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.",
+        "source_url": "https://github.com/Yalantis/Koloda",
+        "preview_url": "https://raw.githubusercontent.com/Yalantis/Koloda/master/Koloda_v2_example_animation.gif",
+        "section": "cards",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TisprCardStack",
+        "description": "Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI.",
+        "source_url": "https://github.com/tispr/tispr-card-stack",
+        "preview_url": "https://raw.githubusercontent.com/tispr/tispr-card-stack/master/Screenshot_main.gif",
+        "section": "cards",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CardParts",
+        "description": "A reactive, card-based UI framework built on `UIKit` for iOS developers.",
+        "source_url": "https://github.com/intuit/CardParts",
+        "preview_url": "https://raw.githubusercontent.com/Intuit/CardParts/master/images/mintsights.gif",
+        "section": "cards",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "folding-cell",
+        "description": "Expanding content cell with animation inspired by folding paper card material design.",
+        "source_url": "https://github.com/Ramotion/folding-cell",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif",
+        "section": "cards",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "cardslider",
+        "description": "Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.",
+        "source_url": "https://github.com/Ramotion/cardslider",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif",
+        "section": "cards",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "expanding-collection",
+        "description": "ExpandingCollection is an animated material design UI card peek/pop controller.",
+        "source_url": "https://github.com/Ramotion/expanding-collection",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif",
+        "section": "cards",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "VerticalCardSwiper",
+        "description": "A marriage between the Shazam Discover UI and Tinder, built with `UICollectionView` in Swift.",
+        "source_url": "https://github.com/JoniVR/VerticalCardSwiper",
+        "preview_url": "https://raw.githubusercontent.com/JoniVR/VerticalCardSwiper/master/example.gif",
+        "section": "cards",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "DOFavoriteButton",
+        "description": "Cute Animated Button written in Swift. It could be just right for favorite buttons.",
+        "source_url": "https://github.com/okmr-d/DOFavoriteButton",
+        "preview_url": "https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TVButton",
+        "description": "Recreating the cool parallax icons from Apple TV as iOS `UIButton` in Swift.",
+        "source_url": "https://github.com/marmelroy/TVButton",
+        "preview_url": "https://camo.githubusercontent.com/fadb2b07c4e04e35288c3625f389f5d961fc10b9/687474703a2f2f692e67697068792e636f6d2f785469546e43714c35617259485739324c752e676966",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TransitionButton",
+        "description": "`UIButton` sublass for loading and transition animation.",
+        "source_url": "https://github.com/AladinWay/TransitionButton",
+        "preview_url": "https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "WCLShineButton",
+        "description": "This is a UI lib for iOS. Effects like shining.",
+        "source_url": "https://github.com/imwcl/WCLShineButton",
+        "preview_url": "https://raw.githubusercontent.com/imwcl/WCLShineButton/master/DemoGif.gif",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "ButtonProgressBar-iOS",
+        "description": "A small and flexible (well documented) UIButton subclass with animated loading progress, and completion animation.",
+        "source_url": "https://github.com/thePsguy/ButtonProgressBar-iOS",
+        "preview_url": "https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "LiquidFloatingActionButton",
+        "description": "Material Design Floating Action Button in liquid state.",
+        "source_url": "https://github.com/yoavlt/LiquidFloatingActionButton",
+        "preview_url": "https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Loady",
+        "description": "This is a small library to show loading and indicator in `UIButton`, with fully customizable styles. there are 6 different styles, you can set the colors from interface builder or programmatically.",
+        "source_url": "https://github.com/farshadjahanmanesh/loady",
+        "preview_url": "https://raw.githubusercontent.com/farshadjahanmanesh/loady/master/loady/examples/_gif.gif",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CocoaButton",
+        "description": "Interactive UIButton with loading capability.",
+        "source_url": "https://github.com/edgar-zigis/CocoaButton",
+        "preview_url": "https://raw.githubusercontent.com/edgar-zigis/CocoaButton/master/sample.gif",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "QBIndicatorButton",
+        "description": "Simple way to display activity indicator inside the button.",
+        "source_url": "https://github.com/sjc-bui/QBIndicatorButton",
+        "section": "control/button",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TKRubberIndicator",
+        "description": "A rubber animation page control.",
+        "source_url": "https://github.com/TBXark/TKRubberIndicator",
+        "preview_url": "https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif",
+        "section": "control/segmented-control",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "PinterestSegment",
+        "description": "A Pinterest-like segment control with masking animation.",
+        "source_url": "https://github.com/TBXark/PinterestSegment",
+        "preview_url": "https://raw.githubusercontent.com/TBXark/PinterestSegment/master/Example/demo.gif",
+        "section": "control/segmented-control",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TwicketSegmentedControl",
+        "description": "Custom `UISegmentedControl` replacement for iOS, written in Swift.",
+        "source_url": "https://github.com/twicketapp/TwicketSegmentedControl",
+        "preview_url": "https://cloud.githubusercontent.com/assets/7887319/18714404/e77e7588-8015-11e6-939b-25f187a8b4d0.gif",
+        "section": "control/segmented-control",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SJFluidSegmentedControl",
+        "description": "A segmented control with custom appearance and interactive animations. Written in Swift 3.0.",
+        "source_url": "https://github.com/sasojadrovski/SJFluidSegmentedControl",
+        "preview_url": "https://raw.githubusercontent.com/sasojadrovski/SJFluidSegmentedControl/master/Screenshots/sample.gif",
+        "section": "control/segmented-control",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "JXSegmentedView",
+        "description": "A powerful and easy to use segmented view: segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview.",
+        "source_url": "https://github.com/pujiaxin33/JXSegmentedView",
+        "preview_url": "https://raw.githubusercontent.com/pujiaxin33/JXExampleImages/master/JXSegmentedView/Indicator/LineLengthen.gif",
+        "section": "control/segmented-control",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "HGCircularSlider",
+        "description": "A custom reusable circular / progress slider control for iOS application.",
+        "source_url": "https://github.com/HamzaGhazouani/HGCircularSlider",
+        "preview_url": "https://raw.githubusercontent.com/HamzaGhazouani/HGCircularSlider/master/Screenshots/Bedtime.gif",
+        "section": "control/slider",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "AGCircularPicker",
+        "description": "Helpful component for creating a controller aimed to manage any calculated parameter.",
+        "source_url": "https://github.com/agilie/AGCircularPicker",
+        "preview_url": "https://camo.githubusercontent.com/36324d7e99482ec072b76b81923a6aae46fc26c6/68747470733a2f2f6a2e676966732e636f6d2f35384e444e4b2e676966",
+        "section": "control/slider",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Fluid Slider",
+        "description": "A slider widget with a popup bubble displaying the precise value selected. Swift UI library.",
+        "source_url": "https://github.com/Ramotion/fluid-slider",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/fluid-slider/master/fluid-slider.gif",
+        "section": "control/slider",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "balloon-picker",
+        "description": "Custom picker view with floating balloon animation.",
+        "source_url": "https://github.com/Cuberto/balloon-picker",
+        "preview_url": "https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif",
+        "section": "control/slider",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "GMStepper",
+        "description": "A stepper with a sliding label in the middle.",
+        "source_url": "https://github.com/gmertk/GMStepper",
+        "preview_url": "https://raw.githubusercontent.com/gmertk/GMStepper/master/Screenshots/screenshot_1.gif",
+        "section": "control/slider",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "GaugeSlider",
+        "description": "Highly customizable GaugeSlider designed for a Smart Home app. Featured at Medium.",
+        "source_url": "https://github.com/edgar-zigis/GaugeSlider",
+        "preview_url": "https://raw.githubusercontent.com/edgar-zigis/GaugeSlider/master/sampleGif.gif",
+        "section": "control/slider",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TKSwitcherCollection",
+        "description": "An animation switch collection.",
+        "source_url": "https://github.com/TBXark/TKSwitcherCollection",
+        "preview_url": "https://raw.githubusercontent.com/TBXark/TKSwitcherCollection/master/Images/liquid.gif",
+        "section": "control/switch",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "RAMPaperSwitch",
+        "description": "Swift material design UI module which paints over the parent view when the switch is turned on. iOS library.",
+        "source_url": "https://github.com/Ramotion/paper-switch",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/paper-switch/master/paper-switch.gif",
+        "section": "control/switch",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "AIFlatSwitch",
+        "description": "Nicely animated flat design switch alternative to `UISwitch`.",
+        "source_url": "https://github.com/cocoatoucher/AIFlatSwitch",
+        "preview_url": "https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif",
+        "section": "control/switch",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "MJMaterialSwitch",
+        "description": "A Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift.",
+        "source_url": "https://github.com/JaleelNazir/MJMaterialSwitch",
+        "preview_url": "https://raw.githubusercontent.com/JaleelNazir/MJMaterialSwitch/master/MJMaterialSwitch.png",
+        "section": "control/switch",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Reel Search",
+        "description": "UI controller that allows you to choose options from a list. Swift UI library.",
+        "source_url": "https://github.com/Ramotion/reel-search",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/reel-search/master/reel-search.gif",
+        "section": "control/text-field",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SkyFloatingLabelTextField",
+        "description": "A beautiful and flexible text field control implementation of Float Label Pattern. Written in Swift.",
+        "source_url": "https://github.com/Skyscanner/SkyFloatingLabelTextField",
+        "section": "control/text-field",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "TextFieldEffects",
+        "description": "Custom `UITextFields` effects inspired by Codrops, built using Swift.",
+        "source_url": "https://github.com/raulriera/TextFieldEffects",
+        "preview_url": "https://raw.githubusercontent.com/raulriera/TextFieldEffects/master/Screenshots/Kaede.gif",
+        "section": "control/text-field",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SearchTextField",
+        "description": "`UITextField` subclass with autocompletion suggestions list.",
+        "source_url": "https://github.com/apasccon/SearchTextField",
+        "preview_url": "https://raw.githubusercontent.com/apasccon/SearchTextField/master/Example/SearchTextField/SearchTextField_Demo.gif",
+        "section": "control/text-field",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "AnimatedTextInput",
+        "description": "Animated `UITextField` and UITextView replacement for iOS.",
+        "source_url": "https://github.com/jobandtalent/AnimatedTextInput",
+        "preview_url": "https://raw.githubusercontent.com/jobandtalent/AnimatedTextInput/master/Assets/general.gif",
+        "section": "control/text-field",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CocoaTextField",
+        "description": "Apple `UITextField` created according to the Material.IO guidelines of 2019. Featured at Medium.",
+        "source_url": "https://github.com/edgar-zigis/CocoaTextField",
+        "preview_url": "https://raw.githubusercontent.com/edgar-zigis/CocoaTextField/master/sample-c.gif",
+        "section": "control/text-field",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "RSKGrowingTextView",
+        "description": "A light-weight `UITextView` subclass that automatically grows and shrinks.",
+        "source_url": "https://github.com/ruslanskorb/RSKGrowingTextView",
+        "preview_url": "https://raw.githubusercontent.com/ruslanskorb/RSKGrowingTextView/master/RSKGrowingTextViewExample/RSKGrowingTextViewExample.gif",
+        "section": "control/text-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SelectableTextView",
+        "description": "A text view that supports selection and expansion.",
+        "source_url": "https://github.com/jhurray/SelectableTextView",
+        "preview_url": "https://raw.githubusercontent.com/jhurray/SelectableTextView/master/Resources/SelectableTextViewDemo1.gif",
+        "section": "control/text-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "STTextView",
+        "description": "Light-weight library that adds a placeholder to the `UITextView`.",
+        "source_url": "https://github.com/onl1ner/STTextView",
+        "preview_url": "https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/STTextView/logo.gif",
+        "section": "control/text-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "expanding-collection",
+        "description": "ExpandingCollection is an animated material design UI card peek/pop controller. iOS library.",
+        "source_url": "https://github.com/Ramotion/expanding-collection",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/expanding-collection/master/expanding-collection.gif",
+        "section": "collection-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "gliding-collection",
+        "description": "Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller. iOS library.",
+        "source_url": "https://github.com/Ramotion/gliding-collection",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/gliding-collection/master/assets/gliding-collection.gif",
+        "section": "collection-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "cardslider",
+        "description": "Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.",
+        "source_url": "https://github.com/Ramotion/cardslider",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/cardslider/master/iOS_Card_Slider.gif",
+        "section": "collection-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "AnimatedCollectionViewLayout",
+        "description": "A `UICollectionViewLayout` subclass that adds custom transitions/animations to the `UICollectionView` without effecting your existing code.",
+        "source_url": "https://github.com/KelvinJin/AnimatedCollectionViewLayout",
+        "preview_url": "https://camo.githubusercontent.com/7b304623ffbb82b31d5c6ee02e03fffdc1d9bb84/687474703a2f2f692e696d6775722e636f6d2f6a6f4131656d422e676966",
+        "section": "collection-view/layout",
+        "adding_date": "09.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CollectionViewSlantedLayout",
+        "description": "A CollectionView Layout displaying a slanted cells.",
+        "source_url": "https://github.com/yacir/CollectionViewSlantedLayout",
+        "preview_url": "https://user-images.githubusercontent.com/2587473/34458447-9f434c8a-edd3-11e7-98b7-f32b4284268d.gif",
+        "section": "collection-view/layout",
+        "adding_date": "09.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "BouncyLayout",
+        "description": "BouncyLayout is a collection view layout that makes your cells bounce",
+        "source_url": "https://github.com/roberthein/BouncyLayout",
+        "preview_url": "https://raw.githubusercontent.com/roberthein/BouncyLayout/master/art/gifs/02.gif",
+        "section": "collection-view/layout",
+        "adding_date": "09.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SFFocusViewLayout",
+        "description": "`UICollectionViewLayout` with focused content.",
+        "source_url": "https://github.com/fdzsergio/SFFocusViewLayout",
+        "preview_url": "https://raw.githubusercontent.com/fdzsergio/SFFocusViewLayout/master/Screenshots/SFFocusViewLayout.gif",
+        "section": "collection-view/layout",
+        "adding_date": "09.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CarLensCollectionViewLayout",
+        "description": "An easy-to-use Collection View Layout for card-like animation.",
+        "source_url": "https://github.com/netguru/CarLensCollectionViewLayout",
+        "preview_url": "https://user-images.githubusercontent.com/18245585/50694808-2b795e80-103b-11e9-839d-f2d8dc533bb4.gif",
+        "section": "collection-view/layout",
+        "adding_date": "09.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "IBPCollectionViewCompositionalLayout",
+        "description": "Backport of `UICollectionViewCompositionalLayout` to earlier iOS 12.",
+        "source_url": "https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout",
+        "preview_url": "https://user-images.githubusercontent.com/40610/62560784-c29be280-b8b8-11e9-970f-d939b2713f93.gif",
+        "section": "collection-view/layout",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "liquid-swipe",
+        "description": "Transition simulates liquid when swipe to the side",
+        "source_url": "https://github.com/Cuberto/liquid-swipe",
+        "preview_url": "https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif",
+        "section": "controller",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "FloatingPanel",
+        "description": "A clean and easy-to-use floating panel UI component for iOS.",
+        "source_url": "https://github.com/SCENEE/FloatingPanel",
+        "preview_url": "https://raw.githubusercontent.com/SCENEE/FloatingPanel/master/assets/maps.gif",
+        "section": "controller",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SPLarkController",
+        "description": "Settings screen with buttons and switches",
+        "source_url": "https://github.com/ivanvorobei/SPLarkController",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
+        "section": "controller",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SPPermissions",
+        "description": "Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.",
+        "source_url": "https://github.com/ivanvorobei/SPPermissions",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPPermissions/main/Assets/Readme/latest-preview.jpg",
+        "section": "controller",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        },
+        "using_apps": [
+            {
+                "name": "Debts - Debt Tracker",
+                "url": "https://apps.apple.com/app/id1570676244"
+            }
+        ]
+    },
+    {
+        "name": "SPStorkController",
+        "description": "Now playing controller from Apple Music, Mail & Podcasts Apple's apps.",
+        "source_url": "https://github.com/ivanvorobei/SPStorkController",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPStorkController/master/Resources/Preview.gif",
+        "section": "controller",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "paper-onboarding",
+        "description": "PaperOnboarding is a material design UI slider. Swift UI library.",
+        "source_url": "https://github.com/Ramotion/paper-onboarding",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif",
+        "section": "controller",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "preview-transition",
+        "description": "SPreviewTransition is a simple preview gallery UI controller with animated tranisitions. Swift UI library.",
+        "source_url": "https://github.com/Ramotion/preview-transition",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview-transition.gif",
+        "section": "controller",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "folding-cell",
+        "description": "FoldingCell is an expanding content cell inspired by folding paper material",
+        "source_url": "https://github.com/Ramotion/folding-cell",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif",
+        "section": "controller",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "MessageKit",
+        "description": "A community-driven replacement for `JSQMessagesViewController`.",
+        "source_url": "https://github.com/MessageKit/MessageKit",
+        "preview_url": "https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png",
+        "section": "controller/messages",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "MessageViewController",
+        "description": "A SlackTextViewController replacement written in Swift for the iPhone X.",
+        "source_url": "https://github.com/GitHawkApp/MessageViewController",
+        "preview_url": "https://raw.githubusercontent.com/GitHawkApp/MessageViewController/master/animation.gif",
+        "section": "controller/messages",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "MessengerKit",
+        "description": "A UI framework for building messenger interfaces on iOS.",
+        "source_url": "https://github.com/steve228uk/MessengerKit",
+        "preview_url": "https://raw.githubusercontent.com/steve228uk/MessengerKit/master/readme-resources/screenshots/examples.png",
+        "section": "controller/messages",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "LTMorphingLabel",
+        "description": "Graceful morphing effects for `UILabel` written in Swift.",
+        "source_url": "https://github.com/lexrus/LTMorphingLabel",
+        "preview_url": "https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif",
+        "section": "label",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "GlitchLabel",
+        "description": "Glitching `UILabel` for iOS.",
+        "source_url": "https://github.com/kciter/GlitchLabel",
+        "preview_url": "https://raw.githubusercontent.com/kciter/GlitchLabel/master/Images/preview.gif",
+        "section": "label",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CountdownLabel",
+        "description": "Simple countdown `UILabel` with morphing animation, and some useful function.",
+        "source_url": "https://github.com/suzuki-0000/CountdownLabel",
+        "preview_url": "https://raw.githubusercontent.com/suzuki-0000/CountdownLabel/master/Screenshots/example01.gif",
+        "section": "label",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "MarqueeLabel",
+        "description": "A drop-in replacement for `UILabel`, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame.",
+        "source_url": "https://github.com/cbpowell/MarqueeLabel",
+        "preview_url": "https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif",
+        "section": "label",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CoreML-in-ARKit",
+        "description": "Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.",
+        "source_url": "https://github.com/hanleyweng/CoreML-in-ARKit",
+        "preview_url": "https://raw.githubusercontent.com/hanleyweng/CoreML-in-ARKit/master/post-media/giphy.gif",
+        "section": "label",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "NumberMorphView",
+        "description": "A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.",
+        "source_url": "https://github.com/me-abhinav/NumberMorphView",
+        "preview_url": "https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif",
+        "section": "label",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "ActiveLabel.swift",
+        "description": "`UILabel` drop-in replacement supporting Hashtags.",
+        "source_url": "https://github.com/optonaut/ActiveLabel.swift",
+        "section": "label",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "GuillotineMenu",
+        "description": "Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine",
+        "source_url": "https://github.com/Yalantis/GuillotineMenu",
+        "preview_url": "https://raw.githubusercontent.com/Yalantis/GuillotineMenu/master/example.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "circle-menu",
+        "description": "CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Swift UI library.",
+        "source_url": "https://github.com/Ramotion/circle-menu",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/circle-menu/master/circle-menu.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "AirBar",
+        "description": "`UIScrollView` driven expandable menu.",
+        "source_url": "https://github.com/uptechteam/AirBar",
+        "preview_url": "https://raw.githubusercontent.com/uptechteam/AirBar/master/Logo/Demo.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SPLarkController",
+        "description": "Custom transition between controllers. Settings controller for your iOS app.",
+        "source_url": "https://github.com/ivanvorobei/SPLarkController",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPLarkController/master/Resources/Preview.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "PopMenu",
+        "description": "A fully customizable popup style menu for iOS.",
+        "source_url": "https://github.com/CaliCastle/PopMenu",
+        "preview_url": "https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "ContextMenu",
+        "description": "An iOS context menu UI inspired by Things 3.",
+        "source_url": "https://github.com/GitHawkApp/ContextMenu",
+        "preview_url": "https://raw.githubusercontent.com/GitHawkApp/ContextMenu/master/images/animation.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Menu",
+        "description": "The iOS Menu.",
+        "source_url": "https://github.com/TwoLivesLeft/Menu",
+        "preview_url": "https://camo.githubusercontent.com/2b472d44a26b03ca566a822ff6e0f5636edadcd1/68747470733a2f2f636f6465612e696f2f6d656469612f6d656e752e706e67",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Segmentio",
+        "description": "Animated top/bottom segmented control written in Swift.",
+        "source_url": "https://github.com/Yalantis/Segmentio",
+        "preview_url": "https://raw.githubusercontent.com/Yalantis/Segmentio/master/Assets/animation.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Persei",
+        "description": "Animated top menu for `UITableView`, `UICollectionView`, `UIScrollView` written in Swift",
+        "source_url": "https://github.com/Yalantis/Persei",
+        "preview_url": "https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "BTNavigationDropdownMenu",
+        "description": "The elegant yet functional dropdown menu, written in Swift, appears underneath the navigation bar to display a list of defined items when a user clicks on the navigation title.",
+        "source_url": "https://github.com/PhamBaTho/BTNavigationDropdownMenu",
+        "preview_url": "https://raw.githubusercontent.com/PhamBaTho/BTNavigationDropdownMenu/master/Assets/Demo.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "FlowingMenu",
+        "description": "Interactive view transition to display menus with flowing and bouncing effects in Swift.",
+        "source_url": "https://github.com/yannickl/FlowingMenu",
+        "preview_url": "https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "fan-menu",
+        "description": "Menu with a circular layout based on Macaw.",
+        "source_url": "https://github.com/exyte/fan-menu",
+        "preview_url": "https://camo.githubusercontent.com/2b8539b723cd7c9135fa5e549c13ad5a1873622f/687474703a2f2f692e696d6775722e636f6d2f6f3674424b57362e676966",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "GooeyTabbar",
+        "description": "A gooey effect tabbar.",
+        "source_url": "https://github.com/KittenYang/GooeyTabbar",
+        "preview_url": "https://raw.githubusercontent.com/KittenYang/GooeyTabbar/master/gooeyTabbar_Temple.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SideMenu",
+        "description": "Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.",
+        "source_url": "https://github.com/jonkykong/SideMenu",
+        "preview_url": "https://raw.githubusercontent.com/jonkykong/SideMenu/master/etc/SlideOut.gif",
+        "section": "menu",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "KDCircularProgress",
+        "description": "A circular progress view with gradients written in Swift.",
+        "source_url": "https://github.com/kaandedeoglu/KDCircularProgress",
+        "preview_url": "https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif",
+        "section": "progress-indicator",
+        "adding_date": "03.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "FillableLoaders",
+        "description": "Completely customizable progress based loaders drawn using custom `CGPaths` written in Swift.",
+        "source_url": "https://github.com/polqf/FillableLoaders",
+        "preview_url": "https://raw.githubusercontent.com/polqf/FillableLoaders/master/Images/waves.gif",
+        "section": "progress-indicator",
+        "adding_date": "03.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "animated-tab-bar",
+        "description": "RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library.",
+        "source_url": "https://github.com/Ramotion/animated-tab-bar",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/animatedTabBar.gif",
+        "section": "tab-bar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "CircleBar",
+        "description": "A fun, easy-to-use tab bar navigation controller for iOS.",
+        "source_url": "https://github.com/softhausHQ/CircleBar",
+        "preview_url": "https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif",
+        "section": "tab-bar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Segmentio",
+        "description": "Animated top/bottom segmented control written in Swift.",
+        "source_url": "https://github.com/Yalantis/Segmentio",
+        "preview_url": "https://raw.githubusercontent.com/Yalantis/Segmentio/master/Assets/animation.gif",
+        "section": "tab-bar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "adaptive-tab-bar",
+        "description": "AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements. Swift UI component.",
+        "source_url": "https://github.com/Ramotion/adaptive-tab-bar",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/adaptive-tab-bar/master/adaptive_tab_bar.gif",
+        "section": "tab-bar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "ColorMatchTabs",
+        "description": "This is a Review posting app that let user find interesting places near them.",
+        "source_url": "https://github.com/Yalantis/ColorMatchTabs",
+        "preview_url": "https://raw.githubusercontent.com/Yalantis/ColorMatchTabs/master/Resources/preview.gif",
+        "section": "tab-bar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "XLPagerTabStrip",
+        "description": "Android PagerTabStrip for iOS.",
+        "source_url": "https://github.com/xmartlabs/XLPagerTabStrip",
+        "preview_url": "https://raw.githubusercontent.com/xmartlabs/XLPagerTabStrip/master/Example/youtube.gif",
+        "section": "tab-bar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Tabman",
+        "description": "A powerful paging view controller with interactive indicator bars.",
+        "source_url": "https://github.com/uias/Tabman",
+        "preview_url": "https://raw.githubusercontent.com/uias/Tabman/master/Docs/img/tm_header.png",
+        "section": "tab-bar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SwipeableTabBarController",
+        "description": "`UITabBarController` with swipe interaction between its tabs.",
+        "source_url": "https://github.com/marcosgriselli/SwipeableTabBarController",
+        "preview_url": "https://raw.githubusercontent.com/marcosgriselli/SwipeableTabBarController/master/./Resources/GIFs/SwipeableTabBarController_new.gif",
+        "section": "tab-bar",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "paper-onboarding",
+        "description": "PaperOnboarding is a material design UI slider. Swift UI library.",
+        "source_url": "https://github.com/Ramotion/paper-onboarding",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/paper-onboarding/master/paper-onboarding.gif",
+        "section": "table-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "folding-cell",
+        "description": "FoldingCell is an expanding content cell inspired by folding paper material",
+        "source_url": "https://github.com/Ramotion/folding-cell",
+        "preview_url": "https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/foldingCell.gif",
+        "section": "table-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "MYTableViewIndex",
+        "description": "A pixel perfect replacement for `UITableView` section index, written in Swift.",
+        "source_url": "https://github.com/mindz-eye/MYTableViewIndex",
+        "preview_url": "https://camo.githubusercontent.com/3c789faf45e094fca7cb665567f80112350a3981/68747470733a2f2f7261772e6769746875622e636f6d2f6d696e647a2d6579652f4d595461626c6556696577496e6465782f6d61737465722f53637265656e73686f74732f686967686c69676874696e672e676966",
+        "section": "table-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "SwipeCellKit",
+        "description": "Swipeable `UITableViewCell` and `UICollectionViewCell` based on the stock Mail.app, implemented in Swift.",
+        "source_url": "https://github.com/SwipeCellKit/SwipeCellKit",
+        "preview_url": "https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif",
+        "section": "table-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "RHPreviewCell",
+        "description": "I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own one. Now you can give your users ability to quick check \"what content is hidden under your UITableViewCell\". Great think is that this Library not requires 3D Touch support from user device",
+        "source_url": "https://github.com/robertherdzik/RHPreviewCell",
+        "preview_url": "https://raw.githubusercontent.com/robertherdzik/RHPreviewCell/master/ReadmeAssets/demo.gif",
+        "section": "table-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "HGPlaceholders",
+        "description": "Nice library to show placeholders and Empty States for any `UITableView` or `UICollectionView` in your project.",
+        "source_url": "https://github.com/HamzaGhazouani/HGPlaceholders",
+        "preview_url": "https://raw.githubusercontent.com/HamzaGhazouani/HGPlaceholders/master/Screenshots/default.gif",
+        "section": "table-view",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "Loafjet",
+        "description": "Loafjet is a lightweight custom framework used to add Loafs, Dash Board, Popup Card, and Loading indicator in your Swift project.",
+        "source_url": "https://github.com/Loafjet/Loafjet",
+        "preview_url": "https://user-images.githubusercontent.com/56252259/126109733-abb5be9d-c6cb-40c5-900e-07405e4852f7.gif",
+        "section": "alert",
+        "adding_date": "19.07.2021",
+        "who_added": {
+            "name": "Gokul R Nair",
+            "url": "https://github.com/gokulnair2001"
+        }
+    },
+    {
+        "name": "SPConfetti",
+        "description": "Show the confetti only when the user is having fun, and if not having fun, don't show it.",
+        "source_url": "https://github.com/ivanvorobei/SPConfetti",
+        "preview_url": "https://raw.githubusercontent.com/ivanvorobei/SPConfetti/main/Assets/Readme/latest-preview.jpg",
+        "section": "animation/effects",
+        "adding_date": "19.07.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "ConfettiKit",
+        "description": "A custom framework to add Confetti on iOS/iPadOS projects.",
+        "source_url": "https://github.com/gokulnair2001/ConfettiKit",
+        "preview_url": "https://user-images.githubusercontent.com/56252259/126186797-01dd53e1-8861-4f4d-a44d-69b8f0bbfc1e.gif",
+        "section": "animation/effects",
+        "adding_date": "19.07.2021",
+        "who_added": {
+            "name": "Gokul R Nair",
+            "url": "https://github.com/gokulnair2001"
+        }
+    },
+    {
+        "name": "MKRingProgressView",
+        "description": "Ring progress view similar to Activity app on Apple Watch.",
+        "source_url": "https://github.com/maxkonovalov/MKRingProgressView",
+        "preview_url": "https://raw.githubusercontent.com/maxkonovalov/MKRingProgressView/master/MKRingProgressView.png",
+        "section": "progress-indicator",
+        "adding_date": "08.08.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "STDiscreteSlider",
+        "description": "Slider which allows user to choose value only from predefined set of data.",
+        "source_url": "https://github.com/onl1ner/STDiscreteSlider",
+        "preview_url": "https://github.com/onl1ner/onl1ner/blob/master/Resources/STDiscreteSlider/Examples.png?raw=true",
+        "section": "control/slider",
+        "adding_date": "27.07.2021",
+        "who_added": {
+            "name": "Tamerlan Satualdypov",
+            "url": "https://github.com/onl1ner"
+        }
+    }
+]
