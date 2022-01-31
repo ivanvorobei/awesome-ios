@@ -1,12 +1,3 @@
-[![https://github.com/ivanvorobei](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/readme-preview.svg)](https://github.com/ivanvorobei)
-
-A collaborative list of awesome **UI & Animation** in Swift. Inclue frameworks and libraries. Soon add tutorials, Xcode extensions and plugins, components and much more.  
-Use for search by ![](https://github.com/ivanvorobei/awesome-ios-ui/blob/main/Assets/Search%20Shortcut.svg) keyword. Also available navigation. To open preview, to the right of the project click on the point `•`
-
-If you like the project, don't forget to `put star ★` and follow me on GitHub:
-
-[![https://github.com/ivanvorobei](https://github.com/ivanvorobei/Readme/blob/main/Buttons/follow-me-ivanvorobei.svg)](https://github.com/ivanvorobei)
-
 ## Navigate
 
 - [Activity Indicator](#activity-indicator)
@@ -266,10 +257,3 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 * [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable `UITableViewCell` and `UICollectionViewCell` based on the stock Mail.app, implemented in Swift. [•](https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif)
 * [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) - I envied so much Spotify iOS app this great playlist preview cell, I decided to create my own one. Now you can give your users ability to quick check "what content is hidden under your UITableViewCell". Great think is that this Library not requires 3D Touch support from user device [•](https://raw.githubusercontent.com/robertherdzik/RHPreviewCell/master/ReadmeAssets/demo.gif)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any `UITableView` or `UICollectionView` in your project. [•](https://raw.githubusercontent.com/HamzaGhazouani/HGPlaceholders/master/Screenshots/default.gif)
-
-## Russian Community
-
-В телеграм-канале [Код Воробья](https://sparrowcode.by/telegram) пишу о iOS разработке. Помощь можно найти в [нашем чате](https://sparrowcode.by/telegram/chat).
-Видео-туториалы выклыдываю на [YouTube](https://sparrowcode.by/youtube):
-
-[![Tutorials on YouTube](https://cdn.ivanvorobei.by/github/readme/youtube-preview.jpg)](https://sparrowcode.by/youtube)
