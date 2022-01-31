@@ -2068,5 +2068,18 @@
           "name" : "Tamerlan Satualdypov",
           "url" : "https://github.com/onl1ner"
       }
+   },
+   {
+      "name" : "TabBar",
+      "description" : "Highly customizable tab bar for your SwiftUI application.",
+      "source_url" : "https://github.com/onl1ner/TabBar",
+      "preview_url" : "https://raw.githubusercontent.com/onl1ner/onl1ner/master/Resources/TabBar/Showcase.png",
+      "section_id" : "tab-bar",
+      "category_id" : "ui",
+      "adding_date" : "31.01.2022",
+      "who_added" : {
+          "name" : "Tamerlan Satualdypov",
+          "url" : "https://github.com/onl1ner"
+      }
    }
 ]
