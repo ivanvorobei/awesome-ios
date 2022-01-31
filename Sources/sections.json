@@ -1,0 +1,169 @@
+[
+    {
+        "id" : "ui",
+        "name" : "UI",
+        "sections" : [
+            {
+                "id" : "activity-indicator",
+                "name" : "Activity Indicator",
+                "related_uikit_classes" : ["UIActivityIndicatorView"],
+                "description" : "A view that shows that a task is in progress.",
+                "sections" : [
+                    {
+                        "id" : "skeleton",
+                        "name" : "Skeleton",
+                        "related_uikit_classes" : [],
+                        "description" : "While the processes are working, usually developers place a loading view to show users that something is going on and prepare them for which contents are waiting."
+                    },
+                ]
+            },
+            {
+                "id" : "action-sheet",
+                "name" : "Action Sheet",
+                "related_uikit_classes" : ["UIAlertController"],
+                "description" : "An action sheet is a specific style of alert that presents two or more choices related to the current context."
+            },
+            {
+                "id" : "alert",
+                "name" : "Alert",
+                "related_uikit_classes" : ["UIAlertController"],
+                "description" : "Alerts convey important information related to the state of your app or the device, and often request feedback."
+            },
+            {
+                "id" : "animation",
+                "name" : "Animation",
+                "related_uikit_classes" : ["UIView"],
+                "description" : "List of animations.",
+                "sections" : [
+                    {
+                        "id" : "effects",
+                        "name" : "Effects",
+                        "related_uikit_classes" : ["CGAffineTransform"],
+                        "description" : "List of ready-use effects."
+                    },
+                    {
+                        "id" : "transition",
+                        "name" : "Transition",
+                        "related_uikit_classes" : ["CGAffineTransform"],
+                        "description" : "List of animation transitions."
+                    }
+                ]
+            },
+            {
+                "id" : "calendar",
+                "name" : "Calendar",
+                "related_uikit_classes" : ["UIViewController"],
+                "description" : "List of components and ready-use calendars."
+            },
+            {
+                "id" : "cards",
+                "name" : "Cards",
+                "related_uikit_classes" : [],
+                "description" : "List of cards."
+            },
+            {
+                "id" : "control",
+                "name" : "Control",
+                "related_uikit_classes" : ["UIControl"],
+                "description" : "Visual elements that convey a specific action or intention in response to user interactions.",
+                "sections" : [
+                    {
+                        "id" : "button",
+                        "name" : "Button",
+                        "related_uikit_classes" : ["UIButton"],
+                        "description" : "A control that executes your custom code in response to user interactions."
+                    },
+                    {
+                        "id" : "segmented-control",
+                        "name" : "Segment Control",
+                        "related_uikit_classes" : ["UISegmentedControl"],
+                        "description" : "A control that consists of multiple segments, each segment functioning as a discrete button."
+                    },
+                    {
+                        "id" : "slider",
+                        "name" : "Slider",
+                        "related_uikit_classes" : ["UISlider"],
+                        "description" : "A control for selecting a single value from a continuous range of values."
+                    },
+                    {
+                        "id" : "switch",
+                        "name" : "Switch",
+                        "related_uikit_classes" : ["UISwitch"],
+                        "description" : "A control that offers a binary choice, such as on/off."
+                    },
+                    {
+                        "id" : "text-field",
+                        "name" : "Text Field",
+                        "related_uikit_classes" : ["UITextField"],
+                        "description" : "An object that displays an editable text area in your interface."
+                    },
+                    {
+                        "id" : "text-view",
+                        "name" : "Text View",
+                        "related_uikit_classes" : ["UITextView"],
+                        "description" : "A scrollable, multiline text region."
+                    },
+                ]
+            },
+            {
+                "id" : "collection-view",
+                "name" : "Collection View",
+                "related_uikit_classes" : ["UICollectionView", "UIScrollView"],
+                "description" : "An object that manages an ordered collection of data items and presents them using customizable layouts.",
+                "sections" : [
+                    {
+                        "id" : "layout",
+                        "name" : "Layout",
+                        "related_uikit_classes" : ["UICollectionViewFlowLayout"],
+                        "description" : "An object that manages an ordered collection of data items and presents them using customizable layouts."
+                    }
+                ]
+            },
+            {
+                "id" : "controller",
+                "name" : "Controller",
+                "related_uikit_classes" : ["UIViewController"],
+                "description" : "An object that manages a view hierarchy for your UIKit app.",
+                "sections" : [
+                    {
+                        "id" : "messages",
+                        "name" : "Messages",
+                        "related_uikit_classes" : [],
+                        "description" : "Replicate messages controller with message views."
+                    }
+                ]
+            },
+            {
+                "id" : "label",
+                "label" : "label",
+                "name" : "Label",
+                "related_uikit_classes" : ["UILabel"],
+                "description" : "A view that displays one or more lines of informational text."
+            },
+            {
+                "id" : "menu",
+                "name" : "Menu",
+                "related_uikit_classes" : [],
+                "description" : "List of menus."
+            },
+            {
+                "id" : "progress-indicator",
+                "name" : "Progress Indicator",
+                "related_uikit_classes" : ["UIProgressView"],
+                "description" : "A view that depicts the progress of a task over time."
+            },
+            {
+                "id" : "tab-bar",
+                "name" : "Tab Bar",
+                "related_uikit_classes" : ["UITabBar"],
+                "description" : "A control that displays one or more buttons in a tab bar for selecting between different subtasks, views, or modes in an app."
+            },
+            {
+                "id" : "table-view",
+                "name" : "Table View",
+                "related_uikit_classes" : ["UITableView"],
+                "description" : "A view that presents data using rows in a single column."
+            }
+        ]
+    }
+]
