@@ -1,5 +1,14 @@
 [
     {
+        "url": "https://github.com/ninjaprox/NVActivityIndicatorView",
+        "preview_url": "https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif",
+        "adding_date": "18.06.2021",
+        "who_added": {
+            "name": "Ivan Vorobei",
+            "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
         "name": "NVActivityIndicatorView",
         "description": "Collection of nice loading animations.",
         "source_url": "https://github.com/ninjaprox/NVActivityIndicatorView",

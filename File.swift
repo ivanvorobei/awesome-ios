@@ -1,1 +1,1 @@
-print("https://github.com/sparrowcode")
+print("https://github.com/sparrowcode/awesome-ios")
