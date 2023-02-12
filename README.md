@@ -56,6 +56,7 @@
 
 ### Alert
 
+* [JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - Highly customizable & feature rich notifications displayed below the status bar. iOS 13+. Swift ready!
 * [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI. [•](https://raw.githubusercontent.com/ivanvorobei/SPAlert/main/Assets/Readme/Animatable/Done.gif)
 * [SPIndicator](https://github.com/ivanvorobei/SPIndicator) - Floating indicator, mimicrate to indicator which appear when silent mode turn on / off. Support large texts. [•](https://raw.githubusercontent.com/ivanvorobei/SPIndicator/main/Assets/Readme/preview-v1.jpg)
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert View written in Swift, which can be used as a `UIAlertView` or `UIAlertController` replacement. [•](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)
@@ -75,6 +76,7 @@
 * [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS in Swift. [•](https://cloud.githubusercontent.com/assets/6288713/25148841/31245f10-2474-11e7-927d-4045fb88ad52.gif)
 * [Ease](https://github.com/roberthein/Ease) - Ease is an event driven animation system that combines the observer pattern with custom spring animations as observers. [•](https://raw.githubusercontent.com/roberthein/Ease/master/Art/header.gif)
 * [fluid-interfaces](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces". [•](https://raw.githubusercontent.com/nathangitter/fluid-interfaces/master/Resources/calcdemo.gif)
+* [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - Animated analog flip numbers like airport/train-station displays (Swift/SwiftUI ready)
 
 ### Effects
 
