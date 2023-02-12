@@ -204,6 +204,18 @@
         }
     },
     {
+        "name": "JDStatusBarNotification",
+        "description": "Highly customizable & feature rich notifications displayed below the status bar. iOS 13+. Swift ready!",
+        "source_url": "https://github.com/calimarkus/JDStatusBarNotification",
+        "preview_url": "https://user-images.githubusercontent.com/807039/173831886-d7c8cca9-9274-429d-b924-78f21a4f6092.jpg",
+        "section": "alert",
+        "adding_date": "12.02.2023",
+        "who_added": {
+            "name": "Markus Emrich",
+            "url": "https://github.com/calimarkus"
+        }
+    },
+    {
         "name": "SPAlert",
         "description": "Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.",
         "source_url": "https://github.com/ivanvorobei/SPAlert",
@@ -393,6 +405,18 @@
         "who_added": {
             "name": "Ivan Vorobei",
             "url": "https://github.com/ivanvorobei"
+        }
+    },
+    {
+        "name": "JDFlipNumberView",
+        "description": "Animated analog flip numbers like airport/train-station displays (Swift/SwiftUI ready)",
+        "source_url": "https://github.com/calimarkus/JDFlipNumberView",
+        "preview_url": "https://user-images.githubusercontent.com/807039/169300625-9421b845-14c7-42c0-a00a-f4b8d97cce03.gif",
+        "section": "animation",
+        "adding_date": "12.02.2023",
+        "who_added": {
+            "name": "Markus Emrich",
+            "url": "https://github.com/calimarkus"
         }
     },
     {
